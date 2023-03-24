@@ -144,7 +144,7 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
-https://cu.onliv3.com/livevd/user1.m3u8
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg" group-title="General",LATINA HD (720p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
