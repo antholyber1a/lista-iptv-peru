@@ -17,6 +17,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV HD (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live-flujo2_720p30.m3u8
+
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
@@ -31,6 +34,9 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asuncion TV (720p) [Not 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Best Cable Peru (720p) [Not 24/7]
+https://ca2.inka.net.pe/NoRobar-Mas-Cum-010021001120/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -144,7 +150,7 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+https://cu.onliv3.com/livevd/user1.m3u8
 
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg" group-title="General",LATINA HD (720p)
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -194,8 +200,19 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV (Satipo) [Not 24/7]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png" group-title="General",N Mas tv (Mexico) (540p)
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
+
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png" group-title="General",N Mas tv (Mexico) (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8
+
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://pbs.twimg.com/profile_images/1508304729473957888/KybUKjtU_400x400.jpg" group-title="General",N Mas Media tv (Mexico) (540p)
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
+
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://pbs.twimg.com/profile_images/1508304729473957888/KybUKjtU_400x400.jpg" group-title="General",N Mas Media HD tv (Mexico) (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV [Not 24/7]
-https://live.obslivestream.com/norselvatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
@@ -445,8 +462,7 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmj2QH22ChvdH7jgS_0eXcjLJPgTgSR53UeZd7OO_w7PP)/dm/3/x7x4dgx/s/live-1.m3u8
-
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmvE4hx8SedSOe_78hK8hWCpw7xIw-oVf_FiWL3ot7iun)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
