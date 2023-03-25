@@ -17,6 +17,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV HD (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live-flujo2_720p30.m3u8
+
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
@@ -55,9 +58,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (Series Koreanas) (1080p)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNCDigital.pe" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="General",CNC Digital
 https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
@@ -136,6 +136,9 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 tvg-id="supertelevisionhd.net" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" group-title="Documentales",History Channel (360p)
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYFMg5w76oVopAXdc4rAYksJizDkJ4rOZ6LHzLADgXbOnQ6_0yaTefGTOeOSs5JWTov-bxr6HzT443ZBdxI75TK1lmsTZ2Jn5vW4Nn4M_6yWWVYU-_GOkUFf6NnvNR2ZXluvAQ5yWUpop6sCBe_QliLkabAu0MEr_tuIhVGmIwNi0yfkjsRJsVDbSkFwWTcyjs_J_hkIgghz5a5iFUBc-V2LOFREC97djQElf-HPFfXLHZbU1uCoVhXhUvvPZR85t1fshK5jfVc3boKoBRwKFNHRHvCXeVhYLPPIaNdlLUK46EdJPoQUXd_GtbYdrLemrOhFiIF4iq8h5Uj83hHdMEuAYGg7hoZE_alAksSNE2b5gyyCRR1kHDfhdmdVPUKl4MdtVPa83T0vP5sEp69OEi3VIIscG5a6neTAvmy07DODNi28_izkW3Gm7L0qNWQD3sDX7J8qnNLGevfFXrd3Xh0haQ3XICBRKC_OGc26WSUNGjaIUGb8COAeSSa59glP2rtdQVON951UZtPcEqBa1WVoT-WvlI7k-9-bwD7sBLZfeVw7O1unV3-IscuUMF3HywM2rbchX9TaFz-wJI5LO4ymIcvA9lPj0ZTmS1uTs1nFdDFPVFWfbCaZq6awAw77PAh6zUVS5ZG7LW_U4gw-YcShaa7WMdlkJTVo9wBPGhLaENPkzGJNXiCylAjlMWv0zjQKtLUrcru2_58IT4BoJNCDBnwTMnUzcQDm9WRv95q6i1qKk2sFvn4PfzqIlZCmqhJjF4BsvSw8lwd7t16DIfigOs0w4PYXKQgwtreWQDiz7Iqp2haKPBPAmB180Uguw9ctjO6GWDy4eAWpA39KqI8n4IR31x74rtxhmE6yGrKpt96TZ9hC0QaDALyXcBGHyxLdKnRtSABKglldS13ZXN0LTIwlgY.m3u8
 
 #EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo (480p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
@@ -366,6 +369,9 @@ https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
 #EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Camana (720p)
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
+#EXTINF:-1 tvg-id="supertelevisionhd.net" tvg-logo="https://4.bp.blogspot.com/-RANxlmCcfZA/WotiV23xrVI/AAAAAAAAAao/e5QwHVmzjoA6C4ws7wc2oQt5NcHq6r9vwCLcBGAs/s1600/telemundo.png" group-title="Undefined",Telemundo (Mexico) (720p)
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpgF6pRPwXvaE2uwAfACt2QGud3eUUS-jvWj9B6D8DmNpoPa0NBrT58jDhLbfM1e4mNwoP2K37HZjHjDOWOsm3dwG0sg9Nu1Ukdd8DQgXd7LSH0KL-VPnhj_2_WDJEloFJl4a6IUXhdlrbbQ-IaFYPaGhtslPJgRnOjshns_YzKXIqKF2SAY3U7kaj0Cgb-mKXlj9lsP6CC9usYGvz56FSFMKNb59mhULjNDrV29jUvp0kCeYa0z2-FfaZYJP5oH7a7LfKPlO69EJnr4n8wtrGbLvyQPhHM-pfAc81IXG7kC3K3iqfjweG2sZD4j3F5oWtVkwnhmix0osBRU-g1HTnOnPMQZf5DKwiqGOSqC57LWVRvsrt8IHZpqHMLI5LZPbl1Zl53cStCZZEbw4pkgCQ4bwo2OnvmEkbqvDdbpPIhBP_mgxSOhfAGmdj8RV81GOz1b0AsBOa663Yy-M53sUAXRjSKmQNpc_YJah8UF4jsLUvy6G7uK8d3CIRiN8TpGdQUeM3nHT4nWfmWNffy81HAgne2OSgSWmu6P0ggTFP-IxZYm0Jgolfj3Ii2dy2YNEJZRaxe1YgJ5q_VepfM67cRYT9Tj_go7jTa638b0LbDPt5Hb-Loe8aI50DzQEH8fiVLz9ycQXrDAX2FgeINMqTDXM1kY2DSqWWkhezyXf6doEZtOhSIVklxwb8EzlU80zdGO-p2eovCpk47yLsUnRulyfaG6wJW5zigMT-wgwDFF3Ma1ILlIhbQI5km5DJsROYFqpoTRNYtwCrxPgNIlML-khCxGyeVl5jfD9kp5QIMma9u0yP3tY0EzrkRPxHAddpG94Czj6GSJUeWtl1bFb0Xy_Djw8_UeATe6_aTVzFPPIUMAnVBf_-M07RoMGXh5vDh1gjqOFjTMIAEqCWV1LXdlc3QtMjCWBg.m3u8
 
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Televisión Tarapoto (720p) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
