@@ -7,6 +7,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=QiPvFy8wUHOtBu7PrXGi7j2c2vESqfJV&sid=xUdYPvMBb7vMp2VuK63HsznrPxwT9buo&pid=Jm9o5nBFgpZAX22dvjnJP21SwoAw6cnb&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=2e01IIuNACLXKiAFWD0rr470UXHlYFZmyXj1EvTWeEGYecBphAGmqpEAiepHdNGFzRskf9lAJCA&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1680028466616&ot=cvF1TSSMBC6rlod_KHBPUg&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
@@ -16,9 +17,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV HD (480p) [Not 24/7]
-https://dysmuyxh5vstv.cloudfront.net/hls/live-flujo2_720p30.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
