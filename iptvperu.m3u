@@ -7,16 +7,19 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpMFYh1GUenlfYr34VfhcV5EQK9iuMRBStC8cststX1zT-UlOsCkbNG4OokVQEMOXyWlBXbDmcz7M43WaSnbtu8uyrJTDUUvgrwhkj34MePZumKqL2OR9Jq__-4h6JILh4sKWBqvS2jWB1NkTvu4rxeKhpH8ikpBzug_v2XpaQbl2LDsWOZr5N5Ud2ahrvh9aiePIG0bkVY0LIs5_DkWcwezM38tEAQ3dpE_XhWFF2R-yFcvPLf5DisKl1Gw_imcwrwq9kRVTew-o7iFc5S6liK0RQ6UhTSGvXzjKqEljVNLd6GSA8laCDjIbpd3RjGz4oZ1kFV8ly8w8qC1nsW6pis1BjXSMWoiUeIP92qLTyWZVjIeOpbTzAbzBoRE_X2P4JlZ22pZbaQDLtvJ6U_DbPnRXCqrbLjFDQ7hpVLfL_0tfvIPSYhWDQjvLQURVp-hJcF0zlu2YM6Ki9ZPVRtaT1shx5rWAUyxq90nfwbLfkPc7xpK9YLKq5N0o83rrWFA-oC1ApczU_ZTuNeEtHyVjK_lQfZPZq2CBxnMHwxf7wSVpR-brI8aPh4EN_1nLwEpjVl6ATJLOGESUnFR8NmI3EHLskBeCK_hBhreZWQJC9G24hvFU69gvpb-gajmYOTQCcRdXD0LZ_dMRZt9aY_iv3GOy1CpS4YuQ701X7GWI5FLRxXMKAwLvp3wJ_ldQHpP6SCQev2z5vlDR70byjVVMKpHf3jHPj-0pN-MMVirElTBbtFxnu3LIsevIPK4Ox3VqMgwpUPHw_p1gCZu8iOxoGlFFNVBsJt0nRCKrSL1eiy-lCh2zynfdxjYWEvw1ALXyOj4-AZyYCuZxswPTzCrtVJ3WDIlEwzpUpGO5BbzUjFxyX4JpTgaDEk1DfB0RM9r49FlPyABKglldS13ZXN0LTIwmAY.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpEFbSyZoraYnm70KXk5Kl8gsEnWo6ZZnzAg_waMJBUOsgkWgOY2HjqTJ3aPGxheYy2IfcFQhpLx7KMiYNBJj7ZAr1gjEuPnEiWdzhNebOFxIJ6FzGiGLbbj1hSR7wzQB5FAhXHPBP8mnDjZupzVjrO3M-2zMJmGZtSQ-lMzviHGxtHQ_YUMznshM-uXRfkuaUYZ_JSex6IHvv_Y_7uaDXr0_mi-CFqLc-nojYZ-B_IjS37FKuP7whkHpL2QvagUPnl73hC71OxYJCAVB5Y9gMAU0QAGFWq6sxshADPW-mXCaZALG2oJpb9wRqUvLIV5qevukK36B-r3Li20q6tKsAb2Tp7YEc14Ns1nPnqW7wgZ160Lizj4DgaQCh6h842qxhLLPBBbZrT2Qn6G5NlBTxnia8rd_ZjoIw1g0sN3Z4p0TGusv-GqS16v2tqCSBR_t4YhYx4Pr5Q5MsmJGaJdFO49ROOAVSV85m0w8mELOtrzVN2n3wLJ72JD4tC14Pl9z32DWuDeQS7G8fEuG4Eml768aC1dLv-zKNWXD8leW7YaB1cMuhAKFKlJmNy1NtGdbJx1d91k3cuVJbODv25vqLBi8RWjIr4FI-t7UunREVLhRPAGUvAZxzbowSMp4hlOIy4tqsTBTMYQglaDs8fJsuKwucyM39AcR625WgP76VU0NdlC72Rz0ItsjiaMTPvPdSmjCQza7x6OdwBg7fRWFGzMgIGwDtuMY9Ur95zHzzQ_ThFJ0k8qbonqhVEyDvfwIXREhJDx9CQX0YYwhqwrZUyD0_tO6VIfdmTf1ZerNDhA8nEb-1PL77DW1w801Jx3OaiVoKePKaR1wnVusY95JKh45aWdk-K1ZjHbm6ZGXikWzUPOGgxBbNxTT_LH_3QNOLogASoJZXUtd2VzdC0yMJgG.m3u8
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
+#http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV HD (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live-flujo2_720p30.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
@@ -136,10 +139,10 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 tvg-id="supertelevisionhd.net" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" group-title="Documentales",History Channel (360p)
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpYFMg5w76oVopAXdc4rAYksJizDkJ4rOZ6LHzLADgXbOnQ6_0yaTefGTOeOSs5JWTov-bxr6HzT443ZBdxI75TK1lmsTZ2Jn5vW4Nn4M_6yWWVYU-_GOkUFf6NnvNR2ZXluvAQ5yWUpop6sCBe_QliLkabAu0MEr_tuIhVGmIwNi0yfkjsRJsVDbSkFwWTcyjs_J_hkIgghz5a5iFUBc-V2LOFREC97djQElf-HPFfXLHZbU1uCoVhXhUvvPZR85t1fshK5jfVc3boKoBRwKFNHRHvCXeVhYLPPIaNdlLUK46EdJPoQUXd_GtbYdrLemrOhFiIF4iq8h5Uj83hHdMEuAYGg7hoZE_alAksSNE2b5gyyCRR1kHDfhdmdVPUKl4MdtVPa83T0vP5sEp69OEi3VIIscG5a6neTAvmy07DODNi28_izkW3Gm7L0qNWQD3sDX7J8qnNLGevfFXrd3Xh0haQ3XICBRKC_OGc26WSUNGjaIUGb8COAeSSa59glP2rtdQVON951UZtPcEqBa1WVoT-WvlI7k-9-bwD7sBLZfeVw7O1unV3-IscuUMF3HywM2rbchX9TaFz-wJI5LO4ymIcvA9lPj0ZTmS1uTs1nFdDFPVFWfbCaZq6awAw77PAh6zUVS5ZG7LW_U4gw-YcShaa7WMdlkJTVo9wBPGhLaENPkzGJNXiCylAjlMWv0zjQKtLUrcru2_58IT4BoJNCDBnwTMnUzcQDm9WRv95q6i1qKk2sFvn4PfzqIlZCmqhJjF4BsvSw8lwd7t16DIfigOs0w4PYXKQgwtreWQDiz7Iqp2haKPBPAmB180Uguw9ctjO6GWDy4eAWpA39KqI8n4IR31x74rtxhmE6yGrKpt96TZ9hC0QaDALyXcBGHyxLdKnRtSABKglldS13ZXN0LTIwlgY.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpQFUht9jQ-7F4Dw8d6cmz5qvn_XkvEYkLMVN0krvUltEkxbsnMOZ5wuQNiConGGUQQJ8413REWlJIsl1k0zu7vxqy6f4Ig5oZl1GHoILkHcZZr0cOzGlkCOKPlbOg1xdppB5KEdEHHVHG_g_mmlnak5l1TI_wjWppm2w0UwxYWZm7CZ2uO_o6hTTHsrw7mak2_onamqdN064ycEKjHeFz8UfdoD73BP2FeJsN2T7lDrKqdfAJDh6Zv-XZrZgJjOBaOAhWnzqk_knM8GH4-ZAuZOk6DqVVMbKhjdzTKH_G6-DuZllBu2ynpaz3ZHv8Im6E21SXXUeuR4SrkbAs4lMNpuwfxf0y87u3Y4R3QljVy8BorcTzH61PkI3iDVhfpC9BGcNDtVR3iGmTJtC9n-vnDGTqo4dNBBDk9Wsr3ZMp6v-QZPaC9qOK1JV56hasHP4JMH4GCPLX_q3hbW94Mhpjwy7s7oM3X5jC97HQ4eCyoT7SUx72McXIWJb0qJ1JmKSNOe9qLkoFulvGSUBQZ_-6dTqkr7R382FdYTIISdFMrBwcXhyT6SpYGNi9V5w7LR2zik9__H6Du27IKt0-D34Sa8GjJSQFRosDVE02qNo4Atf7ARD8ewClCOO3PcT5TlTpkyRjQ6M89GOVleFTaN1Cyryh_R5mvl8JuzaWvS_mHPKBpyyx-qMHjOmB--ZTYkG3qSixhIW8Z3X1PhyIC3PVwXj2J4ABQndZFOgO6WSiYWHDQW6zh-hAGodZpKcodN1_Ptz8eXq7qk1eibR7tCN-oPMT0N2AiS-s52wD0Cxth1H0k_eNXbfR3hGN_pYSyjUfsxOOKZTjBauoumzS073BPRb4WlOBUC5gOtpIBFDbranNWh9t2QGgybOTvsHJlJ7XOaaaogASoJZXUtd2VzdC0yMJgG.m3u8
 
 #EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo (480p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
+#https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
