@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
-#https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
