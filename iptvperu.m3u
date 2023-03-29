@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpEFbSyZoraYnm70KXk5Kl8gsEnWo6ZZnzAg_waMJBUOsgkWgOY2HjqTJ3aPGxheYy2IfcFQhpLx7KMiYNBJj7ZAr1gjEuPnEiWdzhNebOFxIJ6FzGiGLbbj1hSR7wzQB5FAhXHPBP8mnDjZupzVjrO3M-2zMJmGZtSQ-lMzviHGxtHQ_YUMznshM-uXRfkuaUYZ_JSex6IHvv_Y_7uaDXr0_mi-CFqLc-nojYZ-B_IjS37FKuP7whkHpL2QvagUPnl73hC71OxYJCAVB5Y9gMAU0QAGFWq6sxshADPW-mXCaZALG2oJpb9wRqUvLIV5qevukK36B-r3Li20q6tKsAb2Tp7YEc14Ns1nPnqW7wgZ160Lizj4DgaQCh6h842qxhLLPBBbZrT2Qn6G5NlBTxnia8rd_ZjoIw1g0sN3Z4p0TGusv-GqS16v2tqCSBR_t4YhYx4Pr5Q5MsmJGaJdFO49ROOAVSV85m0w8mELOtrzVN2n3wLJ72JD4tC14Pl9z32DWuDeQS7G8fEuG4Eml768aC1dLv-zKNWXD8leW7YaB1cMuhAKFKlJmNy1NtGdbJx1d91k3cuVJbODv25vqLBi8RWjIr4FI-t7UunREVLhRPAGUvAZxzbowSMp4hlOIy4tqsTBTMYQglaDs8fJsuKwucyM39AcR625WgP76VU0NdlC72Rz0ItsjiaMTPvPdSmjCQza7x6OdwBg7fRWFGzMgIGwDtuMY9Ur95zHzzQ_ThFJ0k8qbonqhVEyDvfwIXREhJDx9CQX0YYwhqwrZUyD0_tO6VIfdmTf1ZerNDhA8nEb-1PL77DW1w801Jx3OaiVoKePKaR1wnVusY95JKh45aWdk-K1ZjHbm6ZGXikWzUPOGgxBbNxTT_LH_3QNOLogASoJZXUtd2VzdC0yMJgG.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpEFEna5r2MTPFiX7Gfw-HVWjsGTYgSZUc7-gvfVanzr38F0W3WLWgVTswsbTnWcdP7_aEY_Lyj25f8uBBrzv9Wtj2IkW3tG9i-28Yoy4vOZAlwNTjZiHSlUfoQzNldEeRSLXG9ASkZpRqbg4iUKljz_0OK-mxhIoWctjLfLqml74E9EZ1S5o316vL86ZUCVuZlCXyWEHEV7mo628xMdkJNCTYuTILSFj6R8l8DrU-SFSYedAYHbXIOCpAoRSULvKfeuQYesGJjgaWPRYuMERNw7rL5C0ioWAR1gcLdeSuw74-_nkisvRYVE3tZjikWQSCTGLgVq2KYR9e6L6xJNYXpJJWu_DXP0OarLC5dD3lU26H36IADsVLfSHcrZFbAVfxJ3256k_w4pP3N1pCS1Gcz4YIMThw-Qa-b5uGaf6Pk38q_OCEkbGfDnYiOWKrEbDIE7oB6uhEWvTIjNrMcuy8-oVQihr19etj3skQiX0spSuscYoJ0PJ5fiB3HNlEZ_Gfn0PJo1SNiCEYfkvoZ_ydSroO--mROqH5UwiW_unjXw-qXY-h26_fWups_RXY_-k6v7QxtKEVBxYqd0z-Qm6wyU0DqJgpnEPfcFRD4WbCpEO9YsDlliYiArNF7wqgPPtFyZq5vXz-OKAHwul_Kx9Nms7iGD8gFmcyKwTGqayJCdkl_0ume40414AOIIaVAvNFEWB4GGCPuQjAFDfuA9QJUWO_dbYiuIoyuUxJJVzZbB7lbSjJ8dMDnR6RmUn1wo6RNmblhX9hcwZ3mEmVIyQRF2-oplZZ-gv1mlrM-cGUO-sxZm1E5X68K3URRQObFUJFCGaE5pXjVv8ttsdpZXpW1CkL3DF2_KsyberlBXtXwHGaJdGgw5QT7lIRh8TeewEr0gASoJZXUtd2VzdC0yMJoG.m3u8
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 #http://azxtv.com/hls/stream.m3u8
@@ -27,7 +27,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p) [Not 24/7]
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Animation",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asuncion TV (720p) [Not 24/7]
@@ -71,6 +71,9 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="cxtvenvivo.com/tv-en-vivo/color-vision-canal-9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="Variedades",Color Vision Canal 9 (Republica Dominicana) (720p) [Not 24/7]
+https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY56fipELVBxdpYlgH4S6DlJUD6xyBJq63E8YaBq-WW1f)/dm/3/x7gy059/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
@@ -123,6 +126,9 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="Undefined",Galicia TV América (720p)
 http://america-crtvg.flumotion.com/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cxtvenvivo.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp"Undefined",Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w728274871_b1296000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
@@ -136,7 +142,7 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 tvg-id="supertelevisionhd.net" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" group-title="Documentales",History Channel (360p)
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpQFUht9jQ-7F4Dw8d6cmz5qvn_XkvEYkLMVN0krvUltEkxbsnMOZ5wuQNiConGGUQQJ8413REWlJIsl1k0zu7vxqy6f4Ig5oZl1GHoILkHcZZr0cOzGlkCOKPlbOg1xdppB5KEdEHHVHG_g_mmlnak5l1TI_wjWppm2w0UwxYWZm7CZ2uO_o6hTTHsrw7mak2_onamqdN064ycEKjHeFz8UfdoD73BP2FeJsN2T7lDrKqdfAJDh6Zv-XZrZgJjOBaOAhWnzqk_knM8GH4-ZAuZOk6DqVVMbKhjdzTKH_G6-DuZllBu2ynpaz3ZHv8Im6E21SXXUeuR4SrkbAs4lMNpuwfxf0y87u3Y4R3QljVy8BorcTzH61PkI3iDVhfpC9BGcNDtVR3iGmTJtC9n-vnDGTqo4dNBBDk9Wsr3ZMp6v-QZPaC9qOK1JV56hasHP4JMH4GCPLX_q3hbW94Mhpjwy7s7oM3X5jC97HQ4eCyoT7SUx72McXIWJb0qJ1JmKSNOe9qLkoFulvGSUBQZ_-6dTqkr7R382FdYTIISdFMrBwcXhyT6SpYGNi9V5w7LR2zik9__H6Du27IKt0-D34Sa8GjJSQFRosDVE02qNo4Atf7ARD8ewClCOO3PcT5TlTpkyRjQ6M89GOVleFTaN1Cyryh_R5mvl8JuzaWvS_mHPKBpyyx-qMHjOmB--ZTYkG3qSixhIW8Z3X1PhyIC3PVwXj2J4ABQndZFOgO6WSiYWHDQW6zh-hAGodZpKcodN1_Ptz8eXq7qk1eibR7tCN-oPMT0N2AiS-s52wD0Cxth1H0k_eNXbfR3hGN_pYSyjUfsxOOKZTjBauoumzS073BPRb4WlOBUC5gOtpIBFDbranNWh9t2QGgybOTvsHJlJ7XOaaaogASoJZXUtd2VzdC0yMJgG.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpIFH2IloTzQsuNL8U_e5I03OjOmPRH5j43ILTi8EQCR6ia96_702yBzFYvFlQ_3tTENBdPKQMj6c51vZaWY3JfdiiRFuLiN7h3N_atiyjTRU65oGoAqhYGbvAjYFlnn9zyOPdG2MiVhnUvn40U1z9Lj_NDGlj6aGDvDfVr-Qy5wePlBnZvh2TvZxtgzZSePkS6zAENj0DxgaGwadNBFUVTkA9-bR0AB-nVTus6hFzEk8UuIgmPlIj2glpHYYLbzB-ZUCD94K2XIRzQis-ZyV-xaXVqZimLl38EEQfMtf4K4BrgUnkKDsmM2KoYGEQUSQ8zxco_8xExJiR25PQbJRMGVjubQWD3NqcYEQfAyw8fcDE9CDBRxiQmL9bHS5ONIbOvF2yPnX0xNz8yTzuqMrIc-bW3eENeMH2kUCaEsD3sBspPIFs_sXNpcxjQ0vCOvRyB326E6fBYH5PCfgy404N8r-349uQe4CrHsEJa0nxPN5-42iOjYz3JesiprWu7jmvq2bSRZWHY38ZWjfXgf8XH5n5_fhpknR_9KBFOVYym_jtSyojF7lhUyDLgCOMtpD6i7lPyiU74i7PdXAwEjGUd4MzdE2GY79XjkxhVfZWmTJooyOAWKeYYQBHObQXqzZRs9wslbmSQbqAm9pP_xLId2YQIj0M4QqUQKHnaceHs63nwy5dGvkDjQh-EknHYdUSq0QYb7itiAjp5xIAQp-iVFK5vVQliYiVEoBZOwuiNYap-idVK0aAdq84nqJyWyy6SQkXyFQVbx50F64FpNxqUI35jili4FI5l7lLMsShB6iLgxWCxWjbxA0FLU7KYH9DWQW7cFVMJJjVTk9Dfl9L-_nD0oGfPmui2qXIIqYbIimHUpShoMT16y-zsMP_4ZKxWYIAEqCWV1LXdlc3QtMjCaBg.m3u8
 
 #EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo (480p) [Not 24/7]
 #https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
@@ -161,6 +167,9 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+#EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/la-red" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1013d8e2c7b6f6ac81d9d989d197ca0b.webp" group-title="Variedades",La Red (Chile) (720p) [Not 24/7]
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 
 #EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Undefined",LimaLive
 https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
@@ -227,17 +236,20 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p) [Not 24/7]
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/onda-digital-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c619eb44474af2dc9df71538979c2f9.webp" group-title="General",Onda Digital Tv (480p) [Not 24/7]
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="OrientalTV.pe" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="General",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (720p) [Not 24/7]
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsGE5IiXt6wrXr_8schuMDK1vGW-yl0WnxZl9Xh-c5aD)/dm/3/x774s7s/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFlKK9OMU8mexzpAfaeDEQceAknZEXBK8Q1_YXcbPGSrB)/dm/3/x774s7s/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="PaxTV.pe" tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="Religious",Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
@@ -416,6 +428,9 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima (720p) [Not 24/7]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/tvs-retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Cine",TVS Retro  (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 
@@ -473,3 +488,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+
+#EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/zaz-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="General",ZAZ TV
+
+https://stream-us-east-1.getpublica.com/cl/230329cgho6i7iu3jgm5dv59j0/654x480_1716601_1_f.m3u8?i=513_1972
