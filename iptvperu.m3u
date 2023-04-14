@@ -33,8 +33,11 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asuncion TV (720p) [Not 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Best Cable Peru (720p) [Not 24/7]
-https://ca2.inka.net.pe/NoRobar-Mas-Cum-010021001120/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Music (480p) [Not 24/7]
+https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Cumbia (720p) [Not 24/7]
+https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
