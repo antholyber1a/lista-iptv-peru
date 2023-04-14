@@ -22,10 +22,10 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (480p) [Not 24/7]
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p) [Not 24/7]
-https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Animation",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
