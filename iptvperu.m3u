@@ -350,6 +350,9 @@ https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="supertelevisionhd.com" tvg-logo="https://4.bp.blogspot.com/-RANxlmCcfZA/WotiV23xrVI/AAAAAAAAAao/e5QwHVmzjoA6C4ws7wc2oQt5NcHq6r9vwCLcBGAs/s1600/telemundo.png" group-title="Cooking",Telemundo (360p)
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpcF4GndNnwqYzQnlQnqH1AMVVALEOR9X2jdF2YT7pr6BqnC7smQj9cPDqP9ntLcW1GZrkCc_jJMyj-qAAg92FMNoOynG5Pb5v41GTWugC3X7SEEp5EgD3vwn5vrZ2nLMOXOU0cPbtiLUh_UrjNs-Pejy-UDKgzKFXe6nSu4fma_JPJrtje_pLFr3s-P3dRORpZwJ--kwQXiSHspgHyImR9zvypg5_WVFKlaO5uGWqFi-vDkJh1POXQ1IEI1qxLwnV10dyxrEz_5aFCQt61IwrAB5ptF0dL3jI4md19tKoybpDde84IuKvQlTyxAjtsdYbwOsnQNld7h-WhR_VomZ0cqMjA6ML2F8xzEdiRf3u8OceFoMjJFLVKoYyOvGPBVnG3qMYsdZNt31a0faDM8Rd-ukQ2yr-rtYyCATbY8HE2MXOkRtzANTS0nilwQzACm4gb_xNSTQTb9zOxUFpUJ0chlY304PiJ0JZS8fP13VuSpnBaaEitgTe2h44zMj3EYjJCxHt3ii26dAZ-NvdaY8OFIVk6yajUtYwICNqEs2efmKDnuprpWFvY3wnpz4HkrfCmilH6yZDF-ZcZmNqBB_SpLHb_8B0Fv06eF4XQv4JCg4noKT8Pnn9pf2QYv3x-NVxSbYATLqAOoBhW3P03t9mpVaWihv3ozdNZ5-fJo7l0A4H8k3BP52DqQteDBk2mg9Ahnjearqjtvlu8b52r3enogEENM0k2fZWxVneK6rQk_494qdlGtLp2L6fdEG1iq-EztBcck3hJQq80fWEozQsrhvEqpayUjm9WhBwaQrW1dvTw3sMQ-z4ctUP7Zc5e0g3frjAo5fBQHYI-t38ryUuoxHbngBNSKjBiCzn9hBzVn-kfFGR7hSqxMGgxH0qeTny2P_XocC_wgASoJZXUtd2VzdC0yMKoG.m3u8
+
 #EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
 https://servilive.com:3176/live/cineclublive.m3u8
 
