@@ -498,8 +498,6 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/zaz-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="General",ZAZ TV
 https://stream-us-east-1.getpublica.com/cl/230414cgspncegj7tghqlgif90/654x480_2774101_2_f.m3u8?i=513_1972
 
-#EXTM3U
-
 #EXTINF:-1,ES: La 1
 http://1sn.ns1.name:18800/dani/dani1/11570
 
