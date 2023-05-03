@@ -31,7 +31,7 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
-https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu9XM4ZiJpghVJ6uyau5QrbWSXtxJQDg2oUlNt1Ifh2R)/dm/3/x7x4dgx/s/live-1.m3u8
@@ -48,7 +48,7 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
+##EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
 
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -79,9 +79,6 @@ https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (360p)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo=""Family",Canal IPe
-#https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV (Chosica) (614p)
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -485,6 +482,9 @@ https://stream-us-east-1.getpublica.com/cl/230414cgspncegj7tghqlgif90/654x480_27
 
 ##EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 ##https://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg"Family",Canal IPe (720p)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1,ES: La 1
 http://1sn.ns1.name:18800/dani/dani1/11570
