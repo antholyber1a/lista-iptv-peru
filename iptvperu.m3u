@@ -48,37 +48,37 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/200px-TCM_logo.svg.png",TCM HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1586
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/200px-TCM_logo.svg.png",TNT HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",TNT HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1584
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",XTRM FHD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://programacion.tv/images/xtrm.png",XTRM FHD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/75095
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",FOX HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://www.frecuenciageek.com/wp-content/uploads/2020/10/114832194_FOXChannel.png",FOX HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1596
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AMC HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12491
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AMC Crime FHD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png",AMC Crime FHD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/75105
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AXN HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1617
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AXN WHITE HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png",AXN WHITE HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1616
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",SYFY HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png",SYFY HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1587
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",COMEDY CENTRAL HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",COMEDY CENTRAL HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1603
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NATIONAL GEOGRAPHIC HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",NATIONAL GEOGRAPHIC HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1591
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NAT GEO WILD HD (DEMO PREMIUM)
