@@ -9,7 +9,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña HD (720p)
+#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD (720p)
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
@@ -34,7 +34,7 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmu9XM4ZiJpghVJ6uyau5QrbWSXtxJQDg2oUlNt1Ifh2R)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtitZ5VKYFhCQU6MMsAt_iehR2nlFj3n8DtwHHZv2_U6)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
@@ -56,8 +56,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Animation",Auténtica Televisión (720p)
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="VARIADO",Auténtica Televisión (720p)
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AmazonasTV.pe" tvg-logo="https://i0.wp.com/apkoll.com/wp-content/uploads/2021/01/Amazonas-Tv.png?fit=250%2C250&ssl=1" group-title="Musica",Amazonas TV (720p)
+https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asuncion TV (720p)
 https://tvdatta.com:3602/stream/play.m3u8
@@ -79,6 +82,9 @@ https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (360p)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
+#EXTINF:-1 tvg-id="CanalE.pe" tvg-logo="https://play-lh.googleusercontent.com/qpS-EfCV5TFRW3XxlUumDChroJqpuhqanGJDS1xSuEeL5zlccSp5vajfL1iPSP8lFw=w240-h480-rw" group-title="VARIADO",Canal E
+https://stream.plixitv.live/westv/westv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV (Chosica) (614p)
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -146,7 +152,7 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="cxtvenvivo.com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp"Undefined",Garage TV (480p)
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p)
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV
@@ -158,7 +164,7 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19 (720p) [Not 24/7]
@@ -170,7 +176,7 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV (720p) [Not 24/7]
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 
 #EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/la-red" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1013d8e2c7b6f6ac81d9d989d197ca0b.webp" group-title="Variedades",La Red (Chile) (720p) [Not 24/7]
@@ -516,8 +522,8 @@ http://1sn.ns1.name:18800/dani/dani1/11572
 #EXTINF:-1,ES: Canal Sur
 http://1sn.ns1.name:18800/dani/dani1/75090
 
-#EXTINF:-1,ES: TVE Internacional
-http://1sn.ns1.name:18800/dani/dani1/70811
+##EXTINF:-1,ES: TVE Internacional
+##http://1sn.ns1.name:18800/dani/dani1/70811
 
 #EXTINF:-1,ES: TV Galicia
 http://1sn.ns1.name:18800/dani/dani1/3563
@@ -656,8 +662,8 @@ http://1sn.ns1.name:18800/dani/dani1/1572
 #EXTINF:-1,ES: Canal Cocina
 http://1sn.ns1.name:18800/dani/dani1/3582
 
-#EXTINF:-1,ES: Canal Extremadura Sat
-http://1sn.ns1.name:18800/dani/dani1/75139
+##EXTINF:-1,ES: Canal Extremadura Sat
+##http://1sn.ns1.name:18800/dani/dani1/75139
 
 #EXTINF:-1,ES: DIVINITY
 http://1sn.ns1.name:18800/dani/dani1/11573
