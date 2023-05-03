@@ -90,22 +90,19 @@ http://1sn.ns1.name:18800/dani/dani1/3560
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",CRIMEN & INVESTIGATION HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12505
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DMAX HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png",DMAX HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/70809
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://www.pikpng.com/pngl/m/378-3789097_h2-channel-logo-h2-channel-clipart.png",HISTORIA HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1595
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",MTV HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12497
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV 00s HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00s HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/75134
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV 00 HD (DEMO PREMIUM)
-http://1sn.ns1.name:18800/dani/dani1/12552
-
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV ROCKS HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png",MTV ROCKS HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12554
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png",DISNEY CHANNEL HD (DEMO PREMIUM)
@@ -114,16 +111,16 @@ http://1sn.ns1.name:18800/dani/dani1/1600
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DISNEY JUNIOR HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1599
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NICKELODEON HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/320px-NICK2023.png",NICKELODEON HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1589
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NICK JUNIOR HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JUNIOR HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1590
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DREAMWORKS HD (DEMO OFFLINE)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",DREAMWORKS HD (DEMO OFFLINE)
 http://1sn.ns1.name:18800/dani/dani1/70141
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",COMEDY CENTRAL (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg",COMEDY CENTRAL (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1603
 
 ##EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
@@ -282,7 +279,7 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png" group-title="General",N Mas tv (Mexico) (540p)
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
 
-#EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://pbs.twimg.com/profile_images/1508324102939058177/L1VHCgPh_400x400.jpg" group-title="General",N Mas TV (Mexico) (540p)
+#EXTINF:-1 tvg-id="nmas.com.mx" tvg-logo="https://pbs.twimg.com/profile_images/1648471981946281984/wnraAOX6_400x400.jpg" group-title="General",N Mas Media TV (Mexico) (540p)
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
 
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV
