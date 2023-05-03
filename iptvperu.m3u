@@ -48,80 +48,83 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1,TCM HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TCM HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1586
 
-#EXTINF:-1,TNT HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",TNT HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1584
 
-#EXTINF:-1,XTRM FHD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",XTRM FHD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/75095
 
-#EXTINF:-1,FOX HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",FOX HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1596
 
-#EXTINF:-1,AMC HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AMC HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12491
 
-#EXTINF:-1,AMC Crime FHD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AMC Crime FHD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/75105
 
-#EXTINF:-1,AXN HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AXN HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1617
 
-#EXTINF:-1,AXN WHITE HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AXN WHITE HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1616
 
-#EXTINF:-1,SYFY HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",SYFY HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1587
 
-#EXTINF:-1,COMEDY CENTRAL HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",COMEDY CENTRAL HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1603
 
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NATIONAL GEOGRAPHIC HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1591
 
-#EXTINF:-1,NAT GEO WILD HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NAT GEO WILD HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/51706
 
-#EXTINF:-1,Discovery Channel HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",Discovery Channel HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/3560
 
-#EXTINF:-1,CRIMEN & INVESTIGATION HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",CRIMEN & INVESTIGATION HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12505
 
-#EXTINF:-1,DMAX HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DMAX HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/70809
 
-#EXTINF:-1,HISTORIA HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",HISTORIA HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1595
 
-#EXTINF:-1,MTV HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12497
 
-#EXTINF:-1,MTV 00s HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV 00s HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/75134
 
-#EXTINF:-1,MTV 00 HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV 00 HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12552
 
-#EXTINF:-1,MTV ROCKS HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV ROCKS HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12554
 
-#EXTINF:-1,DISNEY CHANNEL HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DISNEY CHANNEL HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1600
 
-#EXTINF:-1,DISNEY JUNIOR HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DISNEY JUNIOR HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1599
 
-#EXTINF:-1,NICKELODEON HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NICKELODEON HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1589
 
-#EXTINF:-1,NICK JUNIOR HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NICK JUNIOR HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1590
 
-#EXTINF:-1,DREAMWORKS HD (DEMO OFFLINE)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DREAMWORKS HD (DEMO OFFLINE)
 http://1sn.ns1.name:18800/dani/dani1/70141
+
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",COMEDY CENTRAL (DEMO PREMIUM)
+http://1sn.ns1.name:18800/dani/dani1/1603
 
 ##EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
 
@@ -582,14 +585,14 @@ http://1sn.ns1.name:18800/dani/dani1/73100
 #EXTINF:-1,ES: HWD HOLLYWOOD
 http://1sn.ns1.name:18800/dani/dani1/12492
 
-#EXTINF:-1,ES: TCM
-http://1sn.ns1.name:18800/dani/dani1/1586
+##EXTINF:-1,ES: TCM
+##http://1sn.ns1.name:18800/dani/dani1/1586
 
-#EXTINF:-1,ES: TNT
-http://1sn.ns1.name:18800/dani/dani1/1584
+##EXTINF:-1,ES: TNT
+##http://1sn.ns1.name:18800/dani/dani1/1584
 
-#EXTINF:-1,ES: XTRM FHD
-http://1sn.ns1.name:18800/dani/dani1/75095
+##EXTINF:-1,ES: XTRM FHD
+##http://1sn.ns1.name:18800/dani/dani1/75095
 
 #EXTINF:-1,ES: M+ #0
 http://1sn.ns1.name:18800/dani/dani1/11574
@@ -606,8 +609,8 @@ http://1sn.ns1.name:18800/dani/dani1/4886
 #EXTINF:-1,ES: M+ Sagas HD
 http://1sn.ns1.name:18800/dani/dani1/85289
 
-#EXTINF:-1,ES: FOX
-http://1sn.ns1.name:18800/dani/dani1/1596
+##EXTINF:-1,ES: FOX
+##http://1sn.ns1.name:18800/dani/dani1/1596
 
 #EXTINF:-1,ES: AMC
 http://1sn.ns1.name:18800/dani/dani1/12491
@@ -618,18 +621,18 @@ http://1sn.ns1.name:18800/dani/dani1/75105
 #EXTINF:-1,ES: AXN FHD
 http://1sn.ns1.name:18800/dani/dani1/69710
 
-#EXTINF:-1,ES: AXN
-http://1sn.ns1.name:18800/dani/dani1/1617
+##EXTINF:-1,ES: AXN
+##http://1sn.ns1.name:18800/dani/dani1/1617
 
-#EXTINF:-1,ES: AXN WHITE
-http://1sn.ns1.name:18800/dani/dani1/1616
+##EXTINF:-1,ES: AXN WHITE
+##http://1sn.ns1.name:18800/dani/dani1/1616
 
-#EXTINF:-1,ES: SYFY
-http://1sn.ns1.name:18800/dani/dani1/1587
+##EXTINF:-1,ES: SYFY
+##http://1sn.ns1.name:18800/dani/dani1/1587
 
 #EXTINF:-1,ES: CALLE 13
-
 http://1sn.ns1.name:18800/dani/dani1/69543
+
 #EXTINF:-1,ES: PARAMOUNT CHANNEL
 
 #EXTINF:-1,ES: A3S SERIES
@@ -665,8 +668,8 @@ http://1sn.ns1.name:18800/dani/dani1/51973
 #EXTINF:-1,ES: M+ La Resistencia HD
 http://1sn.ns1.name:18800/dani/dani1/85288
 
-#EXTINF:-1,ES: COMEDY CENTRAL
-http://1sn.ns1.name:18800/dani/dani1/1603
+##EXTINF:-1,ES: COMEDY CENTRAL
+##http://1sn.ns1.name:18800/dani/dani1/1603
 
 #EXTINF:-1,ES: BE MAD
 http://1sn.ns1.name:18800/dani/dani1/70822
@@ -779,35 +782,35 @@ http://1sn.ns1.name:18800/dani/dani1/48679
 #EXTINF:-1,ES: ODISEA
 http://1sn.ns1.name:18800/dani/dani1/12510
 
-#EXTINF:-1,ES: NAT GEO FHD
-http://1sn.ns1.name:18800/dani/dani1/69689
+##EXTINF:-1,ES: NAT GEO FHD
+##http://1sn.ns1.name:18800/dani/dani1/69689
 
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-http://1sn.ns1.name:18800/dani/dani1/1591
+##EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+##http://1sn.ns1.name:18800/dani/dani1/1591
 
-#EXTINF:-1,ES: NAT GEO WILD FHD
-http://1sn.ns1.name:18800/dani/dani1/69690
+##EXTINF:-1,ES: NAT GEO WILD FHD
+##http://1sn.ns1.name:18800/dani/dani1/69690
 
-#EXTINF:-1,ES: NAT GEO WILD
-http://1sn.ns1.name:18800/dani/dani1/51706
+##EXTINF:-1,ES: NAT GEO WILD
+##http://1sn.ns1.name:18800/dani/dani1/51706
 
-#EXTINF:-1,ES: DISCOVERY FHD
-http://1sn.ns1.name:18800/dani/dani1/70736
+##EXTINF:-1,ES: DISCOVERY FHD
+##http://1sn.ns1.name:18800/dani/dani1/70736
 
-#EXTINF:-1,ES: Discovery Channel
-http://1sn.ns1.name:18800/dani/dani1/3560
+##EXTINF:-1,ES: Discovery Channel
+##http://1sn.ns1.name:18800/dani/dani1/3560
 
-#EXTINF:-1,ES: CRIMEN & INVESTIGATION
-http://1sn.ns1.name:18800/dani/dani1/12505
+##EXTINF:-1,ES: CRIMEN & INVESTIGATION
+##http://1sn.ns1.name:18800/dani/dani1/12505
 
-#EXTINF:-1,ES: DMAX
-http://1sn.ns1.name:18800/dani/dani1/70809
+##EXTINF:-1,ES: DMAX
+##http://1sn.ns1.name:18800/dani/dani1/70809
 
 #EXTINF:-1,ES: Historia FHD
 http://1sn.ns1.name:18800/dani/dani1/75104
 
-#EXTINF:-1,ES: HISTORIA HD
-http://1sn.ns1.name:18800/dani/dani1/1595
+##EXTINF:-1,ES: HISTORIA HD
+##http://1sn.ns1.name:18800/dani/dani1/1595
 
 #EXTINF:-1,ES: CANAL DECASA
 http://1sn.ns1.name:18800/dani/dani1/12511
@@ -824,17 +827,17 @@ http://1sn.ns1.name:18800/dani/dani1/74304
 #EXTINF:-1,ES: Ubeat Tv HD
 http://1sn.ns1.name:18800/dani/dani1/85292
 
-#EXTINF:-1,ES: MTV
-http://1sn.ns1.name:18800/dani/dani1/12497
+##EXTINF:-1,ES: MTV
+##http://1sn.ns1.name:18800/dani/dani1/12497
 
-#EXTINF:-1,ES: MTV 00s HD
-http://1sn.ns1.name:18800/dani/dani1/75134
+##EXTINF:-1,ES: MTV 00s HD
+##http://1sn.ns1.name:18800/dani/dani1/75134
 
-#EXTINF:-1,ES: MTV 00
-http://1sn.ns1.name:18800/dani/dani1/12552
+##EXTINF:-1,ES: MTV 00
+##http://1sn.ns1.name:18800/dani/dani1/12552
 
-#EXTINF:-1,ES: MTV ROCKS
-http://1sn.ns1.name:18800/dani/dani1/12554
+##EXTINF:-1,ES: MTV ROCKS
+##http://1sn.ns1.name:18800/dani/dani1/12554
 
 #EXTINF:-1,ES: MEZZO
 http://1sn.ns1.name:18800/dani/dani1/12551
@@ -845,11 +848,11 @@ http://1sn.ns1.name:18800/dani/dani1/12506
 #EXTINF:-1,ES: Boing
 http://1sn.ns1.name:18800/dani/dani1/1579
 
-#EXTINF:-1,ES: DISNEY CHANNEL
-http://1sn.ns1.name:18800/dani/dani1/1600
+##EXTINF:-1,ES: DISNEY CHANNEL
+##http://1sn.ns1.name:18800/dani/dani1/1600
 
-#EXTINF:-1,ES: DISNEY JUNIOR HD
-http://1sn.ns1.name:18800/dani/dani1/1599
+##EXTINF:-1,ES: DISNEY JUNIOR HD
+##http://1sn.ns1.name:18800/dani/dani1/1599
 
 #EXTINF:-1,ES: FACTORIA DE FICCION
 http://1sn.ns1.name:18800/dani/dani1/70815
@@ -857,11 +860,11 @@ http://1sn.ns1.name:18800/dani/dani1/70815
 #EXTINF:-1,ES: CLAN TVE HD
 http://1sn.ns1.name:18800/dani/dani1/12507
 
-#EXTINF:-1,ES: NICKELODEON
-http://1sn.ns1.name:18800/dani/dani1/1589
+##EXTINF:-1,ES: NICKELODEON
+##http://1sn.ns1.name:18800/dani/dani1/1589
 
-#EXTINF:-1,ES: NICK JUNIOR HD
-http://1sn.ns1.name:18800/dani/dani1/1590
+##EXTINF:-1,ES: NICK JUNIOR HD
+##http://1sn.ns1.name:18800/dani/dani1/1590
 
 #EXTINF:-1,ES: CANAL PANDA HD
 http://1sn.ns1.name:18800/dani/dani1/12509
@@ -869,8 +872,8 @@ http://1sn.ns1.name:18800/dani/dani1/12509
 #EXTINF:-1,ES: BABY TV
 http://1sn.ns1.name:18800/dani/dani1/3583
 
-#EXTINF:-1,ES: DREAMWORKS
-http://1sn.ns1.name:18800/dani/dani1/70141
+##EXTINF:-1,ES: DREAMWORKS
+##http://1sn.ns1.name:18800/dani/dani1/70141
 
 #EXTINF:-1,ES: TELESUR
 http://1sn.ns1.name:18800/dani/dani1/70139
@@ -878,7 +881,7 @@ http://1sn.ns1.name:18800/dani/dani1/70139
 #EXTINF:-1,ES: Negocios TV
 http://1sn.ns1.name:18800/dani/dani1/75136
 
-+PELICULAS Y SERIES 
+##PELICULAS Y SERIES 
 
 #EXTINF:-1,¿Qué pasó el 11 de Septiembre?  (2019) (ES)
 http://1sn.ns1.name:18800/movie/dani/dani1/167166.mp4
