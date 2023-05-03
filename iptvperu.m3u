@@ -48,10 +48,10 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/200px-TCM_logo.svg.png",TCM HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://hbomax-images.warnermediacdn.com/2021-11/TCM%20Pill%5B57%5D.png?host=wme-hbomax-drupal-prod.s3.amazonaws.com",TCM HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1586
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",TNT HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/2560px-TNT_Logo.svg.png",TNT HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1584
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://programacion.tv/images/xtrm.png",XTRM FHD (DEMO PREMIUM)
@@ -60,7 +60,7 @@ http://1sn.ns1.name:18800/dani/dani1/75095
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://www.frecuenciageek.com/wp-content/uploads/2020/10/114832194_FOXChannel.png",FOX HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1596
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",AMC HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://cdn.mitvstatic.com/channels/co_amc-hd_m.png",AMC HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12491
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png",AMC Crime FHD (DEMO PREMIUM)
@@ -78,13 +78,13 @@ http://1sn.ns1.name:18800/dani/dani1/1587
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",COMEDY CENTRAL HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1603
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png",NATIONAL GEOGRAPHIC HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png",NATIONAL GEOGRAPHIC HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1591
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",NAT GEO WILD HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Nat_Geo_Wild_HD.svg/2560px-Logo_Nat_Geo_Wild_HD.svg.png",NAT GEO WILD HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/51706
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",Discovery Channel HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://fotos.perfil.com/2022/03/09/trim/1140/641/discovery-channel-20220309-1323230.jpg",Discovery Channel HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/3560
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",CRIMEN & INVESTIGATION HD (DEMO PREMIUM)
@@ -93,7 +93,7 @@ http://1sn.ns1.name:18800/dani/dani1/12505
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DMAX HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/70809
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",HISTORIA HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://www.pikpng.com/pngl/m/378-3789097_h2-channel-logo-h2-channel-clipart.png",HISTORIA HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1595
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV HD (DEMO PREMIUM)
@@ -108,7 +108,7 @@ http://1sn.ns1.name:18800/dani/dani1/12552
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",MTV ROCKS HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/12554
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DISNEY CHANNEL HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png",DISNEY CHANNEL HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1600
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/1200px-TCM_2021.svg.png",DISNEY JUNIOR HD (DEMO PREMIUM)
