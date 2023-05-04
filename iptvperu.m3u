@@ -28,13 +28,13 @@ http://cdnh74.iblups.com/hls/irtp.m3u8
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (480p)
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtitZ5VKYFhCQU6MMsAt_iehR2nlFj3n8DtwHHZv2_U6)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmv8OTPxcf4ymu3yl-lpNf_nG3qHo-QRywdJINk7x088h)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
@@ -123,7 +123,8 @@ http://1sn.ns1.name:18800/dani/dani1/70141
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg",COMEDY CENTRAL (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1603
 
-##EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=B0LMxRaeUo67rFbI23Zlil0X0PUqBP7Q&sid=eFn3gxNFNc0eFf1w26iBJEerKNlweY7Z&pid=RNelGc785iPkURjDsdgl35ZmcIcza6vP&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=EjrBgk4ZXGRoQqzFedJNPO8UFzbd56ThkRypWU65vRhDjTo4a2O1cKhCgC0GHdzNsxxzEfiHj3l&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1683249373247&ot=sXClQh9hHmsYVMP-9HIy1Q&proto=https&pz=us.m3u
 
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
