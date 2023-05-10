@@ -14,6 +14,7 @@ https://tucanaldeportivo.com/america.php
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtqtU4q7y1wRvRPVr5tODkPbrjAD0T9zIQHUB3b5vLr8)/dm/3/x774s7s/s/live-2.m3u8
+##http://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Peru 7 (480p)
 http://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
@@ -25,22 +26,23 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 http://cdnh74.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p)
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
-
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (480p)
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p) [Not 24/7]
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
+##https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_2.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmi7rCkgDLX_FIFnTFuw_qIeuXuhLY55k_Oh-z-O5WMey)/dm/3/x7x4dgx/s/live-1.m3u8
-
-#EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
-https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmubkb_Om8xYUGKPth79qjPcCWewOEjf4VOqg1ZUGS6ye)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
