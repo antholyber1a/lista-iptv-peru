@@ -13,7 +13,8 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 https://tucanaldeportivo.com/america.php
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-http://cdnh71.iblups.com/hls/ptv2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtqtU4q7y1wRvRPVr5tODkPbrjAD0T9zIQHUB3b5vLr8)/dm/3/x774s7s/s/live-2.m3u8
+##http://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Peru 7 (480p)
 http://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
@@ -41,7 +42,7 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqfTmtv8PLRV3CzGTAlFrfrqCx0WZawYDBjA298jgJ-K)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmubkb_Om8xYUGKPth79qjPcCWewOEjf4VOqg1ZUGS6ye)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
@@ -55,10 +56,35 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p)
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p)
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
+https://inliveserver.com:1936/9506/9506/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://hbomax-images.warnermediacdn.com/2021-11/TCM%20Pill%5B57%5D.png?host=wme-hbomax-drupal-prod.s3.amazonaws.com",TCM HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1586
 
-#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/2560px-TNT_Logo.svg.png",TNT HD (DEMO PREMIUM)
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/1200px-Warner_Bros._%282019%29_logo.svg.png",Warner Bros. HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1584
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://programacion.tv/images/xtrm.png",XTRM FHD (DEMO PREMIUM)
@@ -202,9 +228,6 @@ https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (576p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
 https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
 
@@ -344,15 +367,6 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional (720p)
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Undefined",RN Televisión (Yurimaguas) (720p)
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
 
@@ -376,9 +390,6 @@ https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p)
-https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="Entertainment",Tele2000 (Ayacucho) (720p)
 https://servilive.com:3126/live/tele2000live.m3u8
@@ -449,12 +460,6 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV (Yurimaguas) (720p)
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p)
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
-https://inliveserver.com:1936/9506/9506/playlist.m3u8
-
 ##EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="General",Vía Altomayo (720p)
 ##https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
@@ -472,9 +477,6 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
