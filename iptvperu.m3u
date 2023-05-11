@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac)
+##EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg" group-title="General",LATINA HD (720p)
@@ -10,7 +10,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
-https://tucanaldeportivo.com/america.php
+https://tucanaldeportivo.com/america.php.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 http://cdnh71.iblups.com/hls/ptv2.m3u8
@@ -27,7 +27,7 @@ http://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p) [Not 24/7]
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
@@ -41,7 +41,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (720p)
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqfTmtv8PLRV3CzGTAlFrfrqCx0WZawYDBjA298jgJ-K)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmubkb_Om8xYUGKPth79qjPcCWewOEjf4VOqg1ZUGS6ye)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
@@ -55,21 +55,23 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p)
 https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="VARIADO",Auténtica Televisión (720p)
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p)
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
@@ -79,6 +81,9 @@ https://inliveserver.com:1936/9506/9506/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png",SUNDANCE HD
+http://1sn.ns1.name:18800/dani/dani1/69541
 
 #EXTINF:-1 tvg-id="TCM.COM" tvg-logo="https://hbomax-images.warnermediacdn.com/2021-11/TCM%20Pill%5B57%5D.png?host=wme-hbomax-drupal-prod.s3.amazonaws.com",TCM HD (DEMO PREMIUM)
 http://1sn.ns1.name:18800/dani/dani1/1586
@@ -160,9 +165,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p)
 https://video2.lhdserver.es/asiritv/live.m3u8
-
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="VARIADO",Auténtica Televisión (720p)
-https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AmazonasTV.pe" tvg-logo="https://i0.wp.com/apkoll.com/wp-content/uploads/2021/01/Amazonas-Tv.png?fit=250%2C250&ssl=1" group-title="Musica",Amazonas TV (720p)
 https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
@@ -700,9 +702,6 @@ http://1sn.ns1.name:18800/dani/dani1/11573
 
 #EXTINF:-1,ES: Energy
 http://1sn.ns1.name:18800/dani/dani1/1574
-
-#EXTINF:-1,ES: SUNDANCE HEVC
-http://1sn.ns1.name:18800/dani/dani1/69541
 
 #EXTINF:-1,ES: Horse TV HD
 http://1sn.ns1.name:18800/dani/dani1/85291
