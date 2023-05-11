@@ -35,7 +35,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
 ##https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_2.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
