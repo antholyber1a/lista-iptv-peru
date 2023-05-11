@@ -13,7 +13,7 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 https://tucanaldeportivo.com/america.php
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-http://cdnh71.iblups.com/hls/ptv2.m3u8
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Peru 7 (480p)
 http://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
