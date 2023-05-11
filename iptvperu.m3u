@@ -27,7 +27,7 @@ http://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p)
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
