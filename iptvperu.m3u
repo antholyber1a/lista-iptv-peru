@@ -10,7 +10,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
-https://live.api.video/li2cZs1kI0h3cECrXxd4e7A3_720p/index.m3u8
+http://localhost/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 http://cdnh71.iblups.com/hls/ptv2.m3u8
