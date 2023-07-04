@@ -12,6 +12,7 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
 https://a39c-190-42-31-23.ngrok-free.app/tmp_hls/stream/index.m3u8
 
+
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 http://cdnh71.iblups.com/hls/ptv2.m3u8
 
