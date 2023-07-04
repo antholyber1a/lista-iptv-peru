@@ -776,6 +776,3 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
 ##EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV
 ##https://live.obslivestream.com/sanjuanera/index.m3u8
-
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
-http://localhost/tmp_hls/stream/index.m3u8
