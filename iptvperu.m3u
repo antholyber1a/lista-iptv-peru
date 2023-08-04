@@ -90,6 +90,9 @@ http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="LATINOS",AXN
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
+#EXTINF:-1 tvg-ID="Animal Planet (International)" tvg-name="Animal Planet" tvg-logo="https://dl.dropbox.com/s/kk1wfsu1ax3durd/pic_ch208.jpg" group-title="LATINOS",Animal Planet
+http://45.166.92.22:58001/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
