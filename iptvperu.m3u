@@ -111,10 +111,10 @@ https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Music (480p)
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Cumbia (720p)
-https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
