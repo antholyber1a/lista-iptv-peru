@@ -14,6 +14,7 @@ http://192.168.1.3/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqtq_KQa0v4wEwpUgmc_SXTTRF11TAd8kNV4IuAsycVg)/dm/3/x774s7s/s/live-2.m3u8
+
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Peru 7 (480p)
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
 
@@ -43,6 +44,9 @@ https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkLvdbYUcxTPPU5Z64
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p)
+https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
@@ -142,9 +146,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2 TV (Lima) (720p) 
 https://servilive.com:3114/live/liveulive.m3u8
-
-#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p)
-https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (Moyobamba) (720p)
 https://live.obslivestream.com/controversiatv/index.m3u8
