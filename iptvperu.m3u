@@ -105,6 +105,9 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="http://158.69.127.19/oscuros/discoverychannel.png" group-title="LATINOS",FOX SPORTS HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
