@@ -93,7 +93,7 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="http://158.69.127.19/oscuros/discoverychannel.png" group-title="LATINOS",Discovery Channel
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
