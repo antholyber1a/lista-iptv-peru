@@ -87,7 +87,7 @@ http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="LATINOS",AXN
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-ID="Animal Planet (International)" tvg-name="Animal Planet" tvg-logo="https://dl.dropbox.com/s/kk1wfsu1ax3durd/pic_ch208.jpg" group-title="LATINOS",Animal Planet
+#EXTINF:-1 tvg-ID="Animal Planet (International)" tvg-name="Animal Planet" tvg-logo="https://i.pinimg.com/564x/df/72/40/df7240a84410a177507d2ee8b3a8f8d1.jpg" group-title="LATINOS",Animal Planet
 http://45.166.92.22:58001/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
