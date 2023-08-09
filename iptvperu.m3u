@@ -181,7 +181,7 @@ https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p)
-https://v4.tustreaming.cl/s1tv/playlist.m3u8
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1177220520.m3u8
 
 ##EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="General",Doble C Televisión (Mazamari)
 ##https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
