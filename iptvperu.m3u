@@ -105,7 +105,7 @@ http://45.166.92.22:58001/play/a01g/index.m3u8
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS",FOX SPORTS 3 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="http://158.69.127.19/oscuros/discoverychannel.png" group-title="LATINOS",FOX SPORTS HD
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.pngg" group-title="LATINOS",ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
