@@ -57,15 +57,6 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
@@ -80,6 +71,9 @@ https://inliveserver.com:1936/9506/9506/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="LATINOS",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
@@ -490,6 +484,14 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 ##EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="News",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 ##https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/6ce9a49f-76f6-4054-83fa-773c8ef12f3b/3.m3u8
 
+##EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
+##https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+##EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
+##https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+##EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+##https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 ##EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV
 ##https://live.obslivestream.com/sanjuanera/index.m3u8
 
