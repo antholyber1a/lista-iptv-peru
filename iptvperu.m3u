@@ -13,7 +13,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 http://192.168.1.3/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFq-9RbX5zTjyq0HraHt-6vGfsbeacq284rWQoc2NY04L)/dm/3/x774s7s/s/live-2.m3u8
+https://stream-02.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFlzvuL0QYeeoBbgnJAHoC_fyxC_3y98WrFD-r2yzNovH)/dm/3/x774s7s/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Peru 7 (480p)
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
@@ -40,7 +40,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmobk7XCMTdtHftYcelmUah3GcFBo1XM7FfcZ7wqe0aZz)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.sv4.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqhbGSxtu-m3aqc7sWxCJPWU_a6DP3m7unHm_R-neyJU)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
