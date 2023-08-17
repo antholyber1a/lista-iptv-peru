@@ -34,7 +34,7 @@ http://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/at
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
-https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 http://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
