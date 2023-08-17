@@ -9,7 +9,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (720p)
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (480p)
 http://192.168.1.3/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
@@ -45,7 +45,7 @@ https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmn-s8LHMWzJ5rpo1Dy
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 1 (720p)
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 1 (480p)
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 2 (720p)
