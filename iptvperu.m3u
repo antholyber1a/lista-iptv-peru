@@ -15,7 +15,7 @@ http://192.168.1.3/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 https://cdn75.iblups.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="JJ" group-title="News",GOL PERU (HD)
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://p1.hiclipart.com/preview/1006/559/646/tv-channel-icons-pack-gol-tv-black-png-icon-thumbnail.jpg" group-title="News",GOL PERU (HD)
 http://45.166.92.22:58001/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
