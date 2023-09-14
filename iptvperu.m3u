@@ -139,6 +139,9 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD
 http://45.166.92.22:58001/play/a014/index.m3u8
 
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español
+http://45.166.92.22:58001/play/a036/index.m3u8
+
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
