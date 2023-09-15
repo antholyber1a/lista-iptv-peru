@@ -70,6 +70,9 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",Best Cable SPORTS
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -440,11 +443,14 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (Cuzco) (360p)
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/06/logo-dark-palmeras.png" group-title="General",Palmeras TV (720p)
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="General",TV EnLinea (Cuzco) (720p)
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
 #EXTINF:-1 tvg-id="TVFacesPeru.pe" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="Entertainment",Tvfaces Online (360p)
-https://tvdatta.com:3211/stream/play.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/chunklist_w249757421.m3u8
 
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/CzeVIZa.png" group-title="General",TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
