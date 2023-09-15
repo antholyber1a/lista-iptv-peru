@@ -485,20 +485,14 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
-##EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/zaz-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="General",ZAZ TV
-##https://stream-us-east-1.getpublica.com/cl/230414cgspncegj7tghqlgif90/654x480_2774101_2_f.m3u8?i=513_1972
-
 ##EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
 ##https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/87de65ef-84d5-4d6c-8d0c-58eb79e3ad8b/3.m3u8
 
-##EXTINF:-1 tvg-id="cxtvenvivo.com/tv-en-vivo/color-vision-canal-9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="Variedades",Color Vision Canal 9 (Republica Dominicana) (720p)
-##https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYxWi1NXNqWwlSAjn6gUFBMAyE9TD-vB0pRJyG0cgsGfF)/dm/3/x7gy059/d/live-2.m3u8
+#EXTINF:-1 tvg-id="cxtvenvivo.com/tv-en-vivo/color-vision-canal-9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="Variedades",Color Vision Canal 9 (Republica Dominicana) (720p)
+https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2k7u2tuPdyiG1GJ5ngn--LkKFQlSEnAV8Z6Uncpy1Up)/dm/3/x7gy059/d/live-1.m3u8
 
-##EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
-##https://azxtv.com/hls/stream.m3u8
-
-##EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg"Family",Canal IPe (720p)
-##http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w306583619.m3u8
 
 ###EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p)
 ##https://cloudvideo.servers10.com:8081/8070/index.m3u8
