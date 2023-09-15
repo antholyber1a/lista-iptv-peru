@@ -148,6 +148,15 @@ http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO PLUS HD
 http://45.166.92.22:58001/play/a03u/index.m3u8
 
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LATINOS",HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/langes-800px-Htv_logo.svg.png" group-title="LATINOS",HTV
+http://45.166.92.22:58001/play/a051/index.m3u8
+
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO PLUS HD" group-title="LATINOS",HBO XTREME HD
+http://45.166.92.22:58001/play/a03w/index.m3u8
+
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
