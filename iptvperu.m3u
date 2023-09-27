@@ -518,4 +518,5 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 ##EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 ##https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
+https://stream.ads.ottera.tv/cl/230927ckabrfpra6jai9krnnq0/1280x720_3071200_0_f.m3u8?i=475_4647
