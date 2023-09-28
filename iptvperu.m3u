@@ -515,6 +515,15 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w106
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://oklivetv.com/wp-content/uploads/media/80f22c7cdfcd018da8efc6d5c64e32b8.jpeg" group-title="Music",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w847900147_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1200px-TRACE_Latina_Logo.png" group-title="Music",Trace Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/76cae1e4-248e-470e-96a7-b41c617c7b8e/3.m3u8
+
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png" group-title="Musica",Sol Música TV
+https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/befa9278-a77d-4054-abd9-a73412fd079d/0.m3u8
+
 ##EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 ##https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
