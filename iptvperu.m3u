@@ -9,7 +9,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (4K)
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
 http://10.10.40.4/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
@@ -62,10 +62,10 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="Infantil",PakaPaka (720p)
-https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w138566219.m3u8
 
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="VARIADO",Auténtica Televisión (720p)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w138566219.m3u8
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p)
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
