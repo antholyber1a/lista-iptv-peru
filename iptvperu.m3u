@@ -46,8 +46,7 @@ https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmicdKCuQ3WVHiF9qHe
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 1 (480p)
-##https://live.obslivestream.com/cdeportivo/index.m3u8
-https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8?token=ckPPAmBEYJtkr0
 
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 2 (720p)
 https://live.obslivestream.com/cdeportivo2/tracks-v1a1/mono.m3u8
