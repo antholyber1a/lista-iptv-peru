@@ -192,10 +192,13 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
-#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (480p)
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (SD)
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (360p)
+#EXTINF:-1 tvg-id="viaaltomayotv.com" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="General",VIA Alto Mayo (HD)
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (SD)
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 #EXTINF:-1 tvg-id="CanalE.pe" tvg-logo="https://play-lh.googleusercontent.com/qpS-EfCV5TFRW3XxlUumDChroJqpuhqanGJDS1xSuEeL5zlccSp5vajfL1iPSP8lFw=w240-h480-rw" group-title="VARIADO",Canal E
