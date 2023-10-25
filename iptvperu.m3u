@@ -15,7 +15,7 @@ http://magmas5.com:8000/H0Q0F0BYE7/D3HEGRF0IB/3318
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 https://cdn75.iblups.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.sketch-1580686212613.png.e84227e062d12075c4d8b5b4dd5ba216.png" group-title="News",GOL PERU (HD)
+#EXTINF:-1 tvg-id="GOL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="News",GOL PERU (HD)
 http://magmas5.com:8000/H0Q0F0BYE7/D3HEGRF0IB/4828
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
