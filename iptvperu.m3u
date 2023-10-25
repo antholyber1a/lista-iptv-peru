@@ -78,7 +78,7 @@ https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
+#EXTINF:-1 tvg-ID="DISNEY Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
 http://45.166.92.22:58001/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="LATINOS",A&E
@@ -96,73 +96,70 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="LATINOS",CARTOON NT HD
+#EXTINF:-1 tvg-ID="Cartoon Network NT Channel (Latin America)" tvg-name="Cartoon Network NT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="LATINOS",CARTOON NT HD
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
 http://45.166.92.22:58001/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
+#EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="LATINOS",ESPN 3 HD
+#EXTINF:-1 tvg-ID="ESPN 3 Channel (Latin America)" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="LATINOS",ESPN 3 HD
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS",FOX SPORTS 3 HD
-http://45.166.92.22:58001/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LATINOS",ESPN 4 HD
+#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LATINOS",ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
+#EXTINF:-1 tvg-ID="FOX SPORTS 3 Channel (Latin America)" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS",FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-ID="HISTORY Channel (Latin America)" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
 http://45.166.92.22:58001/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER HD
+#EXTINF:-1 tvg-ID="WARNER Channel (Latin America)" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER HD
 http://45.166.92.22:58001/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER SD
+#EXTINF:-1 tvg-ID="WARNER Channel (Latin America)" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER SD
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cq8FlfxJeh42eZ9Ws4Reqvv4jAQ7VsJs5cPYlV_j3A0XA8p76LzgcJDkU4iv2fQImMGLyjurIo_FnNWWRU-dD0SIlMxtY7CCYGoyIe6_ciKlo-jlJX6pHMLa6HB3Oy9eTOl3H1TVdmgYo2KDw0-wnuFkn4WL0gDHomIQa2WEh7BNvGbyMWcdjg1At2yZQ9JDTK3xjTQEQSzYbWTXojNF_Ay13d74khe3HXucJ5P-Uzhv6efbcjUqJAegbSqrim2z_k6WffzLlxA6E8m4emt1f7naSjjnJUpmZZBxv-hWA9VvOm57_BTc0lzvbZ2LH1dEGW1DeW0DfebqqS-mhh9N3x4jOc7oQUKF8YcHFPogK84e5Q8Q7bex_Ya2N8Sug6xtD16rTIAIYR-fqcwtMbyH6U9SkkTATVCTBfhjWuAZD-doFEJjV2Hgr8LnQ4f4gRXBUPwO7cIoS7z3QckL2qE6Oi6BmyscjYli0hfr4E8Fg0HzxesK_qQWapaL6TT_xfTEZB-RU1QwMlhlTP_B6ZbCrkwHWLuJrjS2_hR4e99rY1BQLV4BLoc9IgCuH7VyXTjrVGBlEdXMxk_pNarc3FZnnkUoUcXg-fgV8EQDB1kdKKT6JsFlIDlv_7GLuv1qTjPP3BgRnX6DeR4NDlv23ldnTsN_tANDfp7-QaKHo3vVsMsjVT2DNcv5xwNULZZjEHhQfJjplj8ysVyXeXszact7P9ra8zVuXoRaQovZ1_lPYFvn-wy95Kg1l2DTOqg9FqBgJmJUVzhpprj8q95x85_eEi8e6Ef2RsTdYuUiO5OvuOzrfn8-veNXG_AL8iug7J3mdbXSdDe54khGc-qrcF-xkw1kHuTsGYhU1B08AU0OSoYuTeYbVzb4KyoCiIRuOq71Qhy3G0cq4-9ZBal9mp0iCW7NGgyIMld4XEBN-qfIdZIgASoJZXUtd2VzdC0yMNEH.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/462px-Univision_logo.svg.png" group-title="LATINOS",Univision HD
+#EXTINF:-1 tvg-ID="Univision Channel (Latin America)" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/462px-Univision_logo.svg.png" group-title="LATINOS",Univision HD
 http://45.166.92.22:58001/play/a01r/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATINOS",TyCSports HD
+#EXTINF:-1 tvg-ID="TyCSports Channel (Latin America)" tvg-name="TyCSports" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATINOS",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LATINOS",Telemundo HD
+#EXTINF:-1 tvg-ID="Telemundo Channel (Latin America)" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LATINOS",Telemundo HD
 http://45.166.92.22:58001/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL HD
-http://45.166.92.22:58001/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL SD
+#EXTINF:-1 tvg-ID="CINECANAL Channel (Latin America)" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL SD
 http://45.166.92.22:58001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boomerang_2006-2008_logo.svg/300px-Boomerang_2006-2008_logo.svg.png" group-title="LATINOS",Boomerang HD
 http://45.166.92.22:58001/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",DHE HD
+#EXTINF:-1 tvg-ID="Boomerang Channel (Latin America)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",DHE HD
 http://45.166.92.22:58001/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-ID="DISCOVERY THEATER Channel (Latin America)" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD
 http://45.166.92.22:58001/play/a014/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español
+#EXTINF:-1 tvg-ID="CNN Español Channel (Latin America)" tvg-name="CNN Español" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español
 http://45.166.92.22:58001/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png" group-title="LATINOS",HBO HD
+#EXTINF:-1 tvg-ID="HBO Channel (Latin America)" tvg-name="HBO" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png" group-title="LATINOS",HBO HD
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO PLUS HD
+#EXTINF:-1 tvg-ID="HBO PLUS Channel (Latin America)" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO PLUS HD
 http://45.166.92.22:58001/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LATINOS",HISTORY 2 HD
+#EXTINF:-1 tvg-ID="HISTORY 2 (Latin America)" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LATINOS",HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/langes-800px-Htv_logo.svg.png" group-title="LATINOS",HTV
+#EXTINF:-1 tvg-ID="HTV Channel (Latin America)" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/langes-800px-Htv_logo.svg.png" group-title="LATINOS",HTV
 http://45.166.92.22:58001/play/a051/index.m3u8
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO XTREME HD
+#EXTINF:-1 tvg-ID="HBO XTREME Channel (Latin America)" tvg-name="HBO XTREME" tvg-logo="#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO XTREME HD
 http://45.166.92.22:58001/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
