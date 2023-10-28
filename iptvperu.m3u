@@ -104,9 +104,9 @@ http://45.166.92.22:58001/play/a03y/index.m3u8
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
-http://45.166.92.22:58001/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
+https://cdn1.tiogol.com/edge/live3/chunklist_w187737311_tkdG9rZW5lbmR0aW1lPTE2OTg1MTU2NjYmdG9rZW5oYXNoPVgzNkJZSVZVT3NrUUFmNl84WDRpbTE4RkZwYmxOX0VEcms0ci1KNHVYTGM9JnRva2Vuc3RhcnR0aW1lPTE2OTg1MDM2NjY=.m3u8
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-ID="ESPN 3 Channel (Latin America)" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="LATINOS",ESPN 3 HD
