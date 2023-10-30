@@ -12,9 +12,6 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (SD)
 http://10.10.40.4/tmp_hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/3319
-
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 https://cdn75.iblups.com/hls/stream.m3u8
 
@@ -26,7 +23,7 @@ https://cdn4.tiogol.com/edge/live2/chunklist_w841409619_tkdG9rZW5lbmR0aW1lPTE2OT
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
-https://cdn2.tiogol.com/edge/live1/chunklist_w1066346822_tkdG9rZW5lbmR0aW1lPTE2OTg1MTUyOTgmdG9rZW5oYXNoPUhCQmQ3OVgzVDJmQnd2cDhKNDRqbks2TkR6RTJhYkhQSDU4d1NrQ0IyNTg9JnRva2Vuc3RhcnR0aW1lPTE2OTg1MDMyOTg=.m3u8
+https://cdn3.tiogol.com/edge/live1/chunklist_w196381256_tkdG9rZW5lbmR0aW1lPTE2OTg2NDUzNzgmdG9rZW5oYXNoPTdEN2hLSXgtQ3RhRWUxZkJzejNCRFdPdkhKdkV4cTFGMGZGX3lua0RGZjA9JnRva2Vuc3RhcnR0aW1lPTE2OTg2MzMzNzg=.m3u8?clientIP=190.42.31.131
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
