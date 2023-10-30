@@ -16,8 +16,7 @@ http://10.10.40.4/tmp_hls/stream/index.m3u8
 https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="GOL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="News",GOL PERU (HD)
-https://cdn4.tiogol.com/edge/live2/chunklist_w841409619_tkdG9rZW5lbmR0aW1lPTE2OTg1MTUyOTgmdG9rZW5oYXNoPUwtazk0dTh1cG03dnNhenlOSDNZMm81dVhFRXYzb0plckUwZ3ZGWmlKQkk9JnRva2Vuc3RhcnR0aW1lPTE2OTg1MDMyOTg=.m3u8
-
+https://cdn2.tiogol.com/edge/live2/chunklist_w1806302800_tkdG9rZW5lbmR0aW1lPTE2OTg2NDU4OTEmdG9rZW5oYXNoPUZlUEFRV0hpdXRKdkw3TDE5TkhpMjk3ZFVsV3BaNWpkaFBqd3M1UFJJY2M9JnRva2Vuc3RhcnR0aW1lPTE2OTg2MzM4OTE=.m3u8?clientIP=190.42.31.131
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
