@@ -10,19 +10,18 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (SD)
-http://10.10.40.4/tmp_hls/stream/index.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1372036659&_cdn_timestamp=1699317721&_cdn_token=40269279d8e7dbc84e22dc5ce741b3788fa4f426&duration=6000&start=1698883200
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-https://cdn75.iblups.com/hls/stream.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1375108867&_cdn_timestamp=1699368744&_cdn_token=efc965b79aefd481eb9e6766358cdfc6bc250681
 
 #EXTINF:-1 tvg-id="GOL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="News",GOL PERU (HD)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1372036659&_cdn_timestamp=1699317721&_cdn_token=40269279d8e7dbc84e22dc5ce741b3788fa4f426&duration=6000&start=1698883200
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
-https://cdn1.tiogol.com/edge/live1/chunklist_w1206385456_tkdG9rZW5lbmR0aW1lPTE2OTg4NzM2NDEmdG9rZW5oYXNoPWFOR3VLRFdLTU4tekxPOWF0dWlGU0d5d25QZ256ZFlsbnZIdFRtNTNsYzQ9JnRva2Vuc3RhcnR0aW1lPTE2OTg4NjE2NDE=.m3u8
+http://10.10.40.4/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
