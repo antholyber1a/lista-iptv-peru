@@ -43,7 +43,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=1380773411&_cdn_timestamp=1699053253&_cdn_token=dd99fbfbc4ca88ae6603c00155bebdc618f77875
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1380784723&_cdn_timestamp=1699053473&_cdn_token=4b448e3a2be56a20e896732516f19081648eeba0
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1372067227&_cdn_timestamp=1699318084&_cdn_token=7ce84daf2d8e001666f65d9f89cd2e8951c9d210
