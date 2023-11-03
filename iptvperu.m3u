@@ -25,13 +25,13 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8
 http://10.10.40.4/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=1380775731&_cdn_timestamp=1699053304&_cdn_token=2c07d404e79241541e06392b00516153d5523d75
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=1382244595&_cdn_timestamp=1699076580&_cdn_token=55fa4d509c06bc7b621817557f3b1b2a3752f381
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=1380719755&_cdn_timestamp=1699052265&_cdn_token=b07dfe6fa0392484ca81863f55344ea665bee027
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVMAS_stream_nu&_cdn_session=1382246971&_cdn_timestamp=1699076612&_cdn_token=b274abb933536d0737a039ae163e9011af257a36
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1372108547&_cdn_timestamp=1699318563&_cdn_token=68a22c59eed84e3cd190e26369408f0bf2f2d23e
@@ -43,7 +43,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=1380773411&_cdn_timestamp=1699053253&_cdn_token=dd99fbfbc4ca88ae6603c00155bebdc618f77875
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1380784723&_cdn_timestamp=1699053473&_cdn_token=4b448e3a2be56a20e896732516f19081648eeba0
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1382251827&_cdn_timestamp=1699076685&_cdn_token=c61109a1720a420beb1027990481710493f7c436&duration=3600&start=1699052400
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1372067227&_cdn_timestamp=1699318084&_cdn_token=7ce84daf2d8e001666f65d9f89cd2e8951c9d210
