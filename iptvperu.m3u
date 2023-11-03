@@ -49,7 +49,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/storage-medi
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1372067227&_cdn_timestamp=1699318084&_cdn_token=7ce84daf2d8e001666f65d9f89cd2e8951c9d210
 
 #EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="LATINOS",AMC 1 HD
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1380744291&_cdn_timestamp=1699052703&_cdn_token=00823b6cfac79bce1b817fdc58b1e6b1f9b4b803
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1382254683&_cdn_timestamp=1699076722&_cdn_token=d7ad16b8b4db273b70f03f5b48e21ed388402af4
 
 #EXTINF:-1 tvg-id="QUVO" tvg-logo="https://i.imgur.com/eQUDuri.jpg" group-title="Undefined",QUVO TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1380792971&_cdn_timestamp=1699053596&_cdn_token=dba8817427bbbfd0ad5bd2cad39019386989c56a
