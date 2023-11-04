@@ -19,10 +19,10 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-me
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1385892891&_cdn_timestamp=1699132849&_cdn_token=6d48d31e9611625dff7ca33f3d31a339149eafb2
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1385919363&_cdn_timestamp=1699133247&_cdn_token=1c9dbb43c815d956c35c25794d96001bb4dda55d
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1387661283&_cdn_timestamp=1699155612&_cdn_token=e13efb750b9b8b3a4a738e07e1538673cb3ce6af&duration=3600&start=1699131600
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
-http://10.10.40.4/tmp_hls/stream/index.m3u8
+https://cdn3.tiogol.com/edge/live1/chunklist_w2050945971_tkdG9rZW5lbmR0aW1lPTE2OTkxNDU5NjEmdG9rZW5oYXNoPXl3Vzg2Wlgyc3JFVlFfTEhLeE9LM0N1a2l5M3IxSHUwZGVvYjNmMEpjb3c9JnRva2Vuc3RhcnR0aW1lPTE2OTkxMzM5NjE=.m3u8?clientIP=190.42.31.131
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
