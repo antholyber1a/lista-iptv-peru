@@ -40,7 +40,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1372062299&_cdn_timestamp=1699318030&_cdn_token=5eb1090a45ea4cde13e3c0c0101f7d743521648e
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=1385922347&_cdn_timestamp=1699133295&_cdn_token=5bc243396b65b632318e0e7e5fcb5db8761a8127
+https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1386357291&_cdn_timestamp=1699140353&_cdn_token=52a753005ac61a92e2d88084b1a88c296928a21b
