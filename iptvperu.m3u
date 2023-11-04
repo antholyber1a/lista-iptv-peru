@@ -43,7 +43,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=1385922347&_cdn_timestamp=1699133295&_cdn_token=5bc243396b65b632318e0e7e5fcb5db8761a8127
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1382251827&_cdn_timestamp=1699076685&_cdn_token=c61109a1720a420beb1027990481710493f7c436&duration=3600&start=1699052400
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1386357291&_cdn_timestamp=1699140353&_cdn_token=52a753005ac61a92e2d88084b1a88c296928a21b
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1372067227&_cdn_timestamp=1699318084&_cdn_token=7ce84daf2d8e001666f65d9f89cd2e8951c9d210
