@@ -25,7 +25,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8
 http://10.10.40.4/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=1385896315&_cdn_timestamp=1699132895&_cdn_token=910c614a0b91dc674b25961df94d3ce4b88df094
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
