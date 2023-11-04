@@ -19,7 +19,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-me
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1385892891&_cdn_timestamp=1699132849&_cdn_token=6d48d31e9611625dff7ca33f3d31a339149eafb2
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1382242275&_cdn_timestamp=1699076547&_cdn_token=7af6a5e1edb2dd01a1b57008575b272678892442
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1385919363&_cdn_timestamp=1699133247&_cdn_token=1c9dbb43c815d956c35c25794d96001bb4dda55d
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
 http://10.10.40.4/tmp_hls/stream/index.m3u8
@@ -40,7 +40,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1372062299&_cdn_timestamp=1699318030&_cdn_token=5eb1090a45ea4cde13e3c0c0101f7d743521648e
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=1382290211&_cdn_timestamp=1699077160&_cdn_token=1f2fc1e3b96c02572ffd0eb8eda0769719a78f1c
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UCITV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUCITV_stream_mg&_cdn_session=1385922347&_cdn_timestamp=1699133295&_cdn_token=5bc243396b65b632318e0e7e5fcb5db8761a8127
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1382251827&_cdn_timestamp=1699076685&_cdn_token=c61109a1720a420beb1027990481710493f7c436&duration=3600&start=1699052400
