@@ -22,7 +22,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-med
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1387661283&_cdn_timestamp=1699155612&_cdn_token=e13efb750b9b8b3a4a738e07e1538673cb3ce6af&duration=3600&start=1699131600
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
-https://live-ak2.vimeocdn.com/e18741f9-93a5-421d-add0-bf89c9a77ca4/hdntl=exp=1699235462~acl=%2f*~data=hdntl~hmac=5ff1fa623709a766f15141fb8fb897d659dfa4a57ab8b9d74229007aa7954da4/chunklist_b6256000.m3u8
+https://cdn1.tiogol.com/edge/live2/chunklist_w527618466_tkdG9rZW5lbmR0aW1lPTE2OTkxNjIwOTYmdG9rZW5oYXNoPWNBRVpCN1BZRzAwYkZOaHJDNnJWa1RoNE5oTnRhQXhYdnZLNEhzYUJMYWc9JnRva2Vuc3RhcnR0aW1lPTE2OTkxNTAwOTY=.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
