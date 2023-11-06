@@ -25,7 +25,7 @@ https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/in
 https://cdn2.tiogol.com/edge/live2/chunklist_w464383583_tkdG9rZW5lbmR0aW1lPTE2OTkyNDA3ODcmdG9rZW5oYXNoPUFWWGNoOFhfdUpIeGdVLWV1ZXREdDFXQ2dPRnJPR19rZVBqV0lKcjFCbE09JnRva2Vuc3RhcnR0aW1lPTE2OTkyMjg3ODc=.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
