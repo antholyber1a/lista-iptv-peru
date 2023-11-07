@@ -526,6 +526,13 @@ https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="I + IMAGEN" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/imagen_c_1920x1080.jpg" group-title=rash"Peliculas",I + IMAGEN
 https://stream.ads.ottera.tv/cl/231107cl4q5scpr8o6gffnmd4g/1280x720_3071200_0_f.m3u8
 
+#EXTINF:-1 tvg-id="Sangre Fria" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/e68983a1-sangre_fria_1920x1920_0.jpg" group-title="Peliculas",Sangre Fria
+https://stream.ads.ottera.tv/cl/231107cl4qugreq7bdhnlrrbr0/1280x720_2300000_0_f.m3u8
+
+
+#EXTINF:-1 tvg-id="Run Time CINESPANTO" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title=rash"Peliculas",Run Time CINESPANTO
+https://stream.ads.ottera.tv/cl/231107cl4qvoecvvo8mq9emu1g/1280x720_3071200_0_f.m3u8
+
 #EXTINF:-1 tvg-id="Run Time ACCION" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" group-title=rash"Peliculas",Run Time ACCION
 https://stream.ads.ottera.tv/cl/231107cl4qmq11vpoud3lk5a00/1280x720_3071200_0_f.m3u8?i=728_2550
 
