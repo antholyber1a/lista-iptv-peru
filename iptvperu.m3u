@@ -79,7 +79,7 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
-https://inliveserver.com:1936/9506/9506/playlist.m3u8
+https://tv.streamprivate.live:3984/live/vamisa1live.m3u8
 
 #EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",Best Cable SPORTS
 https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
