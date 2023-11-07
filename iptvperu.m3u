@@ -535,10 +535,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1530909
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1200px-TRACE_Latina_Logo.png" group-title="Music",Trace Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/76cae1e4-248e-470e-96a7-b41c617c7b8e/3.m3u8
 
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png" group-title="Musica",Sol Música TV
-https://d2glyu450vvghm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/befa9278-a77d-4054-abd9-a73412fd079d/0.m3u8
-
-#EXTINF:-1 tvg-id="I + IMAGEN" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title=rash"Peliculas",I + IMAGEN
+#EXTINF:-1 tvg-id="I + IMAGEN" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/imagen_c_1920x1080.jpg" group-title=rash"Peliculas",I + IMAGEN
 https://stream.ads.ottera.tv/cl/231107cl4q5scpr8o6gffnmd4g/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-id="Run Time TV PELICULAS" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title=rash"Peliculas",Run Time TV PELICULAS
@@ -552,7 +549,6 @@ https://stream.ads.ottera.tv/cl/231106cl42qtvj1dtee7kpbu30/1280x720_3071200_0_f.
 
 #EXTINF:-1 tvg-id="cumo.pe" tvg-logo="https://cumo.pe/wp-content/uploads/2022/12/logo.png" group-title="Wester",CUMO TV
 https://live.obslivestream.com/cumo/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
