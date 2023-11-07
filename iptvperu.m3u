@@ -497,13 +497,13 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
-https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
 ##EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
 ##https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/87de65ef-84d5-4d6c-8d0c-58eb79e3ad8b/3.m3u8
 
 #EXTINF:-1 tvg-id="cxtvenvivo.com/tv-en-vivo/color-vision-canal-9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="Variedades",Color Vision Canal 9 (Republica Dominicana) (720p)
-https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2k7u2tuPdyiG1GJ5ngn--LkKFQlSEnAV8Z6Uncpy1Up)/dm/3/x7gy059/d/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYz6ykWsSPj81Mh5FHeLaE49MUuL7v3zCHn0Z-eG2iskn)/dm/3/x7gy059/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w306583619.m3u8
@@ -529,10 +529,10 @@ https://stream.ads.ottera.tv/cl/231107cl4q5scpr8o6gffnmd4g/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-id="Sangre Fria" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/e68983a1-sangre_fria_1920x1920_0.jpg" group-title="Peliculas",Sangre Fria
 https://stream.ads.ottera.tv/cl/231107cl4qugreq7bdhnlrrbr0/1280x720_2300000_0_f.m3u8
 
-#EXTINF:-1 tvg-id="Run Time CRIMEN" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title=rash"Peliculas",Run Time CRIMEN
+#EXTINF:-1 tvg-id="Run Time CRIMEN" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_latam_16x9.jpg" group-title=rash"Peliculas",Run Time CRIMEN
 https://stream.ads.ottera.tv/cl/231107cl4r3q2cc6uvdlnngii0/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-id="Run Time COMEDIA" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title=rash"Peliculas",Run Time COMEDIA
+#EXTINF:-1 tvg-id="Run Time COMEDIA" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" group-title=rash"Peliculas",Run Time COMEDIA
 https://stream.ads.ottera.tv/cl/231107cl4r30s37j0mq8fp2vb0/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-id="Run Time CINESPANTO" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title=rash"Peliculas",Run Time CINESPANTO
