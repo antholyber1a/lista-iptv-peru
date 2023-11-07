@@ -37,7 +37,7 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1372108547&_cdn_timestamp=1699318563&_cdn_token=68a22c59eed84e3cd190e26369408f0bf2f2d23e
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1372062299&_cdn_timestamp=1699318030&_cdn_token=5eb1090a45ea4cde13e3c0c0101f7d743521648e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1400959395&_cdn_timestamp=1699339892&_cdn_token=ab24fc0e86eeb38201cedc6f6c34494405f964fd
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
