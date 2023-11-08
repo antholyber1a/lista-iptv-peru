@@ -10,13 +10,13 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1412636243&_cdn_timestamp=1699507186&_cdn_token=2dbad138defd7e250b114a76cb53f7f02b8e5f8a
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1412653427&_cdn_timestamp=1699507385&_cdn_token=159c43e464d196d884dd42666cced8b420751637
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1412640459&_cdn_timestamp=1699507231&_cdn_token=ef8dee362d723cbb2a768c5fbdbeda97bbdd5b9c
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1412655043&_cdn_timestamp=1699507405&_cdn_token=319a1205e4bf20bb5a11b8f0368de364eb1eebb8
 
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1410732315&_cdn_timestamp=1699484924&_cdn_token=a79870028220cd6eac07f7d55ff8f69c7b855824
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1412657235&_cdn_timestamp=1699507427&_cdn_token=9bd987592cecb9a3a4c87bff8e591623a65da6ae
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
