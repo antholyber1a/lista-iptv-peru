@@ -22,7 +22,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-med
 https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
-https://cdn2.tiogol.com/edge/live2/chunklist_w464383583_tkdG9rZW5lbmR0aW1lPTE2OTkyNDA3ODcmdG9rZW5oYXNoPUFWWGNoOFhfdUpIeGdVLWV1ZXREdDFXQ2dPRnJPR19rZVBqV0lKcjFCbE09JnRva2Vuc3RhcnR0aW1lPTE2OTkyMjg3ODc=.m3u8
+https://live-ak2.vimeocdn.com/96984ff7-6939-4771-b06c-fccc49cc6a14/hdntl=exp=1699572337~acl=%2f*~data=hdntl~hmac=d64883bbadda1fc7e6b7af7b09700ca1a644bfc475da160bd7a2ddc8f3ca3e57/chunklist_b6256000.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
@@ -49,7 +49,7 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1412647187&_cdn_timestamp=1699507307&_cdn_token=1a7d5120e5df26520beab19443e3f6c6e2fbae02
 
 #EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="LATINOS",AMC 1 HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1410730915&_cdn_timestamp=1699484901&_cdn_token=8bb4ec120261186cc4331919479a3addf9f9c1c9
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1412659171&_cdn_timestamp=1699507450&_cdn_token=5e5103fc0b75fca3738be0be027a5bcf71d294d9
 
 #EXTINF:-1 tvg-id="QUVO" tvg-logo="https://i.imgur.com/eQUDuri.jpg" group-title="Undefined",QUVO TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1410727283&_cdn_timestamp=1699484838&_cdn_token=ce3f3f7d529329a861c7535355868c4281b6f137
