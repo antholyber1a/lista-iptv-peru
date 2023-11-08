@@ -34,10 +34,10 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1410726163&_cdn_timestamp=1699484818&_cdn_token=0ef43c72a13af730b1ce065a92d5529ee3d17c64
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1412648691&_cdn_timestamp=1699507327&_cdn_token=11349c8fd1e65cec3e4c7f61e495707285507459
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1410724915&_cdn_timestamp=1699484796&_cdn_token=030caa6c8eeb27052d493b7d413c5cd595efc2bd
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1412642995&_cdn_timestamp=1699507257&_cdn_token=3f23d4cb3840f1f1ccc4b4129a8993585009aa02
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
@@ -46,7 +46,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1410728771&_cdn_timestamp=1699484862&_cdn_token=d9d329ef0663de2ca442d86665a46c3f6b9f5d74
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1412647187&_cdn_timestamp=1699507307&_cdn_token=1a7d5120e5df26520beab19443e3f6c6e2fbae02
 
 #EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="LATINOS",AMC 1 HD
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1410730915&_cdn_timestamp=1699484901&_cdn_token=8bb4ec120261186cc4331919479a3addf9f9c1c9
