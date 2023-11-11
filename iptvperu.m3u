@@ -13,10 +13,11 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1431760611&_cdn_timestamp=1699765791&_cdn_token=2def42f7082fdedd5a6e93ea4fd8ebd91da9a053
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1430406763&_cdn_timestamp=1699743907&_cdn_token=5794ab5ef57d8fa92018b099fadaf5948e6983f5
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1431765947&_cdn_timestamp=1699765870&_cdn_token=90fba48d2ac730b4504a910bd774ba00f6c52bd1
 
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1430414571&_cdn_timestamp=1699744049&_cdn_token=4ce41518d5cb6836afe2192a0209ec8accf4aef6
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1431767603&_cdn_timestamp=1699765892&_cdn_token=edbd5ca4ee3fe78fdcfc4248b4f2a2952b2fb30c
+
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 
