@@ -19,7 +19,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-me
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1435926915&_cdn_timestamp=1699839120&_cdn_token=ad50faf688459533b273c332c7f049e920a5e7c6
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
-https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
 http://10.10.40.4/tmp_hls/stream/index.m3u8
