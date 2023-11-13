@@ -57,7 +57,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/20-hls/live-media.m
 #EXTINF:-1 tvg-id="USMP" tvg-logo="https://i.imgur.com/gzvcaNN.png" group-title="Undefined",USMP TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=1437774971&_cdn_timestamp=1699862744&_cdn_token=d9d370fbea6799e16b80a0389fe0929890162e4f
 
-#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 1 (480p)
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 1 offline
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8?token=ckPPAmBEYJtkr0
 
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV
