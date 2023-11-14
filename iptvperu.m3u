@@ -10,7 +10,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1258485396.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1443988323&_cdn_timestamp=1699982412&_cdn_token=de1775a3544d169e71cbd90eceeee4b238b9d1df
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/storage-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1445653051&_cdn_timestamp=1700014345&_cdn_token=7183d036aeb0cba1b06a26f867cfd2917486f26e&duration=3600&start=1699992000
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1443990547&_cdn_timestamp=1699982460&_cdn_token=9893528320a88c80767a3cced5cbe87204c5cf38
