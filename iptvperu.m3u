@@ -99,8 +99,11 @@ http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="LATINOS",AXN
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-ID="Animal Planet (International)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/512px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png?20190129212957" group-title="LATINOS",Animal Planet
+#EXTINF:-1 tvg-ID="Animal Planet" (International)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/512px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png?20190129212957" group-title="LATINOS",Animal Planet
 http://45.166.92.22:58001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-ID="Discovery Kids HD" (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20221209230406&path-prefix=es" group-title="LATINOS",Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
