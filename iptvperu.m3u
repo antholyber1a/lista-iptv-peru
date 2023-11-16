@@ -90,6 +90,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="DISNEY Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
 http://45.166.92.22:58001/play/a04q/index.m3u8
 
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cinemax_m.png" group-title="General",CINEMAX
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEFT6iuf90lE51LPzT5L2R4ZPv5UOaCqCU9NKxZgyPePVBzoPNV82Kf3gHxL1MEaR43H7_J6hmCd40GIhjheRP490L2OLjfwlopUEnjERYKV5g3WgMCOXFkYmP4VOT2Dtc8ZZpq3U52cknQFXakqN_pBPerO55dTwisJ4Wp1t18u8mqZ-lB2qUNFxkaQzNb1VCfZDkPgj6t4bwmwvAYviLpHVH4-wrwi8qhwfcWKHs8CKRW5ILNc5p5zpsIHmuQJSWLtlgVo_GX-jaXQ_9pWjNqFtszngPXZ0ULQz8IUSNCzQrGjh6ZsQS5HokfFqsgx4mw8v4RrMDtJXd4ACppFgX40TLTeNbnfGpYyLQxCpIC9noZDzDsF36q3QlnYdi1XLx3bk8tL-gVp9OEu1BkAjEtpp3TjGeY_-eLMVbfDJ_jUJ7z0_AmA9IKMoPSI-On9Rj_oKuJlo5lfMaglquXDNVD-osUVm4thloOcx9MHSBORsFaQiK213FfrhwcvmiHLhaamZVDl5vIaY3_wB1Ex-SgxT3psx-cP6bqF8JUpyvqAD3rHQrSkprJS7ZcXuMu7nszmkbkaWpwLDxdfTNid2yEyYkRMvrqVGZjsusoW9isrrZibHxtAhaIL3Z0bQ8n7lKeZ3-28oYjmHpjemh9AMTINJWnx6JvafW-N6DetP6gKaxJrEcsYXiwCAIMA8B192UrIcGU2bNo6LHSwJCdVRRKOaqPTndcqg0DBTb6iWWnQnewdt8CEVPj9iNsXBLa44ucOlW9VdpZpuzNhkubcujFYojq0qLjHZycxUrjDG9oysFX5Y1i-m6OHzvyTdTpBxC25hSoC6fWigwP66AGndnIGgGefOkL5rBYeb0Q8ipULEMKs4pKST1fNfFwbSVvkwpppDPEYVwjZDCF2GLTWgc_eisaDE7xBTBaVKAx_V9UpyABKglldS13ZXN0LTIwggg.m3u8
+
 #EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="LATINOS",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 
