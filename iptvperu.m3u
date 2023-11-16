@@ -16,7 +16,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1452176395&_cdn_timestamp=1700119708&_cdn_token=42ad9074147e57cd1d5bf064d7581f1465e33b3b
 
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1450524299&_cdn_timestamp=1700096924&_cdn_token=6e3497633537dad59a548d8adcf531514cd44204
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1452183899&_cdn_timestamp=1700119801&_cdn_token=0469a41c6dd77ef5921f06d96a3198f5bd7041c3
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -34,10 +34,10 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1450517651&_cdn_timestamp=1700096829&_cdn_token=34ef5e2fc62283ef827d0ff16ef7eca1460d5390
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1452179771&_cdn_timestamp=1700119752&_cdn_token=4299dfd7057e61b785b6de702c0e14c79ae062d0
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1450515515&_cdn_timestamp=1700096799&_cdn_token=2d85a5936911a24469a7dcbf7e9660e980f7245d
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1452177979&_cdn_timestamp=1700119729&_cdn_token=5e54890c14fc71a0c2fb756b18aae3dc8e63fabd
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
@@ -49,13 +49,13 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1450519219&_cdn_timestamp=1700096849&_cdn_token=00194e376c4b37234eb103ffe4e9b4af95a75aba
 
 #EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="LATINOS",AMC 1 HD
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1450522547&_cdn_timestamp=1700096896&_cdn_token=9ee2024ab6a9e806d8235479cf27b9aa208411f0
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1452185987&_cdn_timestamp=1700119822&_cdn_token=88d0c442feefcff9616ecdae194087be95af78fb
 
 #EXTINF:-1 tvg-id="QUVO" tvg-logo="https://i.imgur.com/eQUDuri.jpg" group-title="Undefined",QUVO TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1450521307&_cdn_timestamp=1700096881&_cdn_token=cb0a31f2a670d39fcde064aedb90457a47d08774
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1452180947&_cdn_timestamp=1700119767&_cdn_token=2d7583fb1acb92bdb7129a0e735e4f1a943e9270
 
 #EXTINF:-1 tvg-id="USMP" tvg-logo="https://i.imgur.com/gzvcaNN.png" group-title="Undefined",USMP TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=1450520107&_cdn_timestamp=1700096864&_cdn_token=34ac116882b0bc878af0d7816b1619bf64f22112
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/USMPTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=1452182259&_cdn_timestamp=1700119784&_cdn_token=a2de1fc58bf5f3a9601d783bbfa963903c0ed2dd
 
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo 1 offline
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8?token=ckPPAmBEYJtkr0
