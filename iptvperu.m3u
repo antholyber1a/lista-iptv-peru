@@ -513,9 +513,11 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
-##EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
-##https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/87de65ef-84d5-4d6c-8d0c-58eb79e3ad8b/3.m3u8
+#EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV | PE
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1190" tvg-name="Master Television" tvg-logo="https://cdn.m3u.cl/logo/1190_Master_Television.png", Master Television | PE
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="cxtvenvivo.com/tv-en-vivo/color-vision-canal-9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="Variedades",Color Vision Canal 9 (Republica Dominicana) (720p)
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYz6ykWsSPj81Mh5FHeLaE49MUuL7v3zCHn0Z-eG2iskn)/dm/3/x7gy059/d/live-2.m3u8
 
