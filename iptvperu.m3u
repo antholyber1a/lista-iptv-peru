@@ -78,20 +78,11 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p)
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
-https://tv.streamprivate.live:3984/live/vamisa1live.m3u8
-
-#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",Best Cable SPORTS
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="DISNEY Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
 http://45.166.92.22:58001/play/a04q/index.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cinemax_m.png" group-title="General",CINEMAX
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEFT6iuf90lE51LPzT5L2R4ZPv5UOaCqCU9NKxZgyPePVBzoPNV82Kf3gHxL1MEaR43H7_J6hmCd40GIhjheRP490L2OLjfwlopUEnjERYKV5g3WgMCOXFkYmP4VOT2Dtc8ZZpq3U52cknQFXakqN_pBPerO55dTwisJ4Wp1t18u8mqZ-lB2qUNFxkaQzNb1VCfZDkPgj6t4bwmwvAYviLpHVH4-wrwi8qhwfcWKHs8CKRW5ILNc5p5zpsIHmuQJSWLtlgVo_GX-jaXQ_9pWjNqFtszngPXZ0ULQz8IUSNCzQrGjh6ZsQS5HokfFqsgx4mw8v4RrMDtJXd4ACppFgX40TLTeNbnfGpYyLQxCpIC9noZDzDsF36q3QlnYdi1XLx3bk8tL-gVp9OEu1BkAjEtpp3TjGeY_-eLMVbfDJ_jUJ7z0_AmA9IKMoPSI-On9Rj_oKuJlo5lfMaglquXDNVD-osUVm4thloOcx9MHSBORsFaQiK213FfrhwcvmiHLhaamZVDl5vIaY3_wB1Ex-SgxT3psx-cP6bqF8JUpyvqAD3rHQrSkprJS7ZcXuMu7nszmkbkaWpwLDxdfTNid2yEyYkRMvrqVGZjsusoW9isrrZibHxtAhaIL3Z0bQ8n7lKeZ3-28oYjmHpjemh9AMTINJWnx6JvafW-N6DetP6gKaxJrEcsYXiwCAIMA8B192UrIcGU2bNo6LHSwJCdVRRKOaqPTndcqg0DBTb6iWWnQnewdt8CEVPj9iNsXBLa44ucOlW9VdpZpuzNhkubcujFYojq0qLjHZycxUrjDG9oysFX5Y1i-m6OHzvyTdTpBxC25hSoC6fWigwP66AGndnIGgGefOkL5rBYeb0Q8ipULEMKs4pKST1fNfFwbSVvkwpppDPEYVwjZDCF2GLTWgc_eisaDE7xBTBaVKAx_V9UpyABKglldS13ZXN0LTIwggg.m3u8
 
 #EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="LATINOS",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
@@ -108,13 +99,13 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-ID="Discovery Kids HD" (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20221209230406&path-prefix=es" group-title="LATINOS",Discovery Kids HD
 http://45.166.92.22:58001/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam 2 (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network  Latam 2 (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network  Latam (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito FreeLive Latam (720p)
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito  Latam (720p)
 
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
