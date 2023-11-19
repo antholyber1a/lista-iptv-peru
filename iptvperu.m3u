@@ -275,19 +275,16 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV (480p)
-https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados Televisión (720p)
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=190.42.31.131&token=abe3aaba2b2090138d33b2daf5f7a41b6cbe7497-60dfbdde2eed4c9b4012fc83d6a0fc2d-1700436144-1700425344
 
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
-https://live1.presstv.ir/live/hispan.m3u8
+https://live3.presstv.ir/hispantv/07.m3u8
 
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19 (720p)
-https://servilive.com:3149/live/jn19tvlive.m3u8
+https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-id="kanade.wowlymedia.com" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
 #https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
@@ -303,10 +300,7 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 https://hls.servidor.stream/storage/megatv.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p)
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Music",Miel TV (Satipo)
-https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium 109 FM (Lamas) (720p)
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
