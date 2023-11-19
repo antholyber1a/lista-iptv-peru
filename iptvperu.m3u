@@ -108,6 +108,14 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-ID="Discovery Kids HD" (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20221209230406&path-prefix=es" group-title="LATINOS",Discovery Kids HD
 http://45.166.92.22:58001/play/a04y/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito FreeLive Latam (720p)
+
 #EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
@@ -513,6 +521,9 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV (Chachapoyas)
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
+#EXTINF:-1 tvg-id="Canal33Ayacucho.pe" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="Undefined",Canal 33 Ayacucho (360p)
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+
 #EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV | PE
 https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
 
@@ -550,6 +561,12 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w106
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p)
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="VINILOS TV" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",VINILOS TV TV (720p)
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Atmósfera TV (1080p)
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
 
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
