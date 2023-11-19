@@ -43,7 +43,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p)
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+https://ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
