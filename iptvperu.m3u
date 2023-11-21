@@ -4,7 +4,7 @@
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/gKYwDmjb.jpg" group-title="General",Latina
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=1488030467&_cdn_timestamp=1700624687&_cdn_token=a92532e6719a0674c1c2fc1318abf52136bb44ab
 
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -13,16 +13,16 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1487203571&_cdn_timestamp=1700614025&_cdn_token=ae74e4e8b1af34bdf8fb29fc594c2d9734a95b5a
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFrqymMsVM3JZpClxD472-aAD2JZMEfz4rLmyceNTIiRf)/dm/3/x774s7s/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1487211275&_cdn_timestamp=1700614129&_cdn_token=e40ff71c1c61acf5656db50376c820f35ed96646
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1488041643&_cdn_timestamp=1700624816&_cdn_token=c80113f1c5569fbaa2f9af518a080aa156983acb
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
-https://s6.noshwsmkm.com:999/hls/liga1maxhd.m3u8?md5=2OyggzFwzyAyRJGtacvODg&expires=1700513745
+https://tiofutbol.com:442/live2/tracks-v1a1/mono.m3u8?remote=190.42.31.131&token=4734effe4efeca735400b1ca4b9fe010993b3b69-2ccbcda13d35902083057e7ce773eaa9-1700613493-1700602693
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
