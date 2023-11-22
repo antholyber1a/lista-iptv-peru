@@ -19,7 +19,7 @@ https://stream-04.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFrqymMsVM3JZpClxD4
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1489440627&_cdn_timestamp=1700635796&_cdn_token=b3636cc8e0aa5fc755572970758da8e1a3fd8411
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=1488041643&_cdn_timestamp=1700624816&_cdn_token=c80113f1c5569fbaa2f9af518a080aa156983acb
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-id="LIGA MAX 1" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/604_PE.png" group-title="News",LIGA 1 MAX (480p)
 http://192.168.10.103/tmp_hls/stream/index.m3u8
