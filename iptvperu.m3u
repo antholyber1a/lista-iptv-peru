@@ -16,7 +16,7 @@ http://10.10.40.4/tmp_hls/stream/index.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1539009283&_cdn_timestamp=1701300318&_cdn_token=4cd91c68a8aae266bdc38d1a538f7482530417e0
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1557979115&_cdn_timestamp=1701572186&_cdn_token=4f676a30c8c9755e1e75a87cb8d4cc4e45dee4d4
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -34,10 +34,10 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1539008419&_cdn_timestamp=1701300299&_cdn_token=053b2dce62419d29f2ecd18390199e9d84ad5923
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1557977091&_cdn_timestamp=1701572154&_cdn_token=8a33912090acd7899e6a07354dc235a7d74f44ff
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1539005587&_cdn_timestamp=1701300244&_cdn_token=bad160bd21ffe629c86492fe610ff1182767c5fb
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1557975067&_cdn_timestamp=1701572125&_cdn_token=db94f2d6e8b56bf61de2ce33a26c1011733f5381
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
