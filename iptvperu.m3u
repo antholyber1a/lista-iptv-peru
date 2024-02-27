@@ -37,7 +37,7 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1584173715&_cdn_timestamp=1701923027&_cdn_token=9b9e3813f5f559e7164873cbdb3a7efcfeb8a1ad
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1584170739&_cdn_timestamp=1701922996&_cdn_token=cd4ce8cc8b03b7609f9957b21e0fa3c74cfe0518
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsmBCsPCSTJ7jDEz5H-hMTNIM_xTXWShsRZUFnVWyfJo)/dm/3/x7x4dgx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
