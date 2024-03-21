@@ -163,6 +163,9 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-ID="DISCOVERY THEATER Channel (Latin America)" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD
 http://45.166.92.22:58001/play/a014/index.m3u8
 
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="LATINOS",Discovery Turbo
+http://45.166.92.22:58001/play/a026/index.m3u8
+
 #EXTINF:-1 tvg-ID="CNN Español Channel (Latin America)" tvg-name="CNN Español" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español
 http://45.166.92.22:58001/play/a036/index.m3u8
 
