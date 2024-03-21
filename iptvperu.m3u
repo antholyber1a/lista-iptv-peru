@@ -133,6 +133,9 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:-1 tvg-ID="WARNER Channel" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER SD
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cq8FlfxJeh42eZ9Ws4Reqvv4jAQ7VsJs5cPYlV_j3A0XA8p76LzgcJDkU4iv2fQImMGLyjurIo_FnNWWRU-dD0SIlMxtY7CCYGoyIe6_ciKlo-jlJX6pHMLa6HB3Oy9eTOl3H1TVdmgYo2KDw0-wnuFkn4WL0gDHomIQa2WEh7BNvGbyMWcdjg1At2yZQ9JDTK3xjTQEQSzYbWTXojNF_Ay13d74khe3HXucJ5P-Uzhv6efbcjUqJAegbSqrim2z_k6WffzLlxA6E8m4emt1f7naSjjnJUpmZZBxv-hWA9VvOm57_BTc0lzvbZ2LH1dEGW1DeW0DfebqqS-mhh9N3x4jOc7oQUKF8YcHFPogK84e5Q8Q7bex_Ya2N8Sug6xtD16rTIAIYR-fqcwtMbyH6U9SkkTATVCTBfhjWuAZD-doFEJjV2Hgr8LnQ4f4gRXBUPwO7cIoS7z3QckL2qE6Oi6BmyscjYli0hfr4E8Fg0HzxesK_qQWapaL6TT_xfTEZB-RU1QwMlhlTP_B6ZbCrkwHWLuJrjS2_hR4e99rY1BQLV4BLoc9IgCuH7VyXTjrVGBlEdXMxk_pNarc3FZnnkUoUcXg-fgV8EQDB1kdKKT6JsFlIDlv_7GLuv1qTjPP3BgRnX6DeR4NDlv23ldnTsN_tANDfp7-QaKHo3vVsMsjVT2DNcv5xwNULZZjEHhQfJjplj8ysVyXeXszact7P9ra8zVuXoRaQovZ1_lPYFvn-wy95Kg1l2DTOqg9FqBgJmJUVzhpprj8q95x85_eEi8e6Ef2RsTdYuUiO5OvuOzrfn8-veNXG_AL8iug7J3mdbXSdDe54khGc-qrcF-xkw1kHuTsGYhU1B08AU0OSoYuTeYbVzb4KyoCiIRuOq71Qhy3G0cq4-9ZBal9mp0iCW7NGgyIMld4XEBN-qfIdZIgASoJZXUtd2VzdC0yMNEH.m3u8
 
+#EXTINF:-1 tvg-ID="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2014/10/Studio-Universal-HD.jpg" group-title="LATINOS",Studio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+
 #EXTINF:-1 tvg-ID="Sony Channel" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINOS",Sony HD
 http://45.166.92.22:58001/play/a04a/index.m3u8
 
