@@ -78,6 +78,9 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica",Mundo de la Musica TV
+https://tv.streaming-chile.com:19360/mundodelamusicatv/mundodelamusicatv.m3u8
+
 #EXTINF:-1 tvg-id="Gol TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest/scale-to-width-down/1200?cb=20200105205809&path-prefix=es" group-title="Sports",GOL TV
 http://45.166.92.22:58001/play/a04k/index.m3u8
 
