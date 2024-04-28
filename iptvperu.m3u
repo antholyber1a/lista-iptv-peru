@@ -571,32 +571,29 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w106
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 
-#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music",Top Latino TV (404p)
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://cdn.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="Musica",Top Latino TV SD
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music",Tropical Moon Cumbia TV
+#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Musica",Tropical Moon Cumbia TV
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="Undefined",Tumpis TV (720p)
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="Musica",Tumpis TV (720p)
 https://servilive.com:3531/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Undefined",Oasis RTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Musica",Oasis RTV HD
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p)
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Musica",Turbo Mix Radio TV SD
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV (480p)
-https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musica",Memorias TV SD
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/chunklist_w724414605.m3u8
 
-#EXTINF:-1 tvg-id="VINILOS TV" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",VINILOS TV TV (720p)
+#EXTINF:-1 tvg-id="VINILOS TV" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",VINILOS TV TV HD
 https://live.obslivestream.com/controversiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Atmósfera TV (1080p)
-https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
-
-#EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Travel",Radio Rutas del Perú (360p)
-https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Travel",Radio Rutas del Perú SD
+https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/chunklist_w2137045211.m3u8
 
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (Cuzco) (360p)
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
