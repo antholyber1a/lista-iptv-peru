@@ -36,17 +36,11 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1584173715&_cdn_timestamp=1701923027&_cdn_token=9b9e3813f5f559e7164873cbdb3a7efcfeb8a1ad
 
-#EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
-https://live-b.cf.dmcdn.net/sec2(NkvljtTuypFx1RdESLxxrA_ePLvD_-j7KV6SB9cUm7-9Kvd1g-ZzmHPlx_vIf6cpqdZ7cEDNPvb-VsjJ99mtFmAV6LDswHWLDLoDm9_XYGk)/dm/3/x7x4dgx/s/live-1.m3u8
-
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa HD
 https://ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://cdn.m3u.cl/logo/1179_Contacto_Deportivo.png" group-title="Deporte",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist_w716666818.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1539007603&_cdn_timestamp=1701300283&_cdn_token=41f1778c7822c436b8120d301c0fb03da80600f5
