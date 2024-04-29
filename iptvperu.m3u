@@ -10,10 +10,10 @@ https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419ef
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
-http://10.10.40.4/tmp_hls/stream/index.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/186822
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+http://cincotv.org:25461/Fermand693/Toapa475/186827
 
 #EXTINF:-1 tvg-id="CONGRESO" tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png" group-title="News",KONGRESO TV (HD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1584179347&_cdn_timestamp=1701923082&_cdn_token=69e21daaa6144e58fdb4d51fb00a933261992fc0
@@ -38,9 +38,6 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="News",WILLAX (480p)
 https://live-b.cf.dmcdn.net/sec2(NkvljtTuypFx1RdESLxxrA_ePLvD_-j7KV6SB9cUm7-9Kvd1g-ZzmHPlx_vIf6cpqdZ7cEDNPvb-VsjJ99mtFmAV6LDswHWLDLoDm9_XYGk)/dm/3/x7x4dgx/s/live-1.m3u8
-
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa HD
 https://ntv.pe/salida/nativa.m3u8
@@ -81,120 +78,1366 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica",Mundo de la Musica TV
 https://tv.streaming-chile.com:19360/mundodelamusicatv/mundodelamusicatv.m3u8
 
-#EXTINF:-1 tvg-id="Gol TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest/scale-to-width-down/1200?cb=20200105205809&path-prefix=es" group-title="Sports",GOL TV
-http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | GOL PERU " tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="TV || PERU",Peru | GOL PERU 
+http://cincotv.org:25461/Fermand693/Toapa475/186821
 
-#EXTINF:-1 tvg-ID="DISNEY Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="LATINOS",DISNEY HD
-http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | America HD" tvg-logo="http://miarea.vip:8080/images/340038c94c7e83517f02e51ac9178a41.png" group-title="TV || PERU",Peru | America HD
+http://cincotv.org:25461/Fermand693/Toapa475/186822
 
-#EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="LATINOS",A&E
-http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | WILLAX HD" tvg-logo="http://miarea.vip:8080/images/b77f4d51b347c625deb751ca1c5ee3b1.png" group-title="TV || PERU",Peru | WILLAX HD
+http://cincotv.org:25461/Fermand693/Toapa475/186824
 
-#EXTINF:-1 tvg-ID="AMC (Latin America)  747" tvg-name="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="LATINOS",AMC
-http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Latina HD " tvg-logo="http://daleplay.club:8080/images/4c9848041592d45e0498b9a6e959a8c6.png" group-title="TV || PERU",Peru | Latina HD 
+http://cincotv.org:25461/Fermand693/Toapa475/186825
 
-#EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="LATINOS",AXN
-http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | ATV SD" tvg-logo="http://daleplay.club:8080/images/271c6c11fe0cf24ef7e4e567f8bc04a9.png" group-title="TV || PERU",Peru | ATV SD
+http://cincotv.org:25461/Fermand693/Toapa475/186826
 
-#EXTINF:-1 tvg-ID="Animal Planet" (International)" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/512px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png?20190129212957" group-title="LATINOS",Animal Planet
-http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Panamericana HD" tvg-logo="http://daleplay.club:8080/images/8a39b13bed3af21938c18fad1972f31b.png" group-title="TV || PERU",Peru | Panamericana HD
+http://cincotv.org:25461/Fermand693/Toapa475/186827
 
-#EXTINF:-1 tvg-ID="Discovery Kids HD" (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20221209230406&path-prefix=es" group-title="LATINOS",Discovery Kids HD
-http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | IPE" tvg-logo="http://daleplay.club:8080/images/6bd920df0cfbca4dde95099b4e81c5cc.png" group-title="TV || PERU",Peru | IPE
+http://cincotv.org:25461/Fermand693/Toapa475/186828
 
-#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network  Latam 2 (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Peru Noticias" tvg-logo="https://i.ibb.co/5jTPW3C/TV-Per-Noticias-2019-logo.png" group-title="TV || PERU",Peru | Peru Noticias
+http://cincotv.org:25461/Fermand693/Toapa475/186829
 
-#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network  Latam (720p)
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | RPP" tvg-logo="https://i.ibb.co/Fbfy062/rpp.png" group-title="TV || PERU",Peru | RPP
+http://cincotv.org:25461/Fermand693/Toapa475/186830
 
-#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito  Latam (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Tv Peru" tvg-logo="https://i.ibb.co/TWmHj8D/tvperu.png" group-title="TV || PERU",Peru | Tv Peru
+http://cincotv.org:25461/Fermand693/Toapa475/186831
 
-#EXTINF:-1 tvg-ID="Cartoon Network (Latin America - Panregional)" tvg-name="Cartoon Network" tvg-logo="http://158.69.127.19/oscuros/cartoonnetwork.png" group-title="LATINOS",Cartoon Network
-http://45.166.92.22:58001/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | MOVISTAR DEPORTES" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="TV || PERU",Peru | MOVISTAR DEPORTES
+http://cincotv.org:25461/Fermand693/Toapa475/186832
 
-#EXTINF:-1 tvg-ID="Cartoon Network NT Channel (Latin America)" tvg-name="Cartoon Network NT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="LATINOS",CARTOON NT HD
-http://45.166.92.22:58001/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-300x93.png" group-title="TV || PERU",Peru | NATIVA
+http://cincotv.org:25461/Fermand693/Toapa475/161958
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest/scale-to-width-down/200?cb=20210530055921" group-title="LATINOS",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="Peru | EXITOSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV || PERU",Peru | EXITOSA
+http://cincotv.org:25461/Fermand693/Toapa475/139709
 
-#EXTINF:-1 tvg-ID="ESPN HD (Latin America)" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="LATINOS",ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV || PERU",Peru | ATV+
+http://cincotv.org:25461/Fermand693/Toapa475/102082
 
-#EXTINF:-1 tvg-ID="ESPN 3 Channel (Latin America)" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="LATINOS",ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 HD" tvg-logo="https://i.ibb.co/4t5WTM6/Liga-1.png" group-title="TV || PERU",Peru | LIGA 1 HD
+http://cincotv.org:25461/Fermand693/Toapa475/81983
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="LATINOS",ESPN 4 HD
-http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 MAX HD" tvg-logo="https://i.ibb.co/DfT75MR/LIGA1-MAXTV.png" group-title="TV || PERU",Peru | LIGA 1 MAX HD
+http://cincotv.org:25461/Fermand693/Toapa475/81984
 
-#EXTINF:-1 tvg-ID="FOX SPORTS 3 Channel (Latin America)" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS",FOX SPORTS 3 HD
-http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="http://miarea.vip:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="TV || DEPORTES EUROPA",DAZN LA LIGA HD
+http://cincotv.org:25461/Fermand693/Toapa475/89730
 
-#EXTINF:-1 tvg-ID="HISTORY Channel" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="LATINOS",HISTORY HD
-http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ESTRELLA TV HD
+http://cincotv.org:25461/Fermand693/Toapa475/23729
 
-#EXTINF:-1 tvg-ID="WARNER Channel" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER HD
-http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV || ENTRETENIMIENTO",ENTRE | NBC UNIVERSO HD
+http://cincotv.org:25461/Fermand693/Toapa475/23730
 
-#EXTINF:-1 tvg-ID="WARNER Channel" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="LATINOS",WARNER SD
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cq8FlfxJeh42eZ9Ws4Reqvv4jAQ7VsJs5cPYlV_j3A0XA8p76LzgcJDkU4iv2fQImMGLyjurIo_FnNWWRU-dD0SIlMxtY7CCYGoyIe6_ciKlo-jlJX6pHMLa6HB3Oy9eTOl3H1TVdmgYo2KDw0-wnuFkn4WL0gDHomIQa2WEh7BNvGbyMWcdjg1At2yZQ9JDTK3xjTQEQSzYbWTXojNF_Ay13d74khe3HXucJ5P-Uzhv6efbcjUqJAegbSqrim2z_k6WffzLlxA6E8m4emt1f7naSjjnJUpmZZBxv-hWA9VvOm57_BTc0lzvbZ2LH1dEGW1DeW0DfebqqS-mhh9N3x4jOc7oQUKF8YcHFPogK84e5Q8Q7bex_Ya2N8Sug6xtD16rTIAIYR-fqcwtMbyH6U9SkkTATVCTBfhjWuAZD-doFEJjV2Hgr8LnQ4f4gRXBUPwO7cIoS7z3QckL2qE6Oi6BmyscjYli0hfr4E8Fg0HzxesK_qQWapaL6TT_xfTEZB-RU1QwMlhlTP_B6ZbCrkwHWLuJrjS2_hR4e99rY1BQLV4BLoc9IgCuH7VyXTjrVGBlEdXMxk_pNarc3FZnnkUoUcXg-fgV8EQDB1kdKKT6JsFlIDlv_7GLuv1qTjPP3BgRnX6DeR4NDlv23ldnTsN_tANDfp7-QaKHo3vVsMsjVT2DNcv5xwNULZZjEHhQfJjplj8ysVyXeXszact7P9ra8zVuXoRaQovZ1_lPYFvn-wy95Kg1l2DTOqg9FqBgJmJUVzhpprj8q95x85_eEi8e6Ef2RsTdYuUiO5OvuOzrfn8-veNXG_AL8iug7J3mdbXSdDe54khGc-qrcF-xkw1kHuTsGYhU1B08AU0OSoYuTeYbVzb4KyoCiIRuOq71Qhy3G0cq4-9ZBal9mp0iCW7NGgyIMld4XEBN-qfIdZIgASoJZXUtd2VzdC0yMNEH.m3u8
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (MEX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (MEX)
+http://cincotv.org:25461/Fermand693/Toapa475/23757
 
-#EXTINF:-1 tvg-ID="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2014/10/Studio-Universal-HD.jpg" group-title="LATINOS",Studio Universal HD
-http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="PREMIUM | UNIVERSAL REALITY" tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL REALITY
+http://cincotv.org:25461/Fermand693/Toapa475/23850
 
-#EXTINF:-1 tvg-ID="Sony Channel" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINOS",Sony HD
-http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | UNA FAMILIA DE DIEZ" tvg-logo="" group-title="TV || 24/7 SERIES",UNA FAMILIA DE DIEZ
+http://cincotv.org:25461/Fermand693/Toapa475/23852
 
-#EXTINF:-1 tvg-ID="Univision Channel" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/462px-Univision_logo.svg.png" group-title="LATINOS",Univision HD
-http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SCOOBY DOO" tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/ScoobyDooMystery_icon.png" group-title="TV || 24/7 INFANTILES",SCOOBY DOO
+http://cincotv.org:25461/Fermand693/Toapa475/23854
 
-#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined",Univision Latinoamérica
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV || INFANTIL",BOING KIDS HD
+http://cincotv.org:25461/Fermand693/Toapa475/23857
 
-#EXTINF:-1 tvg-ID="TyCSports Channel (Latin America)" tvg-name="TyCSports" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="LATINOS",TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://i.ibb.co/tJc50WH/imagen.png" group-title="TV || 24/7 SERIES",ALF
+http://cincotv.org:25461/Fermand693/Toapa475/23940
 
-#EXTINF:-1 tvg-ID="Telemundo Channel (Latin America)" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="LATINOS",Telemundo HD
-http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA CASA DE MICKEY MOUSE" tvg-logo="https://i.ibb.co/wKkHdLw/Nice-Png-mickey-mouse-logo-png-478826.png" group-title="TV || 24/7 INFANTILES",LA CASA DE MICKEY MOUSE
+http://cincotv.org:25461/Fermand693/Toapa475/23964
 
-#EXTINF:-1 tvg-ID="CINECANAL Channel (Latin America)" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="LATINOS",CINECANAL SD
-http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MALCOLM EL DEL MEDIO" tvg-logo="https://images5.alphacoders.com/407/thumb-1920-407425.png" group-title="TV || 24/7 SERIES", MALCOLM EL DEL MEDIO
+http://cincotv.org:25461/Fermand693/Toapa475/23974
 
-#EXTINF:-1 tvg-ID="The Discovery Channel (Latin America)" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boomerang_2006-2008_logo.svg/300px-Boomerang_2006-2008_logo.svg.png" group-title="LATINOS",Boomerang HD
-http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV || CINE Y SERIES",DE PELICULA
+http://cincotv.org:25461/Fermand693/Toapa475/24040
 
-#EXTINF:-1 tvg-ID="Boomerang Channel (Latin America)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="LATINOS",DHE HD
-http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI" tvg-logo="https://canal26.org/wp-content/uploads/2021/08/logo_hd.fw_.png" group-title="TV || EL SALVADOR",EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI
+http://cincotv.org:25461/Fermand693/Toapa475/24192
 
-#EXTINF:-1 tvg-ID="DISCOVERY THEATER Channel (Latin America)" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINOS",DISCOVERY THEATER HD
-http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="0838" tvg-name="PREMIUM | GOLDEN " tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN 
+http://cincotv.org:25461/Fermand693/Toapa475/24301
 
-#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="LATINOS",Discovery Turbo
-http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="I501.10240.zap2it.com" tvg-name="PREMIUM | HBO HD (LATINO)" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD (LAT)
+http://cincotv.org:25461/Fermand693/Toapa475/24302
 
-#EXTINF:-1 tvg-ID="CNN Español Channel (Latin America)" tvg-name="CNN Español" tvg-logo="https://w7.pngwing.com/pngs/986/942/png-transparent-cnn-en-espanol-hd-logo-thumbnail.png" group-title="LATINOS",CNN Español
-http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 11" tvg-logo="http://miarea.vip:8080/images/c9a4c6a93c929d40ca5da28d43d7be19.png" group-title="TV || COSTA RICA",C. Rica - Repretel 11
+http://cincotv.org:25461/Fermand693/Toapa475/24387
 
-#EXTINF:-1 tvg-ID="HBO Channel (Latin America)" tvg-name="HBO" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png" group-title="LATINOS",HBO HD
-http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="TV || COSTA RICA",C. Rica - Repretel 4
+http://cincotv.org:25461/Fermand693/Toapa475/24388
 
-#EXTINF:-1 tvg-ID="HBO PLUS Channel" tvg-name="HBO PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO PLUS HD
-http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Teletica 7 HD" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="TV || COSTA RICA",C. Rica - Teletica 7 HD
+http://cincotv.org:25461/Fermand693/Toapa475/24391
 
-#EXTINF:-1 tvg-ID="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LATINOS",HISTORY 2 HD
-http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="TV || COSTA RICA",C. Rica - FUTV
+http://cincotv.org:25461/Fermand693/Toapa475/24392
 
-#EXTINF:-1 tvg-ID="HTV Channel (Latin America)" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/langes-800px-Htv_logo.svg.png" group-title="LATINOS",HTV
-http://45.166.92.22:58001/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Tigo Sport" tvg-logo="" group-title="TV || COSTA RICA",C. Rica - Tigo Sport
+http://cincotv.org:25461/Fermand693/Toapa475/24393
 
-#EXTINF:-1 tvg-ID="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png" group-title="LATINOS",HBO XTREME HD
-http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY PIXAR 1 HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE DISNEY PIXAR 1 HD
+http://cincotv.org:25461/Fermand693/Toapa475/24490
 
-#EXTINF:-1 tvg-ID="Paramount HD" tvg-name="Paramount HD" tvg-logo="https://i.ebayimg.com/images/g/Qf0AAOSw30NidGrj/s-l500.jpg" group-title="LATINOS",Paramount HD
-http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL STUDIO HD
+http://cincotv.org:25461/Fermand693/Toapa475/24495
 
-#EXTINF:-1 tvg-ID="Pasiones HD" tvg-name="Pasiones HD" tvg-logo="https://us.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="LATINOS",Pasiones HD
-http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL ANIMADO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL ANIMADO HD
+http://cincotv.org:25461/Fermand693/Toapa475/24496
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | CANAL i" tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2023/02/Logo-Canal-I-para-la-Web-151-x-99-1.png" group-title="TV || VENEZUELA", CANAL i (VEN)
+http://cincotv.org:25461/Fermand693/Toapa475/24583
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELEVEN" tvg-logo="https://envivo.televen.com/images/logo-televen.png" group-title="TV || VENEZUELA",VEN | TELEVEN
+http://cincotv.org:25461/Fermand693/Toapa475/24591
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL TRECE
+http://cincotv.org:25461/Fermand693/Toapa475/24598
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://i.ibb.co/zPtzGV0/chespirito.png" group-title="TV || 24/7 INFANTILES",24/7 | CHESPIRITO
+http://cincotv.org:25461/Fermand693/Toapa475/25154
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PAW PATROL" tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="TV || 24/7 INFANTILES",24/7 | PAW PATROL
+http://cincotv.org:25461/Fermand693/Toapa475/25155
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | 2 PERROS TONTOS" tvg-logo="https://i.ibb.co/hg3yhz8/pngwing-com-3.png" group-title="TV || 24/7 INFANTILES",24/7 | 2 PERROS TONTOS
+http://cincotv.org:25461/Fermand693/Toapa475/25156
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL PAJARO LOCO" tvg-logo="https://i.ibb.co/X7k2bsj/PAJARO.png" group-title="TV || 24/7 INFANTILES",24/7 | EL PAJARO LOCO
+http://cincotv.org:25461/Fermand693/Toapa475/25158
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA MONSTER" tvg-logo="https://i.ibb.co/v1NCJwW/MONSTER.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA MONSTER
+http://cincotv.org:25461/Fermand693/Toapa475/25159
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SUPER CAMPEONES" tvg-logo="https://i.ibb.co/hVZ2mFf/SUPER-CAMPEONES.jpg" group-title="TV || 24/7 INFANTILES",24/7 | LOS SUPER CAMPEONES
+http://cincotv.org:25461/Fermand693/Toapa475/25160
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo que callamos las mujeres" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4a59809/2147483647/strip/true/crop/3840x2160+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fff%2F75%2F3ba90b0f25ff309d3288d362860d%2Flo-que-callamos-1884415.png" group-title="TV || 24/7 NOVELAS",24/7 Lo que callamos las mujeres
+http://cincotv.org:25461/Fermand693/Toapa475/25161
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | VIVOS" tvg-logo="https://www.larepublica.ec/wp-content/uploads/2014/04/Vivos2.png" group-title="TV || 24/7 SERIES",24/7 | VIVOS
+http://cincotv.org:25461/Fermand693/Toapa475/25163
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="EVENTOS PPV (solo eventos)",UFC FHD
+http://cincotv.org:25461/Fermand693/Toapa475/25184
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LA FAMILIA PELUCHE" tvg-logo="https://i.ibb.co/HXLthDJ/imagen.png" group-title="TV || 24/7 SERIES",24/7 | LA FAMILIA PELUCHE
+http://cincotv.org:25461/Fermand693/Toapa475/25195
+
+#EXTINF:-1 tvg-id="I239.16108.zap2it.com" tvg-name="SUNDANCE" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV || CINE Y SERIES",SUNDANCE
+http://cincotv.org:25461/Fermand693/Toapa475/25196
+
+#EXTINF:-1 tvg-id="I294.67749.zap2it.com" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.ibb.co/KxKcG07/Discovery-Familia.png" group-title="TV || DOCUMENTALES",DISCOVERY FAMILIA
+http://cincotv.org:25461/Fermand693/Toapa475/25197
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| UNIVERSAL KIDS HD" tvg-logo="http://miarea.vip:8080/images/49f955c3658a4d6a0b5f128e3f0bf0d0.png" group-title=" TV || KIDS (USA)",KIDS| UNIVERSAL KIDS HD
+http://cincotv.org:25461/Fermand693/Toapa475/25201
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| PBS KIDS HD" tvg-logo="http://miarea.vip:8080/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title=" TV || KIDS (USA)",KIDS| PBS KIDS HD
+http://cincotv.org:25461/Fermand693/Toapa475/25202
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title=" TV || KIDS (USA)",KIDS| NICKELODEON HD
+http://cincotv.org:25461/Fermand693/Toapa475/25203
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY JR HD" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY JR HD
+http://cincotv.org:25461/Fermand693/Toapa475/25204
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK JR HD" tvg-logo="http://miarea.vip:8080/images/dbe20313e007928ef4e9990347a2e424.png" group-title=" TV || KIDS (USA)",KIDS| NICK JR HD
+http://cincotv.org:25461/Fermand693/Toapa475/25205
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| TEEN NICK HD" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title=" TV || KIDS (USA)",KIDS| TEEN NICK HD
+http://cincotv.org:25461/Fermand693/Toapa475/25206
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| BOOMERANG HD" tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title=" TV || KIDS (USA)",KIDS| BOOMERANG HD
+http://cincotv.org:25461/Fermand693/Toapa475/25207
+
+#EXTINF:-1 tvg-id="I292.18279.zap2it.com" tvg-name="KIDS| DISNEY XD PACIFICO HD" tvg-logo="http://miarea.vip:8080/images/88d38d7e606f3407449091e3f3349861.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY XD PACIFICO HD
+http://cincotv.org:25461/Fermand693/Toapa475/25208
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY CHANNEL HD
+http://cincotv.org:25461/Fermand693/Toapa475/25210
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/0rZ8WWg/pngegg-2.png" group-title=" TV || KIDS (USA)",KIDS| CARTOON NETWORK HD
+http://cincotv.org:25461/Fermand693/Toapa475/25211
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | RT Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | RT Noticias
+http://cincotv.org:25461/Fermand693/Toapa475/25513
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CGTN (esp)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | CGTN (esp)
+http://cincotv.org:25461/Fermand693/Toapa475/25514
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAS AVENTURAS DE LADY BUG" tvg-logo="https://i.ibb.co/9VqTRbJ/pngegg-4.png" group-title="TV || 24/7 INFANTILES",24/7 | LAS AVENTURAS DE LADY BUG
+http://cincotv.org:25461/Fermand693/Toapa475/25633
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CASO CERRADO" tvg-logo="https://i.ibb.co/HG4yScF/Sin-t-tulo-2.png" group-title="TV || 24/7 SERIES",24/7 | CASO CERRADO
+http://cincotv.org:25461/Fermand693/Toapa475/25636
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="PREMIUM | UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL TV
+http://cincotv.org:25461/Fermand693/Toapa475/25795
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rocky_Logo.svg/1200px-Rocky_Logo.svg.png" group-title="TV || 24/7 CINE",24/7 ROCKY
+http://cincotv.org:25461/Fermand693/Toapa475/26339
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | NUBEH TV" tvg-logo="https://www.nubeh.tv/nubehtv.png" group-title="TV || VENEZUELA",VEN | NUBEH TV
+http://cincotv.org:25461/Fermand693/Toapa475/26621
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | OXIGENO NETWORK" tvg-logo="https://oxigenonetwork.com.ve/img/logooxca.png" group-title="TV || VENEZUELA",VEN | OXIGENO NETWORK
+http://cincotv.org:25461/Fermand693/Toapa475/26622
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | PANAVISION" tvg-logo="http://www.panavision.tv/panavisiontv.png" group-title="TV || VENEZUELA",VEN | PANAVISION
+http://cincotv.org:25461/Fermand693/Toapa475/26623
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | PROMAR TV" tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="TV || VENEZUELA",VEN | PROMAR TV
+http://cincotv.org:25461/Fermand693/Toapa475/26625
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | VENEVISION" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="TV || VENEZUELA",VEN | VENEVISION
+http://cincotv.org:25461/Fermand693/Toapa475/26628
+
+#EXTINF:-1 tvg-id="" tvg-name="URU| LATINO KIDS TV" tvg-logo="https://i.ibb.co/64NHFHw/Latino.png" group-title="TV || URUGUAY",URU| LATINO KIDS TV
+http://cincotv.org:25461/Fermand693/Toapa475/26633
+
+#EXTINF:-1 tvg-id="" tvg-name="URU| UCL TELEVISION LATAM " tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal-2048x1229.png" group-title="TV || URUGUAY",URU| UCL TELEVISION LATAM 
+http://cincotv.org:25461/Fermand693/Toapa475/26634
+
+#EXTINF:-1 tvg-id="" tvg-name="URU| LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="TV || URUGUAY",URU| LA RED
+http://cincotv.org:25461/Fermand693/Toapa475/26637
+
+#EXTINF:-1 tvg-id="" tvg-name="URU| TV FLORIDA HD" tvg-logo="https://i.ibb.co/WyjR6xF/FLOREIDA.png" group-title="TV || URUGUAY",URU| TV FLORIDA HD
+http://cincotv.org:25461/Fermand693/Toapa475/26638
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | ABC TV" tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="TV || PARAGUAY",PY | ABC TV
+http://cincotv.org:25461/Fermand693/Toapa475/26648
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | ESTACION CRISTAL" tvg-logo="https://i.ibb.co/wgCmpqC/ESTACION-CRISTAL.png" group-title="TV || PARAGUAY",PY | ESTACION CRISTAL
+http://cincotv.org:25461/Fermand693/Toapa475/26651
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | FRUTILLAR TV" tvg-logo="https://olzamultimedios.com.py/wp-content/uploads/2023/07/ftv.png" group-title="TV || PARAGUAY",PY | FRUTILLAR TV
+http://cincotv.org:25461/Fermand693/Toapa475/26652
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | Mi TV " tvg-logo="https://i.ibb.co/R4rRYpX/MITV.png" group-title="TV || PARAGUAY",PY | Mi TV 
+http://cincotv.org:25461/Fermand693/Toapa475/26653
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | RCC TV" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-mobile-rcc.png" group-title="TV || PARAGUAY",PY | RCC TV
+http://cincotv.org:25461/Fermand693/Toapa475/26654
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | SOMOS DEL ESTE TV" tvg-logo="https://i.ibb.co/L87rTqj/SOMOS.png" group-title="TV || PARAGUAY",PY | SOMOS DEL ESTE TV
+http://cincotv.org:25461/Fermand693/Toapa475/26655
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="TV || PARAGUAY",PY | SUCESO TV
+http://cincotv.org:25461/Fermand693/Toapa475/26656
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNICANAL" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="TV || PARAGUAY",PY | UNICANAL
+http://cincotv.org:25461/Fermand693/Toapa475/26657
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNIRADIO TV" tvg-logo="https://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980.png" group-title="TV || PARAGUAY",PY | UNIRADIO TV
+http://cincotv.org:25461/Fermand693/Toapa475/26658
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | Canal 10 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="TV || ARGENTINA",Arg | Canal 10 
+http://cincotv.org:25461/Fermand693/Toapa475/26659
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | Canal 22 Buenos Aires " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png" group-title="TV || ARGENTINA",Arg | Canal 22 Buenos Aires 
+http://cincotv.org:25461/Fermand693/Toapa475/26661
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | TELEFORMULA" tvg-logo="https://i.ibb.co/dMLcSz6/unnamed.png" group-title=" TV || NOTICIAS",NOTICIAS | TELEFORMULA
+http://cincotv.org:25461/Fermand693/Toapa475/27618
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="TV || 24/7 SERIES",24/7 | CANTINFLAS
+http://cincotv.org:25461/Fermand693/Toapa475/28069
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLENOVELAS HD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS HD
+http://cincotv.org:25461/Fermand693/Toapa475/28420
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="TV || PARAGUAY",PY | GEN TV 
+http://cincotv.org:25461/Fermand693/Toapa475/53464
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | LA TELE " tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="TV || PARAGUAY",PY | LA TELE 
+http://cincotv.org:25461/Fermand693/Toapa475/53465
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | TRECE " tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="TV || PARAGUAY",PY | TRECE 
+http://cincotv.org:25461/Fermand693/Toapa475/53467
+
+#EXTINF:-1 tvg-id="" tvg-name="PY | SNT" tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="TV || PARAGUAY",PY | SNT
+http://cincotv.org:25461/Fermand693/Toapa475/53468
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | HOSANNA VISION" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="TV || PANAMA",PANAMA | HOSANNA VISION
+http://cincotv.org:25461/Fermand693/Toapa475/53471
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| NEX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" group-title="TV || PANAMA",PANAMA| NEX TV
+http://cincotv.org:25461/Fermand693/Toapa475/53472
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | RPC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpc-tv-pa.png" group-title="TV || PANAMA",PANAMA | RPC
+http://cincotv.org:25461/Fermand693/Toapa475/53473
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TELEMETRO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemetro.png" group-title="TV || PANAMA",PANAMA | TELEMETRO
+http://cincotv.org:25461/Fermand693/Toapa475/53474
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVMAX " tvg-logo="http://miarea.vip:8080/images/32b5e0e8fdf88d376f6a00602bd41cb8.png" group-title="TV || PANAMA",PANAMA | TVMAX 
+http://cincotv.org:25461/Fermand693/Toapa475/53475
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-pa.png" group-title="TV || PANAMA",PANAMA | TVN
+http://cincotv.org:25461/Fermand693/Toapa475/53476
+
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| CABLE ONDA FC" tvg-logo="http://miarea.vip:8080/images/90ad2c9d87364c680b5afcec2a9977ff.png" group-title="TV || PANAMA",PANAMA| CABLE ONDA FC
+http://cincotv.org:25461/Fermand693/Toapa475/53477
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | KANAL D DRAMA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-drama-tr.png" group-title="TV || ENTRETENIMIENTO",ENTRE | KANAL D DRAMA
+http://cincotv.org:25461/Fermand693/Toapa475/66150
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ALIENTO VISION HD" tvg-logo="https://i.ibb.co/thtKkMS/ALIENTO-VISION.jpg" group-title="TV || RELIGION",RELIGION | ALIENTO VISION HD
+http://cincotv.org:25461/Fermand693/Toapa475/66408
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION I CBN EN ESPAÑOL HD" tvg-logo="https://i.ibb.co/ykrKFhh/CBN.jpg" group-title="TV || RELIGION",RELIGION I CBN EN ESPAÑOL HD
+http://cincotv.org:25461/Fermand693/Toapa475/66409
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ASOMAVISION HD" tvg-logo="https://i.ibb.co/Ypf6Qd9/ASOMAVISION.jpg" group-title="TV || RELIGION",RELIGION  | ASOMAVISION HD
+http://cincotv.org:25461/Fermand693/Toapa475/66415
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CANAL ISB HD" tvg-logo="https://i.ibb.co/vq0nxRB/ISB.jpg" group-title="TV || RELIGION",RELIGION | CANAL ISB HD
+http://cincotv.org:25461/Fermand693/Toapa475/66417
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CRISTIANA TV HD" tvg-logo="https://i.ibb.co/tLbMGY8/CTN.jpg" group-title="TV || RELIGION",RELIGION | CRISTIANA TV HD
+http://cincotv.org:25461/Fermand693/Toapa475/66418
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | NUEVO TIEMPO HD" tvg-logo="https://i.ibb.co/SnrQTwQ/nuevo-tiempo.jpg" group-title="TV || RELIGION",RELIGION | NUEVO TIEMPO HD
+http://cincotv.org:25461/Fermand693/Toapa475/66423
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | TELE FAMILIA HD" tvg-logo="https://i.ibb.co/mypGL1r/telefamilia.jpg" group-title="TV || RELIGION",RELIGION | TELE FAMILIA HD
+http://cincotv.org:25461/Fermand693/Toapa475/66429
+
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | TV UNIVERSAL HD" tvg-logo="https://i.ibb.co/ThQcbnn/universal.jpg" group-title="TV || RELIGION",RELIGION  | TV UNIVERSAL HD
+http://cincotv.org:25461/Fermand693/Toapa475/66430
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 3
+http://cincotv.org:25461/Fermand693/Toapa475/69249
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 2
+http://cincotv.org:25461/Fermand693/Toapa475/69250
+
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="EL SALVADOR | TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="TV || EL SALVADOR",EL SALVADOR | TIGO SPORTS
+http://cincotv.org:25461/Fermand693/Toapa475/69441
+
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV || ESPAÑA",ESPAÑA | ATRESERIES HD
+http://cincotv.org:25461/Fermand693/Toapa475/74039
+
+#EXTINF:-1 tvg-id="Canal19.sv" tvg-name="EL SALVADOR | CANAL 19" tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 19
+http://cincotv.org:25461/Fermand693/Toapa475/74114
+
+#EXTINF:-1 tvg-id="" tvg-name="Cocina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",Cocina TV
+http://cincotv.org:25461/Fermand693/Toapa475/74696
+
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",VEVO Latino
+http://cincotv.org:25461/Fermand693/Toapa475/74720
+
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Reggaeton y Trap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",VEVO Reggaeton y Trap
+http://cincotv.org:25461/Fermand693/Toapa475/74721
+
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",TUDN
+http://cincotv.org:25461/Fermand693/Toapa475/74741
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 1
+http://cincotv.org:25461/Fermand693/Toapa475/75171
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 2
+http://cincotv.org:25461/Fermand693/Toapa475/75173
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 3
+http://cincotv.org:25461/Fermand693/Toapa475/75174
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 4
+http://cincotv.org:25461/Fermand693/Toapa475/75175
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 5
+http://cincotv.org:25461/Fermand693/Toapa475/75177
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE PPV LATINOS 6
+http://cincotv.org:25461/Fermand693/Toapa475/75178
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2fba4f552644ce9d592c588a206fdb1c.png" group-title="EVENTOS PPV (solo eventos)",ESPN PREMIUN HD ARGENTINA
+http://cincotv.org:25461/Fermand693/Toapa475/89731
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="TV || ARGENTINA",Arg | TN NOTICIAS
+http://cincotv.org:25461/Fermand693/Toapa475/90963
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | C5N" tvg-logo="https://static.epg.best/ar/C5N.ar.png" group-title="TV || ARGENTINA",Arg | C5N
+http://cincotv.org:25461/Fermand693/Toapa475/90964
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | LA NACION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png" group-title="TV || ARGENTINA",Arg | LA NACION+
+http://cincotv.org:25461/Fermand693/Toapa475/90965
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | A24 HD" tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="TV || ARGENTINA",Arg | A24 HD
+http://cincotv.org:25461/Fermand693/Toapa475/90966
+
+#EXTINF:-1 tvg-id="" tvg-name="HOND| HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="TV || HONDURAS",HOND| HCH
+http://cincotv.org:25461/Fermand693/Toapa475/92859
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://i.ibb.co/BTsG7rZ/AEROPUERTO.png" group-title="TV || 24/7 SERIES",24/7 | ALERTA AEROPUERTO
+http://cincotv.org:25461/Fermand693/Toapa475/101570
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll VALLENATO INTERNACIONAL" tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/virtv_logo-290x68px.png" group-title="TV || MUSICA",MUSICA ll VALLENATO INTERNACIONAL
+http://cincotv.org:25461/Fermand693/Toapa475/101616
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll VEVO LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/800px-Vevo_2016_logo.png" group-title="TV || MUSICA",MUSICA ll VEVO LATINO
+http://cincotv.org:25461/Fermand693/Toapa475/102104
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll REGGAETON Y TRAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/800px-Vevo_2016_logo.png" group-title="TV || MUSICA",MUSICA ll REGGAETON Y TRAP
+http://cincotv.org:25461/Fermand693/Toapa475/102105
+
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TVO 23" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="TV || EL SALVADOR",EL SALVADOR | TVO 23
+http://cincotv.org:25461/Fermand693/Toapa475/102106
+
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TELEVISION LEGISLATIVA" tvg-logo="https://i.ibb.co/HCNMXKz/asamblea.png" group-title="TV || EL SALVADOR",EL SALVADOR | TELEVISION LEGISLATIVA
+http://cincotv.org:25461/Fermand693/Toapa475/102107
+
+#EXTINF:-1 tvg-id="Energy" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="TV || ESPAÑA",ESPAÑA | ENERGY HD
+http://cincotv.org:25461/Fermand693/Toapa475/110480
+
+#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="MX| LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TV || MEXICO",MX| LAS ESTRELLAS MX
+http://cincotv.org:25461/Fermand693/Toapa475/110791
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | UNIVISION" tvg-logo="https://lavibra.com/wp-content/uploads/2022/04/univision-noticias-logo.png" group-title=" TV || NOTICIAS",NOTICIAS | UNIVISION
+http://cincotv.org:25461/Fermand693/Toapa475/110792
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title=" TV || NOTICIAS",NOTICIAS | ADN 40
+http://cincotv.org:25461/Fermand693/Toapa475/110831
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN XTRA" tvg-logo="https://i.ibb.co/KsNBdwy/rcn-xtra-2.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN XTRA
+http://cincotv.org:25461/Fermand693/Toapa475/110832
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN MAS+" tvg-logo="https://i.ibb.co/B3R4kf4/rcn-mas-1.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN MAS+
+http://cincotv.org:25461/Fermand693/Toapa475/110833
+
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Ticavison" tvg-logo="https://i.ibb.co/Fh2Q85x/TICA-VISION.png" group-title="TV || COSTA RICA",C. Rica - Ticavison
+http://cincotv.org:25461/Fermand693/Toapa475/110834
+
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 27" tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 27
+http://cincotv.org:25461/Fermand693/Toapa475/112568
+
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | ESQUIPULAS TV" tvg-logo="https://esquipulastv.com/wp-content/uploads/2020/08/Logo-ETV-FINAL-1.png" group-title="TV ||  GUATEMALA",GUATEMALA | ESQUIPULAS TV
+http://cincotv.org:25461/Fermand693/Toapa475/112569
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal_7_Guatemala_2022.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 7
+http://cincotv.org:25461/Fermand693/Toapa475/112571
+
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TN23" tvg-logo="https://i.ibb.co/PrgK87Z/TN23.png" group-title="TV ||  GUATEMALA",GUATEMALA | TN23
+http://cincotv.org:25461/Fermand693/Toapa475/112572
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="TV || ARGENTINA",Arg | EL NUEVE
+http://cincotv.org:25461/Fermand693/Toapa475/112573
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UCHILE TV" tvg-logo="https://uchile.cl/dam/jcr:20e3bf2d-85b5-4698-bf35-65296717c568/UCHILE-TV.png" group-title="TV || CHILE",CHILE | UCHILE TV
+http://cincotv.org:25461/Fermand693/Toapa475/112574
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UCV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/UCV_Logo.png" group-title="TV || CHILE",CHILE | UCV
+http://cincotv.org:25461/Fermand693/Toapa475/112575
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UESTV" tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="TV || CHILE",CHILE | UESTV
+http://cincotv.org:25461/Fermand693/Toapa475/112576
+
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="TV || COSTA RICA",C. Rica - Canal 2
+http://cincotv.org:25461/Fermand693/Toapa475/112577
+
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="TV || COSTA RICA",C. Rica - Canal 8
+http://cincotv.org:25461/Fermand693/Toapa475/112578
+
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Telesistema" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1.png" group-title="TV || COSTA RICA",C. Rica - Telesistema
+http://cincotv.org:25461/Fermand693/Toapa475/112579
+
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 1" tvg-logo="https://www.lateja.cr/resizer/kpPE6RkJefPYNY4yxYoY8xT3Y8g=/400x225/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/A5QSG7J2ERAN7DYBXWEGY73H2I.png" group-title="TV || COSTA RICA",C. Rica - Canal 1
+http://cincotv.org:25461/Fermand693/Toapa475/112580
+
+#EXTINF:-1 tvg-id="" tvg-name="HOND| AZA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yIZFNQjKAP9mUeUxULy0Iiie8pWObcdhY9enQvpQ_fODPhiD3vVIQqQKQ-VNe4gmSN3MU2BLKUzh0snIvT6p9aOIAUHKBtSrIhYqtMXAgDQO5O_aiPT4hJQtEPhdXIR-JlvFxnj2GorAA24Ib-XNE0h0XIYfyG5rCC3nPNUl4jC0ocng8MqEFj__/s540/aza-tv-honduras-logoroku.png" group-title="TV || HONDURAS",HOND| AZA TV
+http://cincotv.org:25461/Fermand693/Toapa475/112925
+
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TELEVISION METROPOLIS" tvg-logo="http://www.comunicacionesmetropolis.com/assets/images/image8o-1-180x86.png" group-title="TV || HONDURAS",HOND| TELEVISION METROPOLIS
+http://cincotv.org:25461/Fermand693/Toapa475/112927
+
+#EXTINF:-1 tvg-id="" tvg-name="NIcaragua | WTV CANAL 20" tvg-logo="https://i.ibb.co/BT3fntJ/WTW.png" group-title="TV || NICARAGUA",NIcaragua | WTV CANAL 20
+http://cincotv.org:25461/Fermand693/Toapa475/112928
+
+#EXTINF:-1 tvg-id="" tvg-name="NIcaragua | CANAL 9" tvg-logo="https://i.ibb.co/MZBV6T3/9.png" group-title="TV || NICARAGUA",NIcaragua | CANAL 9
+http://cincotv.org:25461/Fermand693/Toapa475/112929
+
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV || EL SALVADOR",EL SALVADOR | WOW TV
+http://cincotv.org:25461/Fermand693/Toapa475/117970
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="TV || DEPORTES EUROPA",DAZN F1
+http://cincotv.org:25461/Fermand693/Toapa475/120317
+
+#EXTINF:-1 tvg-id="594clarovideo.cl" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="TV || CINE Y SERIES",MULTIPREMIER
+http://cincotv.org:25461/Fermand693/Toapa475/126323
+
+#EXTINF:-1 tvg-id="" tvg-name="I SAT CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/49f1f5c584a7aaab04bf5d5cdb546a8b.png" group-title="TV || CINE Y SERIES",I SAT CHANNEL HD
+http://cincotv.org:25461/Fermand693/Toapa475/126324
+
+#EXTINF:-1 tvg-id="" tvg-name="MOREMAX FHD" tvg-logo="http://miarea.vip:8080/images/fd14f9920e6f9506903aeced73e335a8.png" group-title="TV || CINE Y SERIES",MOREMAX FHD
+http://cincotv.org:25461/Fermand693/Toapa475/126327
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA HD" tvg-logo="http://miarea.vip:8080/images/d6fd0924e324f50669ae0295adf59567.png" group-title="TV || CINE Y SERIES",MULTICINEMA HD
+http://cincotv.org:25461/Fermand693/Toapa475/126330
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY MOVIES
+http://cincotv.org:25461/Fermand693/Toapa475/126339
+
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME NETWORK HD LATINO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="TV || CINE Y SERIES",MY TIME NETWORK HD LATINO
+http://cincotv.org:25461/Fermand693/Toapa475/139692
+
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 1 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 1 HD
+http://cincotv.org:25461/Fermand693/Toapa475/139693
+
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 2 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 2 HD
+http://cincotv.org:25461/Fermand693/Toapa475/139694
+
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 3 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 3 HD
+http://cincotv.org:25461/Fermand693/Toapa475/139695
+
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 4 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 4 HD
+http://cincotv.org:25461/Fermand693/Toapa475/139696
+
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 5 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 5 HD
+http://cincotv.org:25461/Fermand693/Toapa475/139697
+
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL CHANNEL 6 HD" tvg-logo="http://miarea.vip:8080/images/cc297a0068853233ebf5ee7e90a3a96e.png" group-title="TV || 24/7 CINE",MARVEL CHANNEL 6 HD
+http://cincotv.org:25461/Fermand693/Toapa475/139698
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA FAMILIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA FAMILIA
+http://cincotv.org:25461/Fermand693/Toapa475/139699
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA COMEDIA
+http://cincotv.org:25461/Fermand693/Toapa475/139700
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINEMA TERROR
+http://cincotv.org:25461/Fermand693/Toapa475/139701
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA LEGO MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="TV || 24/7 CINE",CINEMA LEGO MOVIES
+http://cincotv.org:25461/Fermand693/Toapa475/139702
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE MANDALORIAN" tvg-logo="https://i.ibb.co/BTzvzbP/pngwing-com-4.png" group-title="TV || 24/7 SERIES",24/7 | THE MANDALORIAN
+http://cincotv.org:25461/Fermand693/Toapa475/139703
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | JUEGO DE TRONOS" tvg-logo="https://i.postimg.cc/yYv6r6Jm/JUEGO.png" group-title="TV || 24/7 SERIES",24/7 | JUEGO DE TRONOS
+http://cincotv.org:25461/Fermand693/Toapa475/139704
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PHINEAS Y FERB" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Phineas_e_Ferb.png" group-title="TV || 24/7 INFANTILES",24/7 | PHINEAS Y FERB
+http://cincotv.org:25461/Fermand693/Toapa475/139705
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" group-title="TV || 24/7 NOVELAS",24/7 La rosa de Guadalupe
+http://cincotv.org:25461/Fermand693/Toapa475/139706
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapo" tvg-logo="https://i.ibb.co/7r8P7kc/pngegg-1.png" group-title="TV || 24/7 NOVELAS",24/7 El Chapo
+http://cincotv.org:25461/Fermand693/Toapa475/139707
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PICAPIEDRA" tvg-logo="https://i.ibb.co/wcn3sFK/PICAPIEDRA.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS PICAPIEDRA
+http://cincotv.org:25461/Fermand693/Toapa475/139708
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://i.ibb.co/7WxWMNS/axn-movie.png" group-title="TV || CINE Y SERIES",AXN MOVIES
+http://cincotv.org:25461/Fermand693/Toapa475/141568
+
+#EXTINF:-1 tvg-id="" tvg-name="TEENNICK HD" tvg-logo="https://i.ibb.co/L18T6xv/teennick-logo-concept-2023-by-logofan100-dg1uxmm.png" group-title="TV || INFANTIL",TEENNICK HD
+http://cincotv.org:25461/Fermand693/Toapa475/146664
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA",COL | CARACOL SD
+http://cincotv.org:25461/Fermand693/Toapa475/153830
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION LOS ANGELES
+http://cincotv.org:25461/Fermand693/Toapa475/162346
+
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/0049d39433c2d9959de3767edd8dd31b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO LOS ANGELES
+http://cincotv.org:25461/Fermand693/Toapa475/162347
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | IVC" tvg-logo="http://fanc.tmsimg.com/assets/s97002_ll_h3_aa.png" group-title="TV || VENEZUELA",VEN | IVC
+http://cincotv.org:25461/Fermand693/Toapa475/169154
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="TV || VENEZUELA",VEN | GLOBOVISION
+http://cincotv.org:25461/Fermand693/Toapa475/169155
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/2560px-TV_Azteca_Cinema_logo.svg.png" group-title="TV || CINE Y SERIES",CINEMA
+http://cincotv.org:25461/Fermand693/Toapa475/169185
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El final del paraíso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg" group-title="TV || 24/7 NOVELAS",24/7 El final del paraíso
+http://cincotv.org:25461/Fermand693/Toapa475/169282
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Globo_logo_1975.svg/2172px-Globo_logo_1975.svg.png" group-title="TV || BRASIL",Globo Premium
+http://cincotv.org:25461/Fermand693/Toapa475/169766
+
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment HD" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="TV || DOCUMENTALES",E! Entertaiment HD
+http://cincotv.org:25461/Fermand693/Toapa475/170735
+
+#EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA",COL | SEÑAL COLOMBIA
+http://cincotv.org:25461/Fermand693/Toapa475/171153
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DORAEMON" tvg-logo="https://www.pngmart.com/files/5/Doraemon-PNG-Pic.png" group-title="TV || 24/7 INFANTILES",24/7 | DORAEMON
+http://cincotv.org:25461/Fermand693/Toapa475/171237
+
+#EXTINF:-1 tvg-id="" tvg-name="XTREMA RETRO SERIES" tvg-logo="https://i.ibb.co/XX88Y9Q/RETRO.png" group-title="TV || CINE Y SERIES",XTREMA RETRO SERIES
+http://cincotv.org:25461/Fermand693/Toapa475/172175
+#EXTINF:-1 tvg-id="" tvg-name="PLANETATV FAMILY" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="TV || CINE Y SERIES",PLANETATV FAMILY
+http://cincotv.org:25461/Fermand693/Toapa475/172891
+#EXTINF:-1 tvg-id="" tvg-name="PLANETATV MOVIE" tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="TV || CINE Y SERIES",PLANETATV MOVIE
+http://cincotv.org:25461/Fermand693/Toapa475/173266
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="TV || VENEZUELA",VEN | VE PLUS
+http://cincotv.org:25461/Fermand693/Toapa475/173270
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL INFANTIL" tvg-logo="https://i.ibb.co/6rHqQ5j/CANAL-INFANTIL.png" group-title="TV || INFANTIL",CANAL INFANTIL
+http://cincotv.org:25461/Fermand693/Toapa475/173276
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="TV || CINE Y SERIES",CINE PREMIUM
+http://cincotv.org:25461/Fermand693/Toapa475/173277
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="TV || CINE Y SERIES",CINE FAMILIAR
+http://cincotv.org:25461/Fermand693/Toapa475/173278
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="TV || CINE Y SERIES",CINE HISPANO
+http://cincotv.org:25461/Fermand693/Toapa475/173279
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 1" tvg-logo="http://miarea.vip:8080/images/b26c430b77563771ebc075c349a1e9d2.png" group-title="TV || 24/7 CINE",CINE NETFLIX 1
+http://cincotv.org:25461/Fermand693/Toapa475/176198
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 2" tvg-logo="http://miarea.vip:8080/images/9f292e1a35dc6ae083b558c76796a386.png" group-title="TV || 24/7 CINE",CINE NETFLIX 2
+http://cincotv.org:25461/Fermand693/Toapa475/176199
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 3" tvg-logo="http://miarea.vip:8080/images/e584c0392a72284e0a6db6f24a5307fe.png" group-title="TV || 24/7 CINE",CINE NETFLIX 3
+http://cincotv.org:25461/Fermand693/Toapa475/176200
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 4" tvg-logo="http://miarea.vip:8080/images/341cb746a182ce7794a01554edb5d600.png" group-title="TV || 24/7 CINE",CINE NETFLIX 4
+http://cincotv.org:25461/Fermand693/Toapa475/176201
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 5" tvg-logo="http://miarea.vip:8080/images/50b07b9f0c5e702bdcec7e3626645149.png" group-title="TV || 24/7 CINE",CINE NETFLIX 5
+http://cincotv.org:25461/Fermand693/Toapa475/176202
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 6" tvg-logo="http://miarea.vip:8080/images/e05883a56570cbdd96af5d715b197fd7.png" group-title="TV || 24/7 CINE",CINE NETFLIX 6
+http://cincotv.org:25461/Fermand693/Toapa475/17620
+3
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 7" tvg-logo="http://miarea.vip:8080/images/1b7552bcff0edef542970672608c35b6.png" group-title="TV || 24/7 CINE",CINE NETFLIX 7
+http://cincotv.org:25461/Fermand693/Toapa475/176204
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE NETFLIX 8" tvg-logo="http://miarea.vip:8080/images/0db817b6729c1fc9f8df4d501055a3f0.png" group-title="TV || 24/7 CINE",CINE NETFLIX 8
+http://cincotv.org:25461/Fermand693/Toapa475/176205
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="TV || MUSICA",MUSICA ll HTV
+http://cincotv.org:25461/Fermand693/Toapa475/176994
+
+#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST HD" tvg-logo="https://i.ibb.co/DzJW6dv/epix.png" group-title="TV || CINE Y SERIES",EPIX WEST HD
+http://cincotv.org:25461/Fermand693/Toapa475/180752
+
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX " tvg-logo="https://i.ibb.co/zFZ2F97/max.png" group-title="TV || CINE Y SERIES",ACTION MAX 
+http://cincotv.org:25461/Fermand693/Toapa475/180753
+
+#EXTINF:-1 tvg-id="" tvg-name="Arg | GENTV DIGITAL" tvg-logo="https://i.ibb.co/LdtcWs1/Gentv.png" group-title="TV || ARGENTINA",Arg | GENTV DIGITAL
+http://cincotv.org:25461/Fermand693/Toapa475/180814
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ZOMBIE" tvg-logo="https://i.postimg.cc/YC4w600j/zombie.png" group-title="TV || 24/7 CINE",24/7 ZOMBIE
+http://cincotv.org:25461/Fermand693/Toapa475/181926
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TERROR" tvg-logo="https://i.postimg.cc/kgSxRNQ4/tERROR.png" group-title="TV || 24/7 CINE",24/7 TERROR
+http://cincotv.org:25461/Fermand693/Toapa475/181927
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="https://i.postimg.cc/vZJ3CNmG/WALKING.png" group-title="TV || 24/7 CINE",24/7 THE WALKING DEAD
+http://cincotv.org:25461/Fermand693/Toapa475/181928
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCREAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTRUcUnAydqboYfis0IhhY1edDt.jpg" group-title="TV || 24/7 CINE",24/7 SCREAM
+http://cincotv.org:25461/Fermand693/Toapa475/181929
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAGAS" tvg-logo="https://i.postimg.cc/2jZqjjrd/SAGAS.png" group-title="TV || 24/7 CINE",24/7 SAGAS
+http://cincotv.org:25461/Fermand693/Toapa475/181930
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROMANCE" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TV || 24/7 CINE",24/7 ROMANCE
+http://cincotv.org:25461/Fermand693/Toapa475/181931
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV
+http://cincotv.org:25461/Fermand693/Toapa475/181933
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 2
+http://cincotv.org:25461/Fermand693/Toapa475/181934
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 3
+http://cincotv.org:25461/Fermand693/Toapa475/181935
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 4
+http://cincotv.org:25461/Fermand693/Toapa475/181936
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 5
+http://cincotv.org:25461/Fermand693/Toapa475/181937
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 1
+http://cincotv.org:25461/Fermand693/Toapa475/181939
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 2
+http://cincotv.org:25461/Fermand693/Toapa475/181940
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 3
+http://cincotv.org:25461/Fermand693/Toapa475/181941
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 4
+http://cincotv.org:25461/Fermand693/Toapa475/181942
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 5
+http://cincotv.org:25461/Fermand693/Toapa475/181943
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEAKY BLINDERS" tvg-logo="https://i.ibb.co/Jxkk7nY/peaky.png" group-title="TV || 24/7 SERIES",24/7 | PEAKY BLINDERS
+http://cincotv.org:25461/Fermand693/Toapa475/182136
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SONIC X" tvg-logo="https://info.sonicretro.org/images/b/b7/Sonicx.png" group-title="TV || 24/7 INFANTILES",24/7 | SONIC X
+http://cincotv.org:25461/Fermand693/Toapa475/182137
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DARK" tvg-logo="https://dark.netflix.io/share/global.png" group-title="TV || 24/7 SERIES",24/7 | DARK
+http://cincotv.org:25461/Fermand693/Toapa475/182138
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MERLIN" tvg-logo="https://i.ibb.co/DCfhSFH/pngegg-4.png" group-title="TV || 24/7 SERIES",24/7 | MERLIN
+http://cincotv.org:25461/Fermand693/Toapa475/182139
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CUATRO" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="TV || ESPAÑA",ESPAÑA | CUATRO
+http://cincotv.org:25461/Fermand693/Toapa475/182368
+
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ESPAÑA | CANAL HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="TV || ESPAÑA",ESPAÑA | CANAL HOLLYWOOD
+http://cincotv.org:25461/Fermand693/Toapa475/182369
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PARAMOUNT NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s87049_ll_h3_aa.png" group-title="TV || ESPAÑA",ESPAÑA | PARAMOUNT NETWORK
+http://cincotv.org:25461/Fermand693/Toapa475/182370
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELE TUYA" tvg-logo="https://teletuya.net/wp-content/uploads/2023/07/Logo-TeleTuya.png" group-title="TV || VENEZUELA",VEN | TELE TUYA
+http://cincotv.org:25461/Fermand693/Toapa475/182972
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | FORO TV
+http://cincotv.org:25461/Fermand693/Toapa475/182973
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELESUR" tvg-logo="https://www.telesurtv.net/__export/1433991439956/sites/telesur/img/news/2015/06/10/telesurlogo.jpg" group-title="TV || VENEZUELA",VEN | TELESUR
+http://cincotv.org:25461/Fermand693/Toapa475/182974
+#EXTINF:-1 tvg-id="" tvg-name="Peru | KARIBEÑA TV" tvg-logo="https://karibena.b-cdn.net/wp-content/uploads/2023/06/logo-karibena-1000x350-1.png" group-title="TV || PERU",Peru | KARIBEÑA TV
+http://cincotv.org:25461/Fermand693/Toapa475/183698
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ASOMAVISION" tvg-logo="https://i0.wp.com/www.asomavision.com/wp-content/uploads/2021/08/logo-1.png" group-title="TV || RELIGION",RELIGION | ASOMAVISION
+http://cincotv.org:25461/Fermand693/Toapa475/184767
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ODISEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="TV || ESPAÑA",ESPAÑA | ODISEA
+http://cincotv.org:25461/Fermand693/Toapa475/184852
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alegrijes y Rebujos" tvg-logo="https://i.ibb.co/f83C7dX/alegrijes.png" group-title="TV || 24/7 NOVELAS",24/7 Alegrijes y Rebujos
+http://cincotv.org:25461/Fermand693/Toapa475/185030
+#EXTINF:-1 tvg-id="" tvg-name="CINE AMAZON PRIME " tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="TV || 24/7 CINE",CINE AMAZON PRIME 
+http://cincotv.org:25461/Fermand693/Toapa475/185031
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY+ " tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" group-title="TV || 24/7 CINE",CINE DISNEY+ 
+http://cincotv.org:25461/Fermand693/Toapa475/185032
+#EXTINF:-1 tvg-id="" tvg-name="CINE PARAMOUNT+" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="TV || 24/7 CINE",CINE PARAMOUNT+
+http://cincotv.org:25461/Fermand693/Toapa475/185034
+#EXTINF:-1 tvg-id="" tvg-name="CINE STAR+ " tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" group-title="TV || 24/7 CINE",CINE STAR+ 
+http://cincotv.org:25461/Fermand693/Toapa475/185035
+#EXTINF:-1 tvg-id="" tvg-name="JUNTOS" tvg-logo="https://i.ibb.co/C5FKfkw/JUNTOS.png" group-title="TV || CINE Y SERIES",JUNTOS
+http://cincotv.org:25461/Fermand693/Toapa475/185048
+#EXTINF:-1 tvg-id="" tvg-name="13 KIDS" tvg-logo="https://i.ibb.co/rfTYHhP/KIDS.png" group-title="TV || INFANTIL",13 KIDS
+http://cincotv.org:25461/Fermand693/Toapa475/185049
+#EXTINF:-1 tvg-id="" tvg-name="LOGOSTV KIDS" tvg-logo="https://i.ibb.co/KLTf0f0/LOGOS.png" group-title="TV || INFANTIL",LOGOSTV KIDS
+http://cincotv.org:25461/Fermand693/Toapa475/185050
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://i.ibb.co/D75pqxQ/id.png" group-title="TV || USA (INGLES)",ID INVESTIGATION DISCOVERY HD
+http://cincotv.org:25461/Fermand693/Toapa475/185139
+#EXTINF:-1 tvg-id="" tvg-name="OXYGEN TRUE CRIME" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8Lqdu-j37XoIym5y5q8xrGiKM953T-WbmuEJxPqBAGN3Y.png" group-title="TV || USA (INGLES)",OXYGEN TRUE CRIME
+http://cincotv.org:25461/Fermand693/Toapa475/185140
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ADULT SWIM
+http://cincotv.org:25461/Fermand693/Toapa475/185141
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TV || ESPAÑA",ESPAÑA | LA 1 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186219
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TRECE" tvg-logo="https://i.ibb.co/3CsvTJt/trece.png" group-title="TV || ESPAÑA",ESPAÑA | TRECE
+http://cincotv.org:25461/Fermand693/Toapa475/186220
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | EL TORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="TV || ESPAÑA",ESPAÑA | EL TORO TV
+http://cincotv.org:25461/Fermand693/Toapa475/186221
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | 24H" tvg-logo="https://i.ibb.co/kh1mxkz/24.png" group-title="TV || ESPAÑA",ESPAÑA | 24H
+http://cincotv.org:25461/Fermand693/Toapa475/186222
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FLOOXER" tvg-logo="https://i.ibb.co/KXg1sPq/FLOOXER.png" group-title="TV || ESPAÑA",ESPAÑA | FLOOXER
+http://cincotv.org:25461/Fermand693/Toapa475/186223
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ATRES PLAYER CLASICOS" tvg-logo="https://i.ibb.co/JjFY1PF/ATRES.png" group-title="TV || ESPAÑA",ESPAÑA | ATRES PLAYER CLASICOS
+http://cincotv.org:25461/Fermand693/Toapa475/186224
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | VIVA RTV" tvg-logo="https://i.ibb.co/ZgqCb7C/VIVA.png" group-title="TV || ESPAÑA",ESPAÑA | VIVA RTV
+http://cincotv.org:25461/Fermand693/Toapa475/186225
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO CHICAGO" tvg-logo="https://i.ibb.co/KbRpJcF/telemundo-chicado.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO CHICAGO
+http://cincotv.org:25461/Fermand693/Toapa475/186428
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
+http://cincotv.org:25461/Fermand693/Toapa475/186429
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION NEW YORK" tvg-logo="https://i.ibb.co/Wz7Jvfj/univision-ny.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION NEW YORK
+http://cincotv.org:25461/Fermand693/Toapa475/186430
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIMAS MIAMI" tvg-logo="https://i.ibb.co/h121P95/unimas.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIMAS MIAMI
+http://cincotv.org:25461/Fermand693/Toapa475/186431
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | COMEDY CENTRAL HD" tvg-logo="http://miarea.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="TV || ENTRETENIMIENTO",ENTRE | COMEDY CENTRAL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186432
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | CANAL DE LAS ESTRELLAS FHD" tvg-logo="http://miarea.vip:8080/images/b15c919ea2656eb10414e6e6001d61e1.png" group-title="TV || ENTRETENIMIENTO",ENTRE | CANAL DE LAS ESTRELLAS FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186434
+#EXTINF:-1 tvg-id="I218.30259.schedulesdirect.org" tvg-name="ENTRE | E! ENTRETENIMIENTO HD" tvg-logo="http://miarea.vip:8080/images/ec12a8b7e005a91bd7dd67cef960610b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | E! ENTRETENIMIENTO HD
+http://cincotv.org:25461/Fermand693/Toapa475/186435
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | DISTRITO COMEDIA HD" tvg-logo="https://i.ibb.co/x6MHNYr/Logo-Distrito-Comedia.png" group-title="TV || ENTRETENIMIENTO",ENTRE | DISTRITO COMEDIA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186436
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | FOOD NETWORK LATINO FHD" tvg-logo="http://miarea.vip:8080/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="TV || ENTRETENIMIENTO",ENTRE | FOOD NETWORK LATINO FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186437
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | GOURMET HD" tvg-logo="http://miarea.vip:8080/images/08a1fc1cb8a462f37c3eaf29f15562bb.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GOURMET HD
+http://cincotv.org:25461/Fermand693/Toapa475/186438
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | GALAVISION" tvg-logo="https://i.ibb.co/Q8TCJT7/galavision.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GALAVISION
+http://cincotv.org:25461/Fermand693/Toapa475/186439
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | UNICABLE HD" tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNICABLE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186440
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | BITME" tvg-logo="http://miarea.vip:8080/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="TV || ENTRETENIMIENTO",ENTRE | BITME
+http://cincotv.org:25461/Fermand693/Toapa475/186441
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/QJPFN2P/cartoonito.png" group-title="TV || INFANTIL",CARTOONITO
+http://cincotv.org:25461/Fermand693/Toapa475/186442
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD " tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="TV || INFANTIL",DISCOVERY KIDS HD 
+http://cincotv.org:25461/Fermand693/Toapa475/186443
+#EXTINF:-1 tvg-id="0" tvg-name="CARTOON NETWORK " tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="TV || INFANTIL",CARTOON NETWORK 
+http://cincotv.org:25461/Fermand693/Toapa475/186444
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL " tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="TV || INFANTIL",DISNEY CHANNEL 
+http://cincotv.org:25461/Fermand693/Toapa475/186445
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="TV || INFANTIL",DISNEY JUNIOR
+http://cincotv.org:25461/Fermand693/Toapa475/186446
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="TV || INFANTIL",TOONCAST 
+http://cincotv.org:25461/Fermand693/Toapa475/186447
+#EXTINF:-1 tvg-id="" tvg-name="NICK " tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="TV || INFANTIL",NICK 
+http://cincotv.org:25461/Fermand693/Toapa475/186448
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="TV || INFANTIL",NICK 2 TEAM NICK HD
+http://cincotv.org:25461/Fermand693/Toapa475/186449
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD  " tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="TV || INFANTIL",NICK JR HD  
+http://cincotv.org:25461/Fermand693/Toapa475/186450
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="TV || INFANTIL",BABY TV HD
+http://cincotv.org:25461/Fermand693/Toapa475/186451
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="TV || CINE Y SERIES",CINEMAX HD
+http://cincotv.org:25461/Fermand693/Toapa475/186452
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="TV || CINE Y SERIES",SPACE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186453
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="TV || CINE Y SERIES",CINECANAL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186454
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY CHANNEL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186456
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="TV || CINE Y SERIES",WARNER HD
+http://cincotv.org:25461/Fermand693/Toapa475/186457
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://miarea.vip:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png" group-title="TV || CINE Y SERIES",TBS HD
+http://cincotv.org:25461/Fermand693/Toapa475/186459
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://miarea.vip:8080/images/a156fe16fad2f066fd0c090caf4b89b7.png" group-title="TV || CINE Y SERIES",SYFY HD
+http://cincotv.org:25461/Fermand693/Toapa475/186461
+#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="TV || CINE Y SERIES",A&E 
+http://cincotv.org:25461/Fermand693/Toapa475/186462
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV || CINE Y SERIES",AMC
+http://cincotv.org:25461/Fermand693/Toapa475/186463
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="TV || CINE Y SERIES",AXN 
+http://cincotv.org:25461/Fermand693/Toapa475/186464
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="TV || CINE Y SERIES",CINECANAL
+http://cincotv.org:25461/Fermand693/Toapa475/186465
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX USA" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="TV || CINE Y SERIES",CINEMAX USA
+http://cincotv.org:25461/Fermand693/Toapa475/186466
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV || CINE Y SERIES",FX
+http://cincotv.org:25461/Fermand693/Toapa475/186467
+#EXTINF:-1 tvg-id="" tvg-name="FILM  & ARTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="TV || CINE Y SERIES",FILM  & ARTS
+http://cincotv.org:25461/Fermand693/Toapa475/186472
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="TV || CINE Y SERIES",TCM
+http://cincotv.org:25461/Fermand693/Toapa475/186475
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES " tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="TV || CINE Y SERIES",TNT SERIES 
+http://cincotv.org:25461/Fermand693/Toapa475/186476
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="TV || CINE Y SERIES",TNT HD
+http://cincotv.org:25461/Fermand693/Toapa475/186477
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN PREMIER HD
+http://cincotv.org:25461/Fermand693/Toapa475/186479
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STARZ ENCORE ESPANOL" tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STARZ ENCORE ESPANOL
+http://cincotv.org:25461/Fermand693/Toapa475/186480
+#EXTINF:-1 tvg-id="0802" tvg-name="PREMIUM | DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | DHE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186481
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO LATINO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO LATINO
+http://cincotv.org:25461/Fermand693/Toapa475/186482
+#EXTINF:-1 tvg-id="0814" tvg-name="PREMIUM | HBO 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO 2
+http://cincotv.org:25461/Fermand693/Toapa475/186483
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL COMEDY HD" tvg-logo="https://universalplus.com/assets/logo_comedy_hero.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL COMEDY HD
+http://cincotv.org:25461/Fermand693/Toapa475/186484
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CINEMA HD" tvg-logo="http://miarea.vip:8080/images/5290e121f398b2a63ed3b8b720b54d33.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL CINEMA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186485
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL PREMIER HD" tvg-logo="http://miarea.vip:8080/images/e5bacf48b8ec9875c34ede41ee2a0913.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL PREMIER HD
+http://cincotv.org:25461/Fermand693/Toapa475/186486
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CRIME HD" tvg-logo="http://miarea.vip:8080/images/7b2900fcdb12cfc140ad2a6027f7e065.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL CRIME HD
+http://cincotv.org:25461/Fermand693/Toapa475/186487
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STUDIO UNIVERSAL " tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STUDIO UNIVERSAL 
+http://cincotv.org:25461/Fermand693/Toapa475/186488
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STAR CHANNEL HD" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STAR CHANNEL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186489
+#EXTINF:-1 tvg-id="16423" tvg-name="PREMIUM | GOLDEN EDGE HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN EDGE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186490
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | GOLDEN HD" tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN HD
+http://cincotv.org:25461/Fermand693/Toapa475/186491
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | GOLDEN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN PLUS FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186492
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO XTREME
+http://cincotv.org:25461/Fermand693/Toapa475/186493
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD
+http://cincotv.org:25461/Fermand693/Toapa475/186494
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO MUNDI HD
+http://cincotv.org:25461/Fermand693/Toapa475/186496
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO PLUS FHD " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO PLUS FHD 
+http://cincotv.org:25461/Fermand693/Toapa475/186497
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO PLUS HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO PLUS HD
+http://cincotv.org:25461/Fermand693/Toapa475/186498
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="PREMIUM | HBO POP HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO POP HD
+http://cincotv.org:25461/Fermand693/Toapa475/186499
+#EXTINF:-1 tvg-id="0848" tvg-name="PREMIUM | HBO SIGNATURE HD" tvg-logo="http://miarea.vip:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO SIGNATURE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186500
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD*+*" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="TV || DOCUMENTALES",INVESTIGATION DISCOVERY HD*+*
+http://cincotv.org:25461/Fermand693/Toapa475/186501
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY SCIENCIE HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="TV || DOCUMENTALES",DISCOVERY SCIENCIE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186503
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="TV || DOCUMENTALES",DISCOVERY THEATHER FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186504
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY TURBO  HD
+http://cincotv.org:25461/Fermand693/Toapa475/186505
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY WORLD HD
+http://cincotv.org:25461/Fermand693/Toapa475/186506
+#EXTINF:-1 tvg-id="0" tvg-name="H2 HD" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="TV || DOCUMENTALES",H2 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186507
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="TV || DOCUMENTALES",HISTORY CHANNEL FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186509
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="TV || DOCUMENTALES",NATGEO WILD HD
+http://cincotv.org:25461/Fermand693/Toapa475/186511
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFHY HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="TV || DOCUMENTALES",NATIONAL GEOGRAFHY HD
+http://cincotv.org:25461/Fermand693/Toapa475/186512
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="TV || DOCUMENTALES",TLC HD
+http://cincotv.org:25461/Fermand693/Toapa475/186513
+#EXTINF:-1 tvg-id="0" tvg-name="TYC SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TYC.jpg" group-title="TV || ARGENTINA",TYC SPORTS FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186514
+#EXTINF:-1 tvg-id="0" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="TV || ARGENTINA",TNT SPORTS ARGENTINA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186515
+#EXTINF:-1 tvg-id="0" tvg-name="TV PUBLICA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/TVPUBLICA.png" group-title="TV || ARGENTINA",TV PUBLICA
+http://cincotv.org:25461/Fermand693/Toapa475/186516
+#EXTINF:-1 tvg-id="0" tvg-name="TELEFE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/TELEFE.png" group-title="TV || ARGENTINA",TELEFE
+http://cincotv.org:25461/Fermand693/Toapa475/186517
+#EXTINF:-1 tvg-id="0" tvg-name="EL TRECE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/ELTRECE.png" group-title="TV || ARGENTINA",EL TRECE
+http://cincotv.org:25461/Fermand693/Toapa475/186518
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-name="ARG: America TV HD " tvg-logo="https://i.ibb.co/jfDf9K0/america.png" group-title="TV || ARGENTINA",ARG: America TV HD 
+http://cincotv.org:25461/Fermand693/Toapa475/186519
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 12 HD" tvg-logo="http://miarea.vip:8080/images/c4ec6e042c59d543cc850484121e43e8.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 12 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186520
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2 HD" tvg-logo="http://miarea.vip:8080/images/f900dc416b125c163dcb71e4185dd277.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 2 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186521
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4 HD" tvg-logo="http://miarea.vip:8080/images/d5a98cc11d1757b7165c4f9ed9461cb8.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 4 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186522
+#EXTINF:-1 tvg-id="Canal6Nacional.sv" tvg-name="EL SALVADOR | CANAL 6 HD" tvg-logo="http://miarea.vip:8080/images/7b7cdd444b39157b2a916d79fc4ebe49.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 6 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186523
+#EXTINF:-1 tvg-id="Canal21.sv" tvg-name="EL SALVADOR | CANAL 21" tvg-logo="https://static.epg.best/sv/Canal21.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 21
+http://cincotv.org:25461/Fermand693/Toapa475/186524
+#EXTINF:-1 tvg-id="Canal10Nacional.sv" tvg-name="EL SALVADOR | CANAL 10 " tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 10 
+http://cincotv.org:25461/Fermand693/Toapa475/186525
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ORBITA TV" tvg-logo="https://i.ibb.co/pXKz0Fx/ORBITA.png" group-title="TV || EL SALVADOR",EL SALVADOR | ORBITA TV
+http://cincotv.org:25461/Fermand693/Toapa475/186526
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TRIBUNA TV" tvg-logo="https://i.ibb.co/tBPSjvm/tribuna.png" group-title="TV || EL SALVADOR",EL SALVADOR | TRIBUNA TV
+http://cincotv.org:25461/Fermand693/Toapa475/186527
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA",COL | CARACOL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186530
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL INT HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA",COL | CARACOL INT HD
+http://cincotv.org:25461/Fermand693/Toapa475/186531
+#EXTINF:-1 tvg-id="0" tvg-name="COL | NTN24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV || COLOMBIA",COL | NTN24 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186532
+#EXTINF:-1 tvg-id="" tvg-name="COL | EL TIEMPO HD" tvg-logo="https://i.ibb.co/373PbRD/TIEMPO.png" group-title="TV || COLOMBIA",COL | EL TIEMPO HD
+http://cincotv.org:25461/Fermand693/Toapa475/186533
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD*" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD*
+http://cincotv.org:25461/Fermand693/Toapa475/186534
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD " tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD 
+http://cincotv.org:25461/Fermand693/Toapa475/186535
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="TV || COLOMBIA",COL | TELEANTIOQUIA
+http://cincotv.org:25461/Fermand693/Toapa475/186536
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="TV || COLOMBIA",COL | TELEPACIFICO
+http://cincotv.org:25461/Fermand693/Toapa475/186537
+#EXTINF:-1 tvg-id="0" tvg-name="COL | TELECAFE HD" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV || COLOMBIA",COL | TELECAFE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186538
+#EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV HD" tvg-logo="https://i.ibb.co/9g8JcJW/city.png" group-title="TV || COLOMBIA",COL | CITY TV HD
+http://cincotv.org:25461/Fermand693/Toapa475/186539
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | HOLA TV HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HOLATV.png" group-title="TV || ENTRETENIMIENTO",ENTRE | HOLA TV HD
+http://cincotv.org:25461/Fermand693/Toapa475/186780
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | MAS CHIC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/MASCHIC.png" group-title="TV || ENTRETENIMIENTO",ENTRE | MAS CHIC HD
+http://cincotv.org:25461/Fermand693/Toapa475/186781
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | AMERICA TV LATINO USA" tvg-logo="http://miarea.vip:8080/images/920866c82a903679d345fe5be58f3c99.png" group-title="TV || ENTRETENIMIENTO",ENTRE | AMERICA TV LATINO USA
+http://cincotv.org:25461/Fermand693/Toapa475/186782
+#EXTINF:-1 tvg-id="0" tvg-name="NOTICIAS | DW ESPAÑOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/NOTICIAS/DWAMERICA.png" group-title=" TV || NOTICIAS",NOTICIAS | DW ESPAÑOL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186783
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | M+ DRAMA HD" tvg-logo="http://miarea.vip:8080/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV || ENTRETENIMIENTO",ENTRE | M+ DRAMA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186784
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="TV || DOCUMENTALES",ANIMAL PLANET
+http://cincotv.org:25461/Fermand693/Toapa475/186793
+#EXTINF:-1 tvg-id="" tvg-name="Telehit HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Telehit_M%C3%BAsica_2020.png/revision/latest?cb=20200916014619&path-prefix=es" group-title="TV || MUSICA",Telehit HD
+http://cincotv.org:25461/Fermand693/Toapa475/186794
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/1200px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="TV || MUSICA",MTV 80'S
+http://cincotv.org:25461/Fermand693/Toapa475/186795
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1200px-MTV_Classic_2021.svg.png" group-title="TV || MUSICA",MTV CLASSIC
+http://cincotv.org:25461/Fermand693/Toapa475/186796
+#EXTINF:-1 tvg-id="" tvg-name="30A Music Channel" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="TV || MUSICA",30A Music Channel
+http://cincotv.org:25461/Fermand693/Toapa475/186797
+#EXTINF:-1 tvg-id="" tvg-name="70-80 TV" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="TV || MUSICA",70-80 TV
+http://cincotv.org:25461/Fermand693/Toapa475/186798
+#EXTINF:-1 tvg-id="0" tvg-name="Activa TV" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="TV || MUSICA",Activa TV
+http://cincotv.org:25461/Fermand693/Toapa475/186799
+#EXTINF:-1 tvg-id="0" tvg-name="AlternaTV" tvg-logo="https://alternatv.ar/alternatv.png" group-title="TV || MUSICA",AlternaTV
+http://cincotv.org:25461/Fermand693/Toapa475/186800
+#EXTINF:-1 tvg-id="0" tvg-name="BLUES TV" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="TV || MUSICA",BLUES TV
+http://cincotv.org:25461/Fermand693/Toapa475/186801
+#EXTINF:-1 tvg-id="0" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="TV || MUSICA",Cadena Elite
+http://cincotv.org:25461/Fermand693/Toapa475/186802
+#EXTINF:-1 tvg-id="0" tvg-name="KandelaTV" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="TV || MUSICA",KandelaTV
+http://cincotv.org:25461/Fermand693/Toapa475/186803
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | BBC WORLD NEWS  HD" tvg-logo="http://miarea.vip:8080/images/716552173f971c1d71f970afe777ebad.png" group-title=" TV || NOTICIAS",NOTICIAS | BBC WORLD NEWS  HD
+http://cincotv.org:25461/Fermand693/Toapa475/186804
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | FOX NEWS HD" tvg-logo="http://miarea.vip:8080/images/db1fae135e1fb3f7951b7c858c59cb91.png" group-title=" TV || NOTICIAS",NOTICIAS | FOX NEWS HD
+http://cincotv.org:25461/Fermand693/Toapa475/186805
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CNN EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/c59c61eb0aabfafcb920f41341601c4e.png" group-title=" TV || NOTICIAS",NOTICIAS | CNN EN ESPANOL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186807
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CNN ENGLISH HD" tvg-logo="http://miarea.vip:8080/images/57c6fd1ead5c64211481a7d3b1b95204.png" group-title=" TV || NOTICIAS",NOTICIAS | CNN ENGLISH HD
+http://cincotv.org:25461/Fermand693/Toapa475/186808
+#EXTINF:-1 tvg-id="0" tvg-name="NOTICIAS | FRANCE 24" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/NOTICIAS/FRANCE24.png" group-title=" TV || NOTICIAS",NOTICIAS | FRANCE 24
+http://cincotv.org:25461/Fermand693/Toapa475/186809
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="TV || MEXICO",MX| CANAL 5
+http://cincotv.org:25461/Fermand693/Toapa475/186810
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA 7 " tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="TV || MEXICO",MX| AZTECA 7 
+http://cincotv.org:25461/Fermand693/Toapa475/186811
+#EXTINF:-1 tvg-id="" tvg-name="MX| GALA TV " tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="TV || MEXICO",MX| GALA TV 
+http://cincotv.org:25461/Fermand693/Toapa475/186812
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL ONCE " tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="TV || MEXICO",MX| CANAL ONCE 
+http://cincotv.org:25461/Fermand693/Toapa475/186813
+#EXTINF:-1 tvg-id="" tvg-name="MX| INGENIO TV " tvg-logo="https://static.epg.best/mx/IngenioTV.mx.png" group-title="TV || MEXICO",MX| INGENIO TV 
+http://cincotv.org:25461/Fermand693/Toapa475/186814
+#EXTINF:-1 tvg-id="" tvg-name="CORAZON " tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="TV || NOVELAS",CORAZON 
+http://cincotv.org:25461/Fermand693/Toapa475/186816
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA UNO FHD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="TV || MEXICO",MX| AZTECA UNO FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186817
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA INTERACIONAL HD" tvg-logo="http://miarea.vip:8080/images/c5654575b4ff37f9637df3e04e86738d.png" group-title="TV || MEXICO",MX| AZTECA INTERACIONAL HD
+http://cincotv.org:25461/Fermand693/Toapa475/186818
+#EXTINF:-1 tvg-id="" tvg-name="MX| IMAGEN TV" tvg-logo="http://miarea.vip:8080/images/f8bc7bb05f3275b810bfe807df15e42c.png" group-title="TV || MEXICO",MX| IMAGEN TV
+http://cincotv.org:25461/Fermand693/Toapa475/186819
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="MX| EL NUEVE HD" tvg-logo="http://miarea.vip:8080/images/f39000bb0ac7d3696fa6a302c6feec8e.png" group-title="TV || MEXICO",MX| EL NUEVE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186820
+
+#EXTINF:-1 tvg-id="" tvg-name="URU| VTV LOCAL FHD" tvg-logo="http://miarea.vip:8080/images/b83e0a7c39a2269a35077ef20174a3dc.png" group-title="TV || URUGUAY",URU| VTV LOCAL FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186833
+#EXTINF:-1 tvg-id="" tvg-name="URU| VTV PLUS HD*" tvg-logo="http://miarea.vip:8080/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV || URUGUAY",URU| VTV PLUS HD*
+http://cincotv.org:25461/Fermand693/Toapa475/186834
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 4   HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="TV || URUGUAY",URU| CANAL 4   HD
+http://cincotv.org:25461/Fermand693/Toapa475/186835
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 12 MELO HD" tvg-logo="http://miarea.vip:8080/images/45c46c28d5979c91a321dd1a60c4322a.png" group-title="TV || URUGUAY",URU| CANAL 12 MELO HD
+http://cincotv.org:25461/Fermand693/Toapa475/186836
+#EXTINF:-1 tvg-id="" tvg-name="URU| LA TELE HD" tvg-logo="http://miarea.vip:8080/images/974485d5939c79970df85684ce18e17c.png" group-title="TV || URUGUAY",URU| LA TELE HD
+http://cincotv.org:25461/Fermand693/Toapa475/186837
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 10 HD" tvg-logo="" group-title="TV || URUGUAY",URU| CANAL 10 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186838
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="TV || NOVELAS",PASIONES HD
+http://cincotv.org:25461/Fermand693/Toapa475/186839
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="TV || NOVELAS",RCN NOVELAS HD
+http://cincotv.org:25461/Fermand693/Toapa475/186840
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS FHD" tvg-logo="https://i.ibb.co/nmRS2HX/tnt-novelas.png" group-title="TV || NOVELAS",TNT NOVELAS FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186841
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS ᴴᴰ" tvg-logo="https://i.ibb.co/R7JtZLF/ut.png" group-title="TV || NOVELAS",UNIVISION TELENOVELAS ᴴᴰ
+http://cincotv.org:25461/Fermand693/Toapa475/186842
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13C " tvg-logo="https://static.epg.best/cl/13C.cl.png" group-title="TV || CHILE",CHILE | 13C 
+http://cincotv.org:25461/Fermand693/Toapa475/186843
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA " tvg-logo="https://static.epg.best/cl/Mega.cl.png" group-title="TV || CHILE",CHILE | MEGA 
+http://cincotv.org:25461/Fermand693/Toapa475/186849
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN " tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="TV || CHILE",CHILE | TVN 
+http://cincotv.org:25461/Fermand693/Toapa475/186850
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | THUNDERCATS" tvg-logo="https://i.ibb.co/TLKXzZJ/thundercats.png" group-title="TV || 24/7 INFANTILES",24/7 | THUNDERCATS
+http://cincotv.org:25461/Fermand693/Toapa475/186851
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BOB ESPONJA" tvg-logo="https://i.postimg.cc/HsDvFdhW/bob.png" group-title="TV || 24/7 INFANTILES",24/7 | BOB ESPONJA
+http://cincotv.org:25461/Fermand693/Toapa475/186852
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL GT" tvg-logo="https://i.ibb.co/RbSK1sc/gt.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL GT
+http://cincotv.org:25461/Fermand693/Toapa475/186853
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL Z " tvg-logo="https://i.ibb.co/7rrD3RB/dragon-frezzer.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL Z 
+http://cincotv.org:25461/Fermand693/Toapa475/186854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DORA LA EXPLORADORA" tvg-logo="https://i.ibb.co/171RJQF/dora.png" group-title="TV || 24/7 INFANTILES",24/7 | DORA LA EXPLORADORA
+http://cincotv.org:25461/Fermand693/Toapa475/186855
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEPPA PIG" tvg-logo="https://i.ibb.co/m92ZT9b/Peppa-Pig-Logo.png" group-title="TV || 24/7 INFANTILES",24/7 | PEPPA PIG
+http://cincotv.org:25461/Fermand693/Toapa475/186856
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GARFIELD Y SUS AMIGOS" tvg-logo="https://i.ibb.co/Cnh21qZ/garfield.png" group-title="TV || 24/7 INFANTILES",24/7 | GARFIELD Y SUS AMIGOS
+http://cincotv.org:25461/Fermand693/Toapa475/186857
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULIN COLORADO ANIMADO" tvg-logo="https://i.ibb.co/1KHxzQY/chapulin-animado.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAPULIN COLORADO ANIMADO
+http://cincotv.org:25461/Fermand693/Toapa475/186858
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/k32CM48/Dragon-Ball-Super.png" group-title="TV || 24/7 INFANTILES",24/7 | DRAGON BALL SUPER
+http://cincotv.org:25461/Fermand693/Toapa475/186859
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8" tvg-logo="https://i.ibb.co/LNDxTjG/chavo.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAVO DEL 8
+http://cincotv.org:25461/Fermand693/Toapa475/186860
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULIN COLORADO" tvg-logo="https://i.ibb.co/T8Nxb7H/chapulin.png" group-title="TV || 24/7 INFANTILES",24/7 | EL CHAPULIN COLORADO
+http://cincotv.org:25461/Fermand693/Toapa475/186861
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS CABALLEROS DEL ZODIACO" tvg-logo="https://i.ibb.co/pXt30T6/caballeros.png" group-title="TV || 24/7 INFANTILES",24/7 | LOS CABALLEROS DEL ZODIACO
+http://cincotv.org:25461/Fermand693/Toapa475/186862
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TOM Y JERRY" tvg-logo="https://i.ibb.co/RjtbS0W/tom.png" group-title="TV || 24/7 INFANTILES",24/7 | TOM Y JERRY
+http://cincotv.org:25461/Fermand693/Toapa475/186863
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALLS" tvg-logo="https://i.ibb.co/GvXnYXR/gravity.png" group-title="TV || 24/7 INFANTILES",24/7 | GRAVITY FALLS
+http://cincotv.org:25461/Fermand693/Toapa475/186864
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PINKY Y CEREBRO" tvg-logo="https://i.ibb.co/SQ7XNhh/pinky.png" group-title="TV || 24/7 INFANTILES",24/7 | PINKY Y CEREBRO
+http://cincotv.org:25461/Fermand693/Toapa475/186865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SUPER MARIO BROSS 3" tvg-logo="https://i.ibb.co/qDXL9YD/mario.png" group-title="TV || 24/7 INFANTILES",24/7 | SUPER MARIO BROSS 3
+http://cincotv.org:25461/Fermand693/Toapa475/186866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LAURA BOZZO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/laura-bozzo-png.png" group-title="TV || 24/7 SERIES",24/7 | LAURA BOZZO
+http://cincotv.org:25461/Fermand693/Toapa475/186867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR. BEAN" tvg-logo="https://i.ibb.co/gr5gVC6/bean.png" group-title="TV || 24/7 SERIES",24/7 MR. BEAN
+http://cincotv.org:25461/Fermand693/Toapa475/186868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS" tvg-logo="https://i.ibb.co/dMQ24v6/simpson.png" group-title="TV || 24/7 SERIES",24/7 LOS SIMPSONS
+http://cincotv.org:25461/Fermand693/Toapa475/186869
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOPS LOCOS ADDAMS" tvg-logo="https://i.ibb.co/sJSdhMH/locos.png" group-title="TV || 24/7 SERIES",24/7 LOPS LOCOS ADDAMS
+http://cincotv.org:25461/Fermand693/Toapa475/186870
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="TV || ESPAÑA",#VAMOS por M+ FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186871
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://i.imgur.com/VaClDXL.png" group-title="TV || ESPAÑA",ANTENA 3 HD
+http://cincotv.org:25461/Fermand693/Toapa475/186872
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD TV FHD" tvg-logo="http://xtitan.xyz:2082/images/0310df15b9612f7a3229359524c8a66f.png" group-title="TV || ESPAÑA",BEMAD TV FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186873
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING" tvg-logo="http://dnslivetv.online:80/images/VHqT2bqeUhPA-ofL2RZHZnoumugZFgT25-oGhDmDr-8CvSWI2huCqnEXB70v45EG-ccqzOXV-hxrV70_H0DjXg.png" group-title="TV || ESPAÑA",BOING
+http://cincotv.org:25461/Fermand693/Toapa475/186874
+#EXTINF:-1 tvg-id="PTV Malaga" tvg-name="CANAL MALAGA" tvg-logo="" group-title="TV || ESPAÑA",CANAL MALAGA
+http://cincotv.org:25461/Fermand693/Toapa475/186875
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="TV || ESPAÑA",CLAN
+http://cincotv.org:25461/Fermand693/Toapa475/186876
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TV || ESPAÑA",LA 2 SD
+http://cincotv.org:25461/Fermand693/Toapa475/186877
+#EXTINF:-1 tvg-id="0" tvg-name="LA SEXTA HD" tvg-logo="https://i.imgur.com/NPGAvjT.png" group-title="TV || ESPAÑA",LA SEXTA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186878
+#EXTINF:-1 tvg-id="0" tvg-name="MEGA HD" tvg-logo="http://xtitan.xyz:2082/images/d4faa708735bad60438d674c8d48ed67.png" group-title="TV || ESPAÑA",MEGA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186879
+#EXTINF:-1 tvg-id="0" tvg-name="MUNDO TOROS TV FHD" tvg-logo="https://i.ibb.co/VWKVHvb/logo-mundotoro-797.png" group-title="TV || ESPAÑA",MUNDO TOROS TV FHD
+http://cincotv.org:25461/Fermand693/Toapa475/186880
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HD" tvg-logo="" group-title="TV || ESPAÑA",NOVA HD
+http://cincotv.org:25461/Fermand693/Toapa475/186881
+#EXTINF:-1 tvg-id="0" tvg-name="TELECINCO HD" tvg-logo="http://xtitan.xyz:2082/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="TV || ESPAÑA",TELECINCO HD
+http://cincotv.org:25461/Fermand693/Toapa475/186882
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="TV || ESPAÑA",TVE INTERNACIONAL
+http://cincotv.org:25461/Fermand693/Toapa475/186883
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | GALAVISION MIAMI" tvg-logo="https://i.ibb.co/Q8TCJT7/galavision.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GALAVISION MIAMI
+http://cincotv.org:25461/Fermand693/Toapa475/186901
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO MIAMI" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO MIAMI
+http://cincotv.org:25461/Fermand693/Toapa475/186902
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO SAN FRANCISCO" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO SAN FRANCISCO
+http://cincotv.org:25461/Fermand693/Toapa475/186903
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO NEW YORK
+http://cincotv.org:25461/Fermand693/Toapa475/186904
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | UNIVISION CHICAGO" tvg-logo="https://i.ibb.co/SyDf5Lw/Univision-Chicago-200-px.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION CHICAGO
+http://cincotv.org:25461/Fermand693/Toapa475/186905
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV A vida moderna de Rocko " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV A vida moderna de Rocko 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Andrómeda " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Andrómeda 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Animé Acción " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Animé Acción 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Archivos Forenses" tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Archivos Forenses
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Archivos Forenses " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Archivos Forenses 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Asesinatos de Midsomer " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Asesinatos de Midsomer 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Aventura " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Aventura 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Bob Esponja " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Bob Esponja 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Bob Esponja Plus" tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Bob Esponja Plus
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Ciencia " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Ciencia 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Cine Suspenso (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Cine Suspenso (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Comedy Central Latino (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Comedy Central Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Comedy Central Latino " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Comedy Central Latino 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Competencias (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Competencias (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Curro Jiménez (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Curro Jiménez (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Deportes (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Dog el cazarrecompensas " tvg-logo="https://i.postimg.cc/NGp8BBjQ/pluto.png" group-title=" TV || PLUTO TV",Pluto TV Dog el cazarrecompensas 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV El Conquistador del Fin (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV El Conquistador del Fin (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV El Encantador de Perros (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV El Encantador de Perros (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV El Reino Infantil (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV El Reino Infantil (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Empeños a lo bestia (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Empeños a lo bestia (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Estrellas de Acción (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Historia (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Historia (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Historias de Ultratumba (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Historias de Ultratumba (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Hogar (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Hogar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Kenan y Kel (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Kenan y Kel (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV La Chica Invisible (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV La Chica Invisible (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Las Pistas de Blue (360p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Las Pistas de Blue (360p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Las reglas del juego (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Las reglas del juego (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Los archivos del FBI (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Los archivos del FBI (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Los archivos del FBI (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Los archivos del FBI (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Los nuevos detectives (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Los nuevos detectives (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Lucha Libre AAA (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Lucha Libre AAA (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Lucha Libre AAA (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Lucha Libre AAA (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Lucha Libre AAA (360p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Lucha Libre AAA (360p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Minuto Para Ganar (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Minuto Para Ganar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Misterios (480p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Misterios (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Misterios Medicos (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Misterios Medicos (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Misterios sin Resolver (480p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Misterios sin Resolver (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV (Mexico) (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV MTV (Mexico) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Embarazada a los 16 (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV MTV Embarazada a los 16 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV MTV Latino (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV MTV Latino (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV MTV Tattoo A Dos (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV MTV Tattoo A Dos (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Mundo (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Mundo (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Mundo (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Mundo (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Mutante X (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Mutante X (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Naturaleza (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Naturaleza (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Naturaleza (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Naturaleza (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Nick Clásico (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Nick Clásico (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Nick Latino (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Nick Latino (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Drama (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Drama (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Drama (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Dramas (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Dramas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Romance (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Romance (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Romance (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Romance (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Romance (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Romance (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Thriller (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Thriller (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Novelas Thriller (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Novelas Thriller (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Nuestra Vision (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Nuestra Vision (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Nuestra Vision (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Nuestra Vision (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Peleas (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Peleas (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Rugrats Crecidos (240p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Rugrats Crecidos (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Series Comedia (360p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Series Comedia (360p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Series Latinas (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Series Latinas (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Series Retro (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Series Retro (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Spike Aventura (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Spike Aventura (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d11baeb31c5a43b77bf59&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=950&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Spike Aventura (720p) [Not 24/7]" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Spike Aventura (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Telefe Clásico (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Telefe Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Telemundo Telenovelas (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Telemundo Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Telemundo Telenovelas (480p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Telemundo Telenovelas (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Turma da Mônica (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Turma da Mônica (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Vaya semanita (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Vaya semanita (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Velocidad​ (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Velocidad​ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="0" tvg-name="Pluto TV Viajes (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Pluto TV Viajes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-name="Spike Adventura (720p)" tvg-logo="" group-title=" TV || PLUTO TV",Spike Adventura (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH (LAT)" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="TV || DOCUMENTALES",DISCOVERY HOME & HEALTH (LAT)
+http://cincotv.org:25461/Fermand693/Toapa475/186991
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY HOME AND HEALTH (MEX)" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="TV || DOCUMENTALES",DISCOVERY HOME AND HEALTH (MEX)
+http://cincotv.org:25461/Fermand693/Toapa475/186992
+#EXTINF:-1 tvg-id="" tvg-name="COL | CNC MEDELLIN" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Canal-CNC-Barra-2.png" group-title="TV || COLOMBIA",COL | CNC MEDELLIN
+http://cincotv.org:25461/Fermand693/Toapa475/187001
+#EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
+http://cincotv.org:25461/Fermand693/Toapa475/187002
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="TV || COLOMBIA",COL | CANAL 2 CALI
+http://cincotv.org:25461/Fermand693/Toapa475/187003
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 8 TV+" tvg-logo="https://i.ibb.co/TMSj2Kd/88-m3u.png" group-title="TV || COLOMBIA",COL | CANAL 8 TV+
+http://cincotv.org:25461/Fermand693/Toapa475/187004
+#EXTINF:-1 tvg-id="" tvg-name="COL | MULTICANAL" tvg-logo="https://multicanaltvcali.com/wp-content/uploads/2018/07/multicanal.png" group-title="TV || COLOMBIA",COL | MULTICANAL
+http://cincotv.org:25461/Fermand693/Toapa475/187006
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN" tvg-logo="https://i.ibb.co/HgmVynZ/tm.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN
+http://cincotv.org:25461/Fermand693/Toapa475/187030
+#EXTINF:-1 tvg-id="0" tvg-name="Prensa Latina TV " tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2021/05/nombre-generico-prensa-latina-384x155.png" group-title="TV || CUBA",Prensa Latina TV 
+http://cincotv.org:25461/Fermand693/Toapa475/187034
+#EXTINF:-1 tvg-id="0" tvg-name="Radio y Televisión Martí " tvg-logo="https://i.ibb.co/5v9FN41/marti.png" group-title="TV || CUBA",Radio y Televisión Martí 
+http://cincotv.org:25461/Fermand693/Toapa475/187035
+
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (QUITO)" tvg-logo="https://americaestereo.com/images/logotipo%20america%20estereo%204.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (QUITO)
+http://cincotv.org:25461/Fermand693/Toapa475/187081
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (GUAYAQUIL) " tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (GUAYAQUIL) 
+http://cincotv.org:25461/Fermand693/Toapa475/187082
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (IBARRA)" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (IBARRA)
+http://cincotv.org:25461/Fermand693/Toapa475/187083
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (TULCAN)" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (TULCAN)
+http://cincotv.org:25461/Fermand693/Toapa475/187084
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ANTENA UNO RADIO VIDEO" tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logog.png" group-title="TV || ECUADOR",ECUADOR | ANTENA UNO RADIO VIDEO
+http://cincotv.org:25461/Fermand693/Toapa475/187085
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (LAT)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="TV || INFANTIL",CARTOON NETWORK (LAT)
+http://cincotv.org:25461/Fermand693/Toapa475/187265
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (LAT)" tvg-logo="https://i.ibb.co/QJPFN2P/cartoonito.png" group-title="TV || INFANTIL",CARTOONITO (LAT)
+http://cincotv.org:25461/Fermand693/Toapa475/187267
+#EXTINF:-1 tvg-id="0816" tvg-name="PREMIUM | HBO FAMILY" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO FAMILY
+http://cincotv.org:25461/Fermand693/Toapa475/187565
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIA" tvg-logo="https://sony-canal.com/themes/custom/responsive_sony_channel/logo.png" group-title="TV || CINE Y SERIES",SONY COMEDIA
+http://cincotv.org:25461/Fermand693/Toapa475/188810
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://i.ibb.co/238xDh4/SONY-NOVELAS.png" group-title="TV || NOVELAS",SONY NOVELAS
+http://cincotv.org:25461/Fermand693/Toapa475/188811
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | DURAN TV" tvg-logo="https://i.ibb.co/FsTdsTz/duran.png" group-title="TV || ECUADOR",ECUADOR | DURAN TV
+http://cincotv.org:25461/Fermand693/Toapa475/188840
+#EXTINF:-1 tvg-id="" tvg-name="BABYFIRST" tvg-logo="https://i.ibb.co/xH8KR8C/babyfirts.png" group-title="TV || INFANTIL",BABYFIRST
+http://cincotv.org:25461/Fermand693/Toapa475/188841
+#EXTINF:-1 tvg-id="0803" tvg-name="PREMIUM | PARAMOUNT" tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | PARAMOUNT
+http://cincotv.org:25461/Fermand693/Toapa475/188847
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="http://miarea.vip:8080/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="TV || CINE Y SERIES",CINE LATINO
+http://cincotv.org:25461/Fermand693/Toapa475/191821
+#EXTINF:-1 tvg-id="" tvg-name="GOGOPLAY TV" tvg-logo="https://i.ibb.co/LNzY783/GOGO.png" group-title="TV || INFANTIL",GOGOPLAY TV
+http://cincotv.org:25461/Fermand693/Toapa475/195303
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ENLACE HD" tvg-logo="https://i.ibb.co/6FPhC8Z/ENLACE.jpg" group-title="TV || RELIGION",RELIGION  | ENLACE HD
+http://cincotv.org:25461/Fermand693/Toapa475/195304
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="https://i.ibb.co/7S3s2w3/LOGO-RETRO-TV-ONLINE-NUEVO.png" group-title="TV || CINE Y SERIES",RETRO TV
+http://cincotv.org:25461/Fermand693/Toapa475/196959
+#EXTINF:-1 tvg-id="" tvg-name="RETROX TV" tvg-logo="https://i.ibb.co/SmwycbM/RETROX.png" group-title="TV || CINE Y SERIES",RETROX TV
+http://cincotv.org:25461/Fermand693/Toapa475/196960
+#EXTINF:-1 tvg-id="" tvg-name="FDF HD" tvg-logo="https://i.ibb.co/9bLn724/Fdf.png" group-title="TV || ESPAÑA",FDF HD
+http://cincotv.org:25461/Fermand693/Toapa475/197026
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine HD" tvg-logo="http://miarea.vip:8080/images/276f2d0c63b27c9605a6863cd9146980.png" group-title="TV || CINE Y SERIES",Ultra Cine HD
+http://cincotv.org:25461/Fermand693/Toapa475/226539
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico HD" tvg-logo="http://miarea.vip:8080/images/d80a12df734b69198a6a1f45a7c4eac6.png" group-title="TV || CINE Y SERIES",Ultra Clasico HD
+http://cincotv.org:25461/Fermand693/Toapa475/226540
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Docu HD" tvg-logo="http://miarea.vip:8080/images/1e10ab86627913d8678af0fc68e0f50b.png" group-title="TV || DOCUMENTALES",Ultra Docu HD
+http://cincotv.org:25461/Fermand693/Toapa475/226541
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia HD" tvg-logo="http://miarea.vip:8080/images/abc47a0170f42ff8fccfee4b2c641bae.png" group-title="TV || CINE Y SERIES",Ultra Familia HD
+http://cincotv.org:25461/Fermand693/Toapa475/226542
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz HD" tvg-logo="http://miarea.vip:8080/images/1315c18ae353d5e757737e8b1785a302.png" group-title="TV || INFANTIL",Ultra Kidz HD
+http://cincotv.org:25461/Fermand693/Toapa475/226543
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho HD" tvg-logo="http://miarea.vip:8080/images/aedd7b3ebaebbf3dcd79734685a37385.png" group-title="TV || CINE Y SERIES",Ultra Macho HD
+http://cincotv.org:25461/Fermand693/Toapa475/226544
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex HD" tvg-logo="http://miarea.vip:8080/images/a6085afb09acfeaf1eeb3813b0c9e89f.png" group-title="TV || CINE Y SERIES",Ultra Mex HD
 
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
