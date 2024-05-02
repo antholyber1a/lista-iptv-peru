@@ -10,7 +10,7 @@ https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419ef
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
-http://cincotv.org:25461/Fermand693/Toapa475/186822
+http://10.10.40.4/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png", Panamericana
 http://cincotv.org:25461/Fermand693/Toapa475/186827
