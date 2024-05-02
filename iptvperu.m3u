@@ -69,6 +69,127 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+#EXTINF:0,AZTECA 7 HD
+#EXTGRP:NACIONALES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10322.m3u8
+#EXTINF:0,AZTECA UNO HD
+#EXTGRP:NACIONALES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10323.m3u8
+#EXTINF:0,CANAL 5
+#EXTGRP:NACIONALES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10321.m3u8
+#EXTINF:0,LAS ESTRELLAS HD
+#EXTGRP:NACIONALES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10320.m3u8
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:INFANTILES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10295.m3u8
+#EXTINF:0,CARTOONITO HD
+#EXTGRP:INFANTILES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10296.m3u8
+#EXTINF:0,DISNEY CHANEL HD
+#EXTGRP:INFANTILES
+reamig
+#EXTINF:0,DISNEY JR HD
+#EXTGRP:INFANTILES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10297.m3u8
+#EXTINF:0,TOONCAST HD
+#EXTGRP:INFANTILES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10300.m3u8
+#EXTINF:0,DISCOVERY KITS
+#EXTGRP:INFANTILES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10301.m3u8
+#EXTINF:0,NICK JR HD
+#EXTGRP:INFANTILES
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10299.m3u8
+#EXTINF:0,CINEMAX HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10275.m3u8
+#EXTINF:0,CLARO CINEMA HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10292.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10293.m3u8
+#EXTINF:0,DE PELICULA HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10291.m3u8
+#EXTINF:0,DISCOVERY CHANEL HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10302.m3u8
+#EXTINF:0,FX HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10289.m3u8
+#EXTINF:0,GOLDEN EDGE HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10278.m3u8
+#EXTINF:0,GOLDEN HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10277.m3u8
+#EXTINF:0,HBO 2 HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10280.m3u8
+#EXTINF:0,HBO FAMILY HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10282.m3u8
+#EXTINF:0,HBO HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10279.m3u8
+#EXTINF:0,HBO PLUS HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10281.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10305.m3u8
+#EXTINF:0,PARAMOUNT HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10276.m3u8
+#EXTINF:0,SONY HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10283.m3u8
+#EXTINF:0,SPACE HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10269.m3u8
+#EXTINF:0,STAR CHANNEL HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10273.m3u8
+#EXTINF:0,STUDIO UIVERSAL HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10270.m3u8
+#EXTINF:0,TCM HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10290.m3u8
+#EXTINF:0,TNT HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10272.m3u8
+#EXTINF:0,TNT SERIES
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10271.m3u8
+#EXTINF:0,UNIVERSAL CINEMA
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10287.m3u8
+#EXTINF:0,UNIVERSAL COMEDY HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10288.m3u8
+#EXTINF:0,UNIVERSAL PREMIER HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10286.m3u8
+#EXTINF:0,UNIVERSAL TV HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10285.m3u8
+#EXTINF:0,WARNER CHANNEL HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10284.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10303.m3u8
+#EXTINF:0,DISTRITO COMEDIA HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10294.m3u8
+#EXTINF:0,HISTORY HD
+#EXTGRP:PREMIUM
+https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10304.m3u8
+
 #EXTINF:-1 tvg-id="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="Musica",Mundo de la Musica TV
 https://tv.streaming-chile.com:19360/mundodelamusicatv/mundodelamusicatv.m3u8
 
