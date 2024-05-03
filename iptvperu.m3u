@@ -286,20 +286,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/24301
 #EXTINF:-1 tvg-id="I501.10240.zap2it.com" tvg-name="PREMIUM | HBO HD (LATINO)" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD (LAT)
 http://cincotv.org:25461/Fermand693/Toapa475/24302
 
-#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 11" tvg-logo="http://miarea.vip:8080/images/c9a4c6a93c929d40ca5da28d43d7be19.png" group-title="TV || COSTA RICA",C. Rica - Repretel 11
-http://cincotv.org:25461/Fermand693/Toapa475/24387
-
-#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="TV || COSTA RICA",C. Rica - Repretel 4
-http://cincotv.org:25461/Fermand693/Toapa475/24388
-
-#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Teletica 7 HD" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="TV || COSTA RICA",C. Rica - Teletica 7 HD
-http://cincotv.org:25461/Fermand693/Toapa475/24391
-
-#EXTINF:-1 tvg-id="" tvg-name="C. Rica - FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="TV || COSTA RICA",C. Rica - FUTV
-http://cincotv.org:25461/Fermand693/Toapa475/24392
-
-#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Tigo Sport" tvg-logo="" group-title="TV || COSTA RICA",C. Rica - Tigo Sport
-http://cincotv.org:25461/Fermand693/Toapa475/24393
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY PIXAR 1 HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE DISNEY PIXAR 1 HD
 http://cincotv.org:25461/Fermand693/Toapa475/24490
@@ -309,15 +295,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/24495
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL ANIMADO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="TV || 24/7 CINE",CINE MARVEL ANIMADO HD
 http://cincotv.org:25461/Fermand693/Toapa475/24496
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN | CANAL i" tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2023/02/Logo-Canal-I-para-la-Web-151-x-99-1.png" group-title="TV || VENEZUELA", CANAL i (VEN)
-http://cincotv.org:25461/Fermand693/Toapa475/24583
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN | TELEVEN" tvg-logo="https://envivo.televen.com/images/logo-televen.png" group-title="TV || VENEZUELA",VEN | TELEVEN
-http://cincotv.org:25461/Fermand693/Toapa475/24591
-
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL TRECE
-http://cincotv.org:25461/Fermand693/Toapa475/24598
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://i.ibb.co/zPtzGV0/chespirito.png" group-title="TV || 24/7 INFANTILES",24/7 | CHESPIRITO
 http://cincotv.org:25461/Fermand693/Toapa475/25154
@@ -355,36 +332,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/25196
 #EXTINF:-1 tvg-id="I294.67749.zap2it.com" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.ibb.co/KxKcG07/Discovery-Familia.png" group-title="TV || DOCUMENTALES",DISCOVERY FAMILIA
 http://cincotv.org:25461/Fermand693/Toapa475/25197
 
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| UNIVERSAL KIDS HD" tvg-logo="http://miarea.vip:8080/images/49f955c3658a4d6a0b5f128e3f0bf0d0.png" group-title=" TV || KIDS (USA)",KIDS| UNIVERSAL KIDS HD
-http://cincotv.org:25461/Fermand693/Toapa475/25201
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| PBS KIDS HD" tvg-logo="http://miarea.vip:8080/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title=" TV || KIDS (USA)",KIDS| PBS KIDS HD
-http://cincotv.org:25461/Fermand693/Toapa475/25202
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title=" TV || KIDS (USA)",KIDS| NICKELODEON HD
-http://cincotv.org:25461/Fermand693/Toapa475/25203
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY JR HD" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY JR HD
-http://cincotv.org:25461/Fermand693/Toapa475/25204
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK JR HD" tvg-logo="http://miarea.vip:8080/images/dbe20313e007928ef4e9990347a2e424.png" group-title=" TV || KIDS (USA)",KIDS| NICK JR HD
-http://cincotv.org:25461/Fermand693/Toapa475/25205
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| TEEN NICK HD" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title=" TV || KIDS (USA)",KIDS| TEEN NICK HD
-http://cincotv.org:25461/Fermand693/Toapa475/25206
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| BOOMERANG HD" tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title=" TV || KIDS (USA)",KIDS| BOOMERANG HD
-http://cincotv.org:25461/Fermand693/Toapa475/25207
-
-#EXTINF:-1 tvg-id="I292.18279.zap2it.com" tvg-name="KIDS| DISNEY XD PACIFICO HD" tvg-logo="http://miarea.vip:8080/images/88d38d7e606f3407449091e3f3349861.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY XD PACIFICO HD
-http://cincotv.org:25461/Fermand693/Toapa475/25208
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY CHANNEL HD
-http://cincotv.org:25461/Fermand693/Toapa475/25210
-
-#EXTINF:-1 tvg-id="" tvg-name="KIDS| CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/0rZ8WWg/pngegg-2.png" group-title=" TV || KIDS (USA)",KIDS| CARTOON NETWORK HD
-http://cincotv.org:25461/Fermand693/Toapa475/25211
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | RT Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | RT Noticias
 http://cincotv.org:25461/Fermand693/Toapa475/25513
 
@@ -403,66 +350,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/25795
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ROCKY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rocky_Logo.svg/1200px-Rocky_Logo.svg.png" group-title="TV || 24/7 CINE",24/7 ROCKY
 http://cincotv.org:25461/Fermand693/Toapa475/26339
 
-#EXTINF:-1 tvg-id="" tvg-name="VEN | NUBEH TV" tvg-logo="https://www.nubeh.tv/nubehtv.png" group-title="TV || VENEZUELA",VEN | NUBEH TV
-http://cincotv.org:25461/Fermand693/Toapa475/26621
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN | OXIGENO NETWORK" tvg-logo="https://oxigenonetwork.com.ve/img/logooxca.png" group-title="TV || VENEZUELA",VEN | OXIGENO NETWORK
-http://cincotv.org:25461/Fermand693/Toapa475/26622
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN | PANAVISION" tvg-logo="http://www.panavision.tv/panavisiontv.png" group-title="TV || VENEZUELA",VEN | PANAVISION
-http://cincotv.org:25461/Fermand693/Toapa475/26623
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN | PROMAR TV" tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="TV || VENEZUELA",VEN | PROMAR TV
-http://cincotv.org:25461/Fermand693/Toapa475/26625
-
-#EXTINF:-1 tvg-id="" tvg-name="VEN | VENEVISION" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="TV || VENEZUELA",VEN | VENEVISION
-http://cincotv.org:25461/Fermand693/Toapa475/26628
-
-#EXTINF:-1 tvg-id="" tvg-name="URU| LATINO KIDS TV" tvg-logo="https://i.ibb.co/64NHFHw/Latino.png" group-title="TV || URUGUAY",URU| LATINO KIDS TV
-http://cincotv.org:25461/Fermand693/Toapa475/26633
-
-#EXTINF:-1 tvg-id="" tvg-name="URU| UCL TELEVISION LATAM " tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal-2048x1229.png" group-title="TV || URUGUAY",URU| UCL TELEVISION LATAM 
-http://cincotv.org:25461/Fermand693/Toapa475/26634
-
-#EXTINF:-1 tvg-id="" tvg-name="URU| LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="TV || URUGUAY",URU| LA RED
-http://cincotv.org:25461/Fermand693/Toapa475/26637
-
-#EXTINF:-1 tvg-id="" tvg-name="URU| TV FLORIDA HD" tvg-logo="https://i.ibb.co/WyjR6xF/FLOREIDA.png" group-title="TV || URUGUAY",URU| TV FLORIDA HD
-http://cincotv.org:25461/Fermand693/Toapa475/26638
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | ABC TV" tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="TV || PARAGUAY",PY | ABC TV
-http://cincotv.org:25461/Fermand693/Toapa475/26648
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | ESTACION CRISTAL" tvg-logo="https://i.ibb.co/wgCmpqC/ESTACION-CRISTAL.png" group-title="TV || PARAGUAY",PY | ESTACION CRISTAL
-http://cincotv.org:25461/Fermand693/Toapa475/26651
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | FRUTILLAR TV" tvg-logo="https://olzamultimedios.com.py/wp-content/uploads/2023/07/ftv.png" group-title="TV || PARAGUAY",PY | FRUTILLAR TV
-http://cincotv.org:25461/Fermand693/Toapa475/26652
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | Mi TV " tvg-logo="https://i.ibb.co/R4rRYpX/MITV.png" group-title="TV || PARAGUAY",PY | Mi TV 
-http://cincotv.org:25461/Fermand693/Toapa475/26653
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | RCC TV" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-mobile-rcc.png" group-title="TV || PARAGUAY",PY | RCC TV
-http://cincotv.org:25461/Fermand693/Toapa475/26654
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | SOMOS DEL ESTE TV" tvg-logo="https://i.ibb.co/L87rTqj/SOMOS.png" group-title="TV || PARAGUAY",PY | SOMOS DEL ESTE TV
-http://cincotv.org:25461/Fermand693/Toapa475/26655
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="TV || PARAGUAY",PY | SUCESO TV
-http://cincotv.org:25461/Fermand693/Toapa475/26656
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | UNICANAL" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="TV || PARAGUAY",PY | UNICANAL
-http://cincotv.org:25461/Fermand693/Toapa475/26657
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | UNIRADIO TV" tvg-logo="https://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980.png" group-title="TV || PARAGUAY",PY | UNIRADIO TV
-http://cincotv.org:25461/Fermand693/Toapa475/26658
-
-#EXTINF:-1 tvg-id="" tvg-name="Arg | Canal 10 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="TV || ARGENTINA",Arg | Canal 10 
-http://cincotv.org:25461/Fermand693/Toapa475/26659
-
-#EXTINF:-1 tvg-id="" tvg-name="Arg | Canal 22 Buenos Aires " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png" group-title="TV || ARGENTINA",Arg | Canal 22 Buenos Aires 
-http://cincotv.org:25461/Fermand693/Toapa475/26661
-
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | TELEFORMULA" tvg-logo="https://i.ibb.co/dMLcSz6/unnamed.png" group-title=" TV || NOTICIAS",NOTICIAS | TELEFORMULA
 http://cincotv.org:25461/Fermand693/Toapa475/27618
 
@@ -471,30 +358,6 @@ http://cincotv.org:25461/Fermand693/Toapa475/28069
 
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLENOVELAS HD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS HD
 http://cincotv.org:25461/Fermand693/Toapa475/28420
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="TV || PARAGUAY",PY | GEN TV 
-http://cincotv.org:25461/Fermand693/Toapa475/53464
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | LA TELE " tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="TV || PARAGUAY",PY | LA TELE 
-http://cincotv.org:25461/Fermand693/Toapa475/53465
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | TRECE " tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="TV || PARAGUAY",PY | TRECE 
-http://cincotv.org:25461/Fermand693/Toapa475/53467
-
-#EXTINF:-1 tvg-id="" tvg-name="PY | SNT" tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="TV || PARAGUAY",PY | SNT
-http://cincotv.org:25461/Fermand693/Toapa475/53468
-
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | HOSANNA VISION" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="TV || PANAMA",PANAMA | HOSANNA VISION
-http://cincotv.org:25461/Fermand693/Toapa475/53471
-
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA| NEX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nexnew.png/132px-Nexnew.png" group-title="TV || PANAMA",PANAMA| NEX TV
-http://cincotv.org:25461/Fermand693/Toapa475/53472
-
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | RPC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpc-tv-pa.png" group-title="TV || PANAMA",PANAMA | RPC
-http://cincotv.org:25461/Fermand693/Toapa475/53473
-
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TELEMETRO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemetro.png" group-title="TV || PANAMA",PANAMA | TELEMETRO
-http://cincotv.org:25461/Fermand693/Toapa475/53474
 
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVMAX " tvg-logo="http://miarea.vip:8080/images/32b5e0e8fdf88d376f6a00602bd41cb8.png" group-title="TV || PANAMA",PANAMA | TVMAX 
 http://cincotv.org:25461/Fermand693/Toapa475/53475
