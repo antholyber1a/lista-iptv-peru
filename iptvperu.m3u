@@ -28,10 +28,10 @@ http://cincotv.org:25461/Fermand693/Toapa475/81983
 https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png" group-title="General",ATV Sur (480p)
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/720p.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (720p)
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/720p.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/120px-Global_logo_2019.png" group-title="General",GLOBAL TV (SD)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1584173715&_cdn_timestamp=1701923027&_cdn_token=9b9e3813f5f559e7164873cbdb3a7efcfeb8a1ad
