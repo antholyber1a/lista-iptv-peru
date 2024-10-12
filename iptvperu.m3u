@@ -81,88 +81,473 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,TR: TRT 1 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/229
-#EXTINF:-1,TR: TRT 1 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/214
-#EXTINF:-1,TR: ATV HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/231
-#EXTINF:-1,TR: ATV HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/217
-#EXTINF:-1,TR: STAR TV HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/232
-#EXTINF:-1,TR: STAR TV HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/224
-#EXTINF:-1,TR: SHOW TV HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/233
-#EXTINF:-1,TR: SHOW TV HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/223
-#EXTINF:-1,TR: KANAL D HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/230
-#EXTINF:-1,TR: KANAL D HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/225
-#EXTINF:-1,TR: FOX/NOW TV HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/234
-#EXTINF:-1,TR: FOX/NOW TV HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/218
-#EXTINF:-1,TR: TV 8 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/251
-#EXTINF:-1,TR: Tv 8 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/221
-#EXTINF:-1,TR: TV 8.5 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/222
-#EXTINF:-1,TR: TV 8,5 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/212
-#EXTINF:-1,TR: BEYAZ TV HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/237
-#EXTINF:-1,TR: BEYAZ TV HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/219
-#EXTINF:-1,TR: TEVE 2 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/257
-#EXTINF:-1,TR: TEVE 2 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/226
-#EXTINF:-1,TR: A2 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/227
-#EXTINF:-1,TR: A2 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/216
-#EXTINF:-1,TR: KANAL 7 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/238
-#EXTINF:-1,TR: KANAL 7 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/220
-#EXTINF:-1,TR: KANAL 7 AVRUPA
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/70887
-#EXTINF:-1,TR: 360 Tv HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/254
-#EXTINF:-1,TR: TGRT EU
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/110477
-#EXTINF:-1,TR: TV 8 INT
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/242
-#EXTINF:-1,TR: TV 4 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/258
-#EXTINF:-1,TR: ATV AVRUPA
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/240
-#EXTINF:-1,TR: SHOW TURK
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/209141
-#EXTINF:-1,TR: SHOW MAX
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/239
-#EXTINF:-1,TR: EURO STAR
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/241
-#EXTINF:-1,TR: EURO D
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/213
-#EXTINF:-1,TR: TRT 2 HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/215
-#EXTINF:-1,TR: TRT AVAZ HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/110475
-#EXTINF:-1,TR: TRT TURK HD+
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/110478
-#EXTINF:-1,TR: TRT EBA ILKOKUL
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/53899
-#EXTINF:-1,TR: TRT EBA ORTAOKUL
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/53900
-#EXTINF:-1,TR: TRT 4K
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/244
-#EXTINF:-1,TR: TRT 4K 2160P
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/245
+#EXTINF:0,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH67
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0ft
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH63
+#EXTINF:0,ATRES SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH125
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH34
+#EXTINF:0,Adult Swim HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH155
+#EXTINF:0,America TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH153
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fh
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH83
+#EXTINF:0,BLU Radio
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0cz
+#EXTINF:0,CARACOL HD 2
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH142
+#EXTINF:0,CARACOL TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0eq
+#EXTINF:0,CHV HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH121
+#EXTINF:0,CITYTV
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH180
+#EXTINF:0,CNN Chile HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH102
+#EXTINF:0,CableNoticias
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH109
+#EXTINF:0,Canal  Capital
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fd
+#EXTINF:0,Canal 1 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH6
+#EXTINF:0,Canal 13
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH150
+#EXTINF:0,Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH119
+#EXTINF:0,Canal 24 Horas HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH106
+#EXTINF:0,Canal Institucional
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0f8
+#EXTINF:0,Canal Institucional HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH9
+#EXTINF:0,Canal TRO
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fb
+#EXTINF:0,Caracol
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0f9
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH70
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH33
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH57
+#EXTINF:0,Clover HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0bh
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fp
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH50
+#EXTINF:0,Cristovisiðn
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fl
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH51
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH138
+#EXTINF:0,De Pel#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH65
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fi
+#EXTINF:0,Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH89
+#EXTINF:0,Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH79
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH80
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0ff
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH71
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH86
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH90
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH84
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH141
+#EXTINF:0,Disney HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH72
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH130
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH18
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0bi
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0au
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH19
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH147
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fm
+#EXTINF:0,ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH28
+#EXTINF:0,ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH24
+#EXTINF:0,ESPN EXTRA HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH21
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0bm
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0a9
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH17
+#EXTINF:0,El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0by
+#EXTINF:0,El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH131
+#EXTINF:0,Enlace
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fk
+#EXTINF:0,Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fu
+#EXTINF:0,FOX Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH23
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH38
+#EXTINF:0,Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fj
+#EXTINF:0,Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH144
+#EXTINF:0,Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH22
+#EXTINF:0,GOLPERU HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH30
+#EXTINF:0,Globovision
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH120
+#EXTINF:0,GolTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH32
+#EXTINF:0,Golden HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH47
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH146
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH41
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH44
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH40
+#EXTINF:0,HBO MUNDI
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH68
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH58
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH37
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH154
+#EXTINF:0,HOLA TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH123
+#EXTINF:0,HTV
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH95
+#EXTINF:0,History 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH78
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH1
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH85
+#EXTINF:0,Kanal D Drama HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0ev
+#EXTINF:0,LA FM RADIO
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0dg
+#EXTINF:0,LA KALLE
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH152
+#EXTINF:0,LA MEGA
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/lamega
+#EXTINF:0,La Red HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH122
+#EXTINF:0,Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0bz
+#EXTINF:0,Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH112
+#EXTINF:0,Latina HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH129
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH117
+#EXTINF:0,Lolly Kids HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH76
+#EXTINF:0,Love Nature HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH82
+#EXTINF:0,MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH126
+#EXTINF:0,MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH151
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH96
+#EXTINF:0,MTV LIVE HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH94
+#EXTINF:0,Movistar Deportes HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH149
+#EXTINF:0,Movistar TV
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0f6
+#EXTINF:0,NTN 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH108
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH75
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fw
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH81
+#EXTINF:0,Nick HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH73
+#EXTINF:0,Nick Music
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fe
+#EXTINF:0,Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH11
+#EXTINF:0,Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH64
+#EXTINF:0,Pasiones
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fr
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH111
+#EXTINF:0,Playboy HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH53
+#EXTINF:0,RCN
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0f0
+#EXTINF:0,RCN HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0er
+#EXTINF:0,RCN HD 2
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/RCNHD2
+#EXTINF:0,RCN LA RADIO
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/112255
+#EXTINF:0,RCN RADIO UNO
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0dm
+#EXTINF:0,STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fq
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0bj
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH2
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH54
+#EXTINF:0,STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH55
+#EXTINF:0,STAR TVE HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH128
+#EXTINF:0,Seæal Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0br
+#EXTINF:0,Señal Colombia HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH5
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH48
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH42
+#EXTINF:0,Stingray Concerts HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH107
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH69
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH36
+#EXTINF:0,Sun Channel
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0c7
+#EXTINF:0,Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH113
+#EXTINF:0,TELEANTIOQUIA
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH166
+#EXTINF:0,TLT
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0bq
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fs
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH39
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a05i
+#EXTINF:0,TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fn
+#EXTINF:0,TNT SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH25
+#EXTINF:0,TNT SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH139
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH35
+#EXTINF:0,TV+ HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH145
+#EXTINF:0,TVN HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH143
+#EXTINF:0,Telecafe
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fc
+#EXTINF:0,Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fa
+#EXTINF:0,TelefØ
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0c3
+#EXTINF:0,Televen
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0f7
+#EXTINF:0,TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0ah
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH46
+#EXTINF:0,Unknown
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fg
+#EXTINF:0,Unknown
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a061
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH61
+#EXTINF:0,Win Sports
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/a0fo
+#EXTINF:0,Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH16
+#EXTINF:0,Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://181.205.77.118:4849/play/CH14
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
