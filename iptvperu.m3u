@@ -49,7 +49,7 @@ https://ntv.pe/salida/nativa.m3u8
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="pbo.pe" tvg-logo="https://pbo.pe/wp-content/uploads/2022/11/pbo.png" group-title="News",PBO (720p)
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1539007603&_cdn_timestamp=1701300283&_cdn_token=41f1778c7822c436b8120d301c0fb03da80600f5
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="General",USIL TV (720p)
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
