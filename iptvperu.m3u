@@ -60,8 +60,28 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV (HD)
 http://10.10.40.4/tmp_hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV
+#EXTINF:-1 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac)
+https://live-evg21.tv360.bitel.com.pe/p/3179/live/agrotvlive.m3u8
+
+#EXTINF:-1 tvg-id="funbox.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11054_7_26311.png.66425c566cf6581040ffbc1553e15791.png" group-title="KIDS",FunBox
+https://live-evg25.tv360.bitel.com.pe/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="soltvperu.com" tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="Undefined",Sol TV
+https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="telelima.pe" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="MUSICA",TELELIMA HD
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2 TV (Lima)
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTE",Ovacion TV HD
+https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
+
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -243,7 +263,7 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtvenvivo.com/tv-en-vivo/onda-digital-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c619eb44474af2dc9df71538979c2f9.webp" group-title="General",Onda Digital Tv (480p)
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p)
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV HD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PaxTV.pe" tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="Religious",Pax TV
