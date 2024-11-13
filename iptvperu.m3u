@@ -277,7 +277,7 @@ http://181.205.77.118:4849/play/CH146
 #EXTINF:0,HBO 2 HD
 http://181.205.77.118:4849/play/CH41
 #EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=10000
 http://181.205.77.118:4849/play/CH44
 #EXTINF:0,HBO HD
 http://181.205.77.118:4849/play/CH40
