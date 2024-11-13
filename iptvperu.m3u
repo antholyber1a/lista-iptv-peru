@@ -88,43 +88,29 @@ http://181.205.77.118:4849/play/CH67
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0ft
 #EXTINF:0,AMC HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH63
-#EXTINF:0,ATRES SERIES HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH125
+
 #EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH34
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
 #EXTINF:0,Adult Swim HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH155
 #EXTINF:0,America TV HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH153
 #EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0fh
 #EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH83
 #EXTINF:0,BLU Radio
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0cz
 #EXTINF:0,CARACOL HD 2
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH142
 #EXTINF:0,CARACOL TV HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0eq
 #EXTINF:0,CHV HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH121
 #EXTINF:0,CITYTV
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH180
 #EXTINF:0,CNN Chile HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH102
 #EXTINF:0,CableNoticias
 #EXTVLCOPT:network-caching=1000
@@ -189,10 +175,8 @@ http://181.205.77.118:4849/play/CH65
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0fi
 #EXTINF:0,Discovery H&H HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH89
 #EXTINF:0,Discovery H&H HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH79
 #EXTINF:0,Discovery HD
 #EXTVLCOPT:network-caching=1000
@@ -297,10 +281,8 @@ http://181.205.77.118:4849/play/CH32
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH47
 #EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH146
 #EXTINF:0,HBO 2 HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH41
 #EXTINF:0,HBO Family HD
 #EXTVLCOPT:network-caching=1000
