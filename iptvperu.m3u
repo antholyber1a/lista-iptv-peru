@@ -203,22 +203,16 @@ http://181.205.77.118:4849/play/CH141
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH72
 #EXTINF:0,E! HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH130
 #EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH18
 #EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0bi
 #EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0au
 #EXTINF:0,ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH19
 #EXTINF:0,ESPN 4 HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH147
 #EXTINF:0,ESPN 5
 #EXTVLCOPT:network-caching=1000
@@ -285,13 +279,10 @@ http://181.205.77.118:4849/play/CH146
 #EXTINF:0,HBO 2 HD
 http://181.205.77.118:4849/play/CH41
 #EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH44
 #EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH40
 #EXTINF:0,HBO MUNDI
-#EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH68
 #EXTINF:0,HBO POP HD
 #EXTVLCOPT:network-caching=1000
