@@ -81,17 +81,15 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,AXN HD
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
 #EXTINF:0,A&E HD
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH67
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0ft
-#EXTINF:0,AMC HD
-
-#EXTINF:0,AXN HD
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
 #EXTINF:0,Adult Swim HD
 http://181.205.77.118:4849/play/CH155
 #EXTINF:0,America TV HD
@@ -279,7 +277,7 @@ http://181.205.77.118:4849/play/CH146
 #EXTINF:0,HBO 2 HD
 http://181.205.77.118:4849/play/CH41
 #EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:network-caching=100
 http://181.205.77.118:4849/play/CH44
 #EXTINF:0,HBO HD
 http://181.205.77.118:4849/play/CH40
