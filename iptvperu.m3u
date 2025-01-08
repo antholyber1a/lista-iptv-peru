@@ -31,7 +31,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 https://d3r5ioyjqcy69v.cloudfront.net/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias HD
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="willax.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="General",WILLAX HD
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
