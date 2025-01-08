@@ -78,6 +78,9 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Ug9I7kpYGYaIGCobs6096bdTfBgT8jMBQ&s" group-title="PELICULAS",FMH Movies
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/03/BITT-CHANNEL-LOGO_blancov2-1024x418.png" group-title="MUSICA",BITT TV
+https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
+
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA",TOP LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
