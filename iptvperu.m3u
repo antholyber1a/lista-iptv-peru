@@ -75,6 +75,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_sour
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA",TOP LATINO
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTE",Ovacion TV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 
