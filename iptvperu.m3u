@@ -87,6 +87,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p)
 https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557_640_360.png" group-title="DOCUMENTAL",SUMAC TV
+https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTE",Ovacion TV HD
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 
