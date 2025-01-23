@@ -99,6 +99,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 #EXTINF:-1 tvg-id="BETHEL.pe" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="RELIGIOSO",Bethel TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 
+#EXTINF:-1 tvg-id="SANTAROSATV.pe" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2022/11/rsr_logo-1.jpg" group-title="MUSICA",Santa Rosa
+https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
+
 #EXTINF:0,AXN HD
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:0,MAX ANIME
