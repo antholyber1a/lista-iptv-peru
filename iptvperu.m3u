@@ -108,18 +108,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/20/03/1724098142168/76e0e78082aa_480_270.jpg" group-title="MUSICA",Folklore TV
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_source/chunks.m3u8
 
-https://live-evg25.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
-
-https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
-
-https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
-
-https://live-evg25.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
-
-https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/mono.m3u8
-
-https://live-evg25.tv360.bitel.com.pe/bitel/rumbatv/chunks.m3u8
-
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://liketv.pe/wp-content/uploads/2024/12/Logo-con-Circulo-Naranja-Like-Tv.png" group-title="MUSICA",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 
