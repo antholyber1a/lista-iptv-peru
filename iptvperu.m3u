@@ -102,6 +102,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunk
 #EXTINF:-1 tvg-id="SANTAROSATV.pe" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2022/11/rsr_logo-1.jpg" group-title="MUSICA",Santa Rosa
 https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
 
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png" group-title="General",TV NORTE
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
 
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_source/chunks.m3u8
