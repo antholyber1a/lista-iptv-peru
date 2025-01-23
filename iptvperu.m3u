@@ -105,6 +105,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
 #EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png" group-title="General",TV NORTE
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
 
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/20/03/1724098142168/76e0e78082aa_480_270.jpg" group-title="MUSICA",Folklore TV
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_source/chunks.m3u8
 
 https://live-evg25.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
