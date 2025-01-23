@@ -84,6 +84,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA",TOP LATINO
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="VARIADO",LATELE
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvViJX_BK3Ez9Y5wnR7zjubeiQ2F9s1wcxQA&s" group-title="AGRO",CTV TV
@@ -92,7 +93,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557_640_360.png" group-title="DOCUMENTAL",SUMAC TV
 https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTE",Ovacion TV HD
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTE",Ovacion TV
 https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BETHEL.pe" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="RELIGIOSO",Bethel TV
