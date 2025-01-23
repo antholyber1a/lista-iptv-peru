@@ -111,6 +111,16 @@ https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_sour
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://liketv.pe/wp-content/uploads/2024/12/Logo-con-Circulo-Naranja-Like-Tv.png" group-title="MUSICA",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/25/03/1716583821856/57bd933ed445_480_270.jpgg" group-title="General",RCR
+https://live-evg25.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_480_270.png" group-title="General",Milenial TV
+https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829622590/e721b791ce56_480_270.png" group-title="General",INKA VISION
+https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV
 https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
 
