@@ -136,6 +136,15 @@ https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829622590/e721b791ce56_480_270.png" group-title="General",INKA VISION
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/12/23/1739377906627/c42db8bb14de_480_270.png" group-title="General",ANDINO TV (HUARAZ)
+https://live-evg25.tv360.bitel.com.pe/bitel/andinotv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/11/02/1739217436655/fa393d3df009_480_270.png" group-title="General",HOY PERU TV (CAJAMARCA)
+https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828211471/67c4d4fd8b8e_480_270.png" group-title="General",MEGA TV (PASCO)
+https://live-evg25.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV
 https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
 
