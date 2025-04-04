@@ -7,7 +7,7 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD (720p)
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV
 https://live-evg4.tv360.bitel.com.pe/ULCBVp1wqS8Ta8uVetQyYg/1743813972/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
@@ -98,6 +98,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BETHEL.pe" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="RELIGIOSO",Bethel TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://tvone.pe/tvone.png" group-title="Musica",TV ONE HD
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SANTAROSATV.pe" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2022/11/rsr_logo-1.jpg" group-title="MUSICA",Santa Rosa
 https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
