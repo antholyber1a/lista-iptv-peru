@@ -123,6 +123,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png" group-title="Musica",PIURA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/22/1740065337888/40da0f082d58_480_270.png" group-title="Musica",ANDINA TV (AYACUCHO)
+https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/25/03/1716583821856/57bd933ed445_480_270.jpgg" group-title="General",RCR
 https://live-evg25.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
 
