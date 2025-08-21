@@ -58,7 +58,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TV.com" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/PequeRadio-TV-en-DIRECTO-Online-.png" group-title="ANIME TV",PEQUE TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="funbox.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11054_7_26311.png.66425c566cf6581040ffbc1553e15791.png" group-title="KIDS",FunBox
 https://live-evg25.tv360.bitel.com.pe/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8
@@ -126,8 +126,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/22/1740065337888/40da0f082d58_480_270.png" group-title="Musica",ANDINA TV (AYACUCHO)
 https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/25/03/1716583821856/57bd933ed445_480_270.jpgg" group-title="General",RCR
-https://live-evg25.tv360.bitel.com.pe/bitel/rcr/chunks.m3u8
+
+https://live-evg25.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
+
+https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_480_270.png" group-title="General",Milenial TV
 https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
