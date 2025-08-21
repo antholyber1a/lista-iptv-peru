@@ -55,7 +55,7 @@ https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FMH Kids.pe" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="ANIME",FMH Kids
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TV.com" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/PequeRadio-TV-en-DIRECTO-Online-.png" group-title="ANIME TV",PEQUE TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -76,7 +76,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_sour
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Ug9I7kpYGYaIGCobs6096bdTfBgT8jMBQ&s" group-title="PELICULAS",FMH Movies
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/chunks.m3u8
 
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/03/BITT-CHANNEL-LOGO_blancov2-1024x418.png" group-title="MUSICA",BITT TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
