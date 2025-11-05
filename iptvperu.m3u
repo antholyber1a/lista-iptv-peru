@@ -582,5 +582,11 @@ https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 #EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musica",Retro TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cumo.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/09/04/06/893ee123/893ee123-5451-4a1a-908d-b7a5db65f49a_360_540.jpg" group-title="Wester",El Hobbit: Un viaje inesperado
+#EXTINF:-1 tvg-id="cumo.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/09/04/06/893ee123/893ee123-5451-4a1a-908d-b7a5db65f49a_360_540.jpg" group-title="Pelicula",El Hobbit: Un viaje inesperado
 https://vod-evg1.tv360.bitel.com.pe/T2F3VBlF6GSzuF8OZEghtw/1762319460/peru-video/2025/09/03/20/5ad5980e/5ad5980e-d4e4-47a8-bb6d-c782c205c10d_5_.m3u8
+
+#EXTINF:-1 tvg-id="cumo.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/09/05/08/3d6ded87/3d6ded87-1304-4535-846a-a8890fbe0533_360_540.jpg" group-title="Pelicula",El Hobbit: La desolación de Smaug
+https://vod-evg1.tv360.bitel.com.pe/XY9Sx8GdGmYVobSiiSoxEQ/1762320480/peru-video/2025/09/04/20/0a160e4a/0a160e4a-62d6-4d7d-9c64-3b0e20e3fbc1_5_.m3u8
+
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Pelicula",El Hobbit: La batalla de los cinco ejércitos
+https://vod-evg1.tv360.bitel.com.pe/VeM2vubreLCpwxYOf4xasQ/1762320180/peru-video/2025/09/04/14/039c34a9/039c34a9-c4bc-467d-81e4-9c4b123b0be1_5_.m3u8
