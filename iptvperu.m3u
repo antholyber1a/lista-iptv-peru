@@ -106,7 +106,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bethel/chunks.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/03/1738096310625/1853316008ae_480_270.png" group-title="Musica",N CANAL HD
-https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="Musica",CreoTV (Cajamarca)
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8
