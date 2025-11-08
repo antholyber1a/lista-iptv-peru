@@ -19,7 +19,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (480p)
-https://live-evg5.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Peru | anime" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/1751295673567/6fb8c332464c_480_270.png" group-title="Anima Kids",Anima Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
