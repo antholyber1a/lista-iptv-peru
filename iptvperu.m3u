@@ -66,8 +66,11 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunk
 #EXTINF:-1 tvg-id="TV.com" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/PequeRadio-TV-en-DIRECTO-Online-.png" group-title="ANIME TV",PEQUE TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="funbox.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11054_7_26311.png.66425c566cf6581040ffbc1553e15791.png" group-title="KIDS",FunBox
-https://live-evg25.tv360.bitel.com.pe/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="funbox.com" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/03/02/1767382390888/17d422917cf9_480_270.png" group-title="KIDS",Creo Kids
+https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="funbox.com" tvg-logo="https://reminiapkk.com/wp-content/uploads/2025/10/Portal-Foxmix-Chile.webp" group-title="MUSICA",Portal Foxmix
+https://panel.tvstream.cl:1936/8040/8040/.m3u8
 
 #EXTINF:-1 tvg-id="soltvperu.com" tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="Undefined",Sol TV
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
