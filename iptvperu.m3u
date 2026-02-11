@@ -129,11 +129,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/22/1740065337888/40da0f082d58_480_270.png" group-title="Musica",ANDINA TV (AYACUCHO)
 https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://reminiapkk.com/wp-content/uploads/2025/10/NET-Channel-Peru-1.webp" group-title="General",NET Channel 
 https://media.streambrothers.com:19360/8158/8158.m3u8
-
-https://live-evg25.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
-
-https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_480_270.png" group-title="General",Milenial TV
 https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
