@@ -51,6 +51,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://reminiapkk.com/wp-content/uploads/2025/10/NET-Channel-Peru-1.webp" group-title="General",NET Channel 
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
+https://scl.edge.grupoz.cl/retroplustvuno/live/.m3u8
+
 #EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="General",USIL TV
 https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
 
@@ -531,9 +534,6 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 
 #EXTINF:-1 tvg-id="Wtv.pe" tvg-logo="https://i.imgur.com/V10iVeh.png" group-title="General",Wtv (720p)
 https://live.obslivestream.com/wtv/index.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1081887482.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1846257259.m3u8
