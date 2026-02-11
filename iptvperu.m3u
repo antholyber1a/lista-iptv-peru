@@ -51,6 +51,13 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://reminiapkk.com/wp-content/uploads/2025/10/NET-Channel-Peru-1.webp" group-title="General",NET Channel 
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://reminiapkk.com/wp-content/uploads/2025/10/star.webp" group-title="General",Star Channel
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://reminiapkk.com/wp-content/uploads/2025/10/ESPN-2.webp" group-title="General",ESPN 2
+https://d1cctoeg0n48w5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/c20f3bc7-3b51-4a18-8d69-59b94816865c/1.m3u8
+
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
 https://scl.edge.grupoz.cl/retroplustvuno/live/.m3u8
 
